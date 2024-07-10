@@ -1,0 +1,1801 @@
+Yıl,Ay,Gün,Tarih,İşlem Türü,Tutar,Harcama Kategorisi,Açıklama,Şehir
+2024,Ocak,10,2024-01-10,Ulaşım,300.25,Restoran,Cafe,İstanbul
+2024,Ocak,16,2024-01-16,Fatura Ödemesi,107.05,Fatura Ödemesi,İnternet,İzmir
+2024,Ocak,4,2024-01-04,Alışveriş,419.35,Ulaşım,Taksi,Ankara
+2024,Ocak,14,2024-01-14,Alışveriş,177.07,ATM,ATM Çekimi,İzmir
+2024,Ocak,1,2024-01-01,Alışveriş,89.08,ATM,ATM Çekimi,İstanbul
+2024,Ocak,10,2024-01-10,Ulaşım,45.63,Restoran,Pizza,Ankara
+2024,Ocak,8,2024-01-08,Ulaşım,56.23,Fatura Ödemesi,İnternet,Ankara
+2024,Ocak,23,2024-01-23,ATM Çekimi,329.18,Market,Migros,Ankara
+2024,Ocak,30,2024-01-30,Alışveriş,372.44,ATM,ATM Çekimi,İzmir
+2024,Ocak,18,2024-01-18,Restoran,89.25,ATM,ATM Çekimi,İzmir
+2024,Ocak,18,2024-01-18,Fatura Ödemesi,16.85,ATM,ATM Çekimi,İzmir
+2024,Ocak,4,2024-01-04,Fatura Ödemesi,12.71,Ulaşım,Taksi,İzmir
+2024,Ocak,11,2024-01-11,Restoran,363.96,Market,Migros,Ankara
+2024,Ocak,26,2024-01-26,Fatura Ödemesi,241.48,Restoran,Pizza,İzmir
+2024,Ocak,3,2024-01-03,ATM Çekimi,225.36,Market,BIM,Ankara
+2024,Ocak,21,2024-01-21,Restoran,270.07,Market,Migros,İstanbul
+2024,Ocak,1,2024-01-01,ATM Çekimi,362.27,Ulaşım,Tren,İzmir
+2024,Ocak,4,2024-01-04,Restoran,360.32,Ulaşım,Taksi,İzmir
+2024,Ocak,7,2024-01-07,Fatura Ödemesi,460.49,ATM,ATM Çekimi,İzmir
+2024,Ocak,27,2024-01-27,Fatura Ödemesi,418.75,Ulaşım,Tren,İzmir
+2024,Ocak,6,2024-01-06,Fatura Ödemesi,150.59,Market,Migros,İzmir
+2024,Ocak,27,2024-01-27,ATM Çekimi,193.76,ATM,ATM Çekimi,Ankara
+2024,Ocak,20,2024-01-20,Alışveriş,96.66,Fatura Ödemesi,İnternet,İstanbul
+2024,Ocak,22,2024-01-22,Ulaşım,180.15,ATM,ATM Çekimi,İstanbul
+2024,Ocak,16,2024-01-16,ATM Çekimi,351.24,Ulaşım,Tren,İzmir
+2024,Ocak,31,2024-01-31,Fatura Ödemesi,98.55,Fatura Ödemesi,İnternet,İstanbul
+2024,Ocak,24,2024-01-24,Restoran,458.78,ATM,ATM Çekimi,İzmir
+2024,Ocak,27,2024-01-27,Fatura Ödemesi,78.1,Ulaşım,Tren,İstanbul
+2024,Ocak,20,2024-01-20,Restoran,220.2,Market,Migros,İstanbul
+2024,Ocak,2,2024-01-02,Ulaşım,94.33,Fatura Ödemesi,Su,İstanbul
+2024,Ocak,24,2024-01-24,Alışveriş,105.36,ATM,ATM Çekimi,İzmir
+2024,Ocak,24,2024-01-24,Fatura Ödemesi,12.98,Ulaşım,Tren,İzmir
+2024,Ocak,22,2024-01-22,ATM Çekimi,366.25,Market,Carrefour,Ankara
+2024,Ocak,29,2024-01-29,Restoran,138.76,Ulaşım,Taksi,İstanbul
+2024,Ocak,27,2024-01-27,Fatura Ödemesi,271.11,Restoran,Cafe,İstanbul
+2024,Ocak,2,2024-01-02,Ulaşım,50.81,Fatura Ödemesi,Su,İstanbul
+2024,Ocak,19,2024-01-19,Alışveriş,473.38,ATM,ATM Çekimi,İstanbul
+2024,Ocak,9,2024-01-09,Restoran,442.74,Ulaşım,Tren,İstanbul
+2024,Ocak,17,2024-01-17,Fatura Ödemesi,69.93,Restoran,Pizza,İzmir
+2024,Ocak,14,2024-01-14,Fatura Ödemesi,221.76,Ulaşım,Otobüs,Ankara
+2024,Ocak,15,2024-01-15,ATM Çekimi,364.37,Fatura Ödemesi,İnternet,İstanbul
+2024,Ocak,21,2024-01-21,Restoran,259.29,Restoran,Pizza,Ankara
+2024,Ocak,15,2024-01-15,Restoran,297.53,Market,Carrefour,Ankara
+2024,Ocak,15,2024-01-15,Fatura Ödemesi,383.93,ATM,ATM Çekimi,İzmir
+2024,Ocak,7,2024-01-07,Restoran,57.3,Market,Carrefour,İstanbul
+2024,Ocak,11,2024-01-11,ATM Çekimi,465.77,Restoran,Kebapçı,İstanbul
+2024,Ocak,10,2024-01-10,Alışveriş,499.1,Ulaşım,Tren,Ankara
+2024,Ocak,17,2024-01-17,Ulaşım,379.22,Restoran,Cafe,Ankara
+2024,Ocak,27,2024-01-27,Fatura Ödemesi,420.13,ATM,ATM Çekimi,İzmir
+2024,Ocak,10,2024-01-10,Fatura Ödemesi,72.47,Restoran,Kebapçı,İstanbul
+2024,Ocak,2,2024-01-02,Alışveriş,332.89,ATM,ATM Çekimi,Ankara
+2024,Ocak,9,2024-01-09,Fatura Ödemesi,309.49,Restoran,Cafe,Ankara
+2024,Ocak,16,2024-01-16,Fatura Ödemesi,274.68,Ulaşım,Taksi,İstanbul
+2024,Ocak,8,2024-01-08,ATM Çekimi,363.97,Restoran,Pizza,Ankara
+2024,Ocak,10,2024-01-10,Ulaşım,374.59,Fatura Ödemesi,Elektrik,İstanbul
+2024,Ocak,9,2024-01-09,ATM Çekimi,85.0,Fatura Ödemesi,İnternet,Ankara
+2024,Ocak,6,2024-01-06,Restoran,487.84,ATM,ATM Çekimi,İstanbul
+2024,Ocak,5,2024-01-05,Restoran,10.68,ATM,ATM Çekimi,Ankara
+2024,Ocak,11,2024-01-11,Fatura Ödemesi,445.29,Fatura Ödemesi,İnternet,Ankara
+2024,Ocak,7,2024-01-07,Restoran,329.0,ATM,ATM Çekimi,Ankara
+2024,Ocak,9,2024-01-09,Alışveriş,147.32,ATM,ATM Çekimi,İstanbul
+2024,Ocak,21,2024-01-21,ATM Çekimi,466.11,Market,BIM,İstanbul
+2024,Ocak,24,2024-01-24,Ulaşım,317.61,Market,Migros,İzmir
+2024,Ocak,11,2024-01-11,ATM Çekimi,230.89,ATM,ATM Çekimi,İstanbul
+2024,Ocak,7,2024-01-07,Alışveriş,462.1,Market,Carrefour,İstanbul
+2024,Ocak,8,2024-01-08,Fatura Ödemesi,48.34,Restoran,Cafe,Ankara
+2024,Ocak,8,2024-01-08,Ulaşım,445.69,ATM,ATM Çekimi,İstanbul
+2024,Ocak,6,2024-01-06,ATM Çekimi,250.76,ATM,ATM Çekimi,İzmir
+2024,Ocak,14,2024-01-14,Fatura Ödemesi,207.65,Restoran,Cafe,İzmir
+2024,Ocak,27,2024-01-27,Restoran,290.9,Market,Migros,İzmir
+2024,Ocak,6,2024-01-06,Ulaşım,299.45,Fatura Ödemesi,Elektrik,Ankara
+2024,Ocak,16,2024-01-16,ATM Çekimi,151.66,ATM,ATM Çekimi,İzmir
+2024,Ocak,2,2024-01-02,ATM Çekimi,200.79,Restoran,Cafe,Ankara
+2024,Ocak,7,2024-01-07,ATM Çekimi,425.72,Ulaşım,Taksi,İzmir
+2024,Ocak,17,2024-01-17,Fatura Ödemesi,494.82,ATM,ATM Çekimi,Ankara
+2024,Ocak,15,2024-01-15,Restoran,444.8,ATM,ATM Çekimi,İstanbul
+2024,Ocak,31,2024-01-31,Restoran,387.15,Market,Migros,İzmir
+2024,Ocak,18,2024-01-18,Restoran,274.4,Fatura Ödemesi,Su,Ankara
+2024,Ocak,23,2024-01-23,Alışveriş,225.92,Ulaşım,Taksi,Ankara
+2024,Ocak,22,2024-01-22,Fatura Ödemesi,200.89,Fatura Ödemesi,İnternet,İstanbul
+2024,Ocak,3,2024-01-03,Fatura Ödemesi,57.8,ATM,ATM Çekimi,İzmir
+2024,Ocak,25,2024-01-25,ATM Çekimi,118.54,Ulaşım,Taksi,İzmir
+2024,Ocak,14,2024-01-14,Alışveriş,170.2,ATM,ATM Çekimi,İstanbul
+2024,Ocak,11,2024-01-11,Restoran,391.85,Ulaşım,Taksi,İstanbul
+2024,Ocak,4,2024-01-04,Ulaşım,466.49,ATM,ATM Çekimi,Ankara
+2024,Ocak,26,2024-01-26,Restoran,23.45,ATM,ATM Çekimi,İzmir
+2024,Ocak,14,2024-01-14,ATM Çekimi,430.11,ATM,ATM Çekimi,İstanbul
+2024,Ocak,5,2024-01-05,Restoran,386.48,Market,Migros,İzmir
+2024,Ocak,5,2024-01-05,Fatura Ödemesi,202.56,Market,BIM,İstanbul
+2024,Ocak,6,2024-01-06,Alışveriş,245.39,ATM,ATM Çekimi,Ankara
+2024,Ocak,13,2024-01-13,Alışveriş,19.7,Ulaşım,Otobüs,İstanbul
+2024,Ocak,3,2024-01-03,Restoran,395.6,ATM,ATM Çekimi,İstanbul
+2024,Ocak,3,2024-01-03,ATM Çekimi,84.1,Ulaşım,Tren,Ankara
+2024,Ocak,20,2024-01-20,Ulaşım,345.46,Ulaşım,Taksi,İstanbul
+2024,Ocak,28,2024-01-28,Restoran,257.43,Market,Carrefour,İzmir
+2024,Ocak,3,2024-01-03,Fatura Ödemesi,272.93,Fatura Ödemesi,Elektrik,İzmir
+2024,Ocak,2,2024-01-02,ATM Çekimi,324.54,Fatura Ödemesi,Su,İzmir
+2024,Ocak,16,2024-01-16,Alışveriş,349.66,ATM,ATM Çekimi,İstanbul
+2024,Ocak,28,2024-01-28,Alışveriş,445.25,Ulaşım,Taksi,İstanbul
+2024,Ocak,26,2024-01-26,Alışveriş,33.65,Fatura Ödemesi,Su,İzmir
+2024,Ocak,15,2024-01-15,ATM Çekimi,387.02,Ulaşım,Taksi,İstanbul
+2024,Ocak,6,2024-01-06,Alışveriş,489.27,ATM,ATM Çekimi,İstanbul
+2024,Ocak,12,2024-01-12,Alışveriş,72.02,Restoran,Kebapçı,Ankara
+2024,Ocak,8,2024-01-08,ATM Çekimi,169.72,Fatura Ödemesi,İnternet,İzmir
+2024,Ocak,17,2024-01-17,Fatura Ödemesi,349.89,Fatura Ödemesi,İnternet,İzmir
+2024,Ocak,20,2024-01-20,Alışveriş,293.33,Fatura Ödemesi,Su,İzmir
+2024,Ocak,31,2024-01-31,Restoran,51.73,Market,Carrefour,Ankara
+2024,Ocak,21,2024-01-21,Alışveriş,106.34,Restoran,Kebapçı,İstanbul
+2024,Ocak,24,2024-01-24,Alışveriş,283.14,Restoran,Kebapçı,Ankara
+2024,Ocak,3,2024-01-03,Restoran,338.63,Market,BIM,İstanbul
+2024,Ocak,22,2024-01-22,Ulaşım,320.35,Fatura Ödemesi,Su,İzmir
+2024,Ocak,7,2024-01-07,ATM Çekimi,467.42,Restoran,Kebapçı,Ankara
+2024,Ocak,21,2024-01-21,Fatura Ödemesi,487.88,Fatura Ödemesi,Su,İzmir
+2024,Ocak,1,2024-01-01,ATM Çekimi,401.31,Market,BIM,Ankara
+2024,Ocak,27,2024-01-27,Restoran,225.26,Ulaşım,Otobüs,İstanbul
+2024,Ocak,22,2024-01-22,ATM Çekimi,51.93,Fatura Ödemesi,Elektrik,İzmir
+2024,Ocak,4,2024-01-04,Fatura Ödemesi,95.41,Market,Migros,Ankara
+2024,Ocak,17,2024-01-17,Ulaşım,474.26,Market,Migros,Ankara
+2024,Ocak,15,2024-01-15,Alışveriş,477.42,Fatura Ödemesi,Elektrik,İstanbul
+2024,Ocak,25,2024-01-25,Alışveriş,412.43,Fatura Ödemesi,İnternet,İzmir
+2024,Ocak,30,2024-01-30,Fatura Ödemesi,158.67,Ulaşım,Taksi,Ankara
+2024,Ocak,11,2024-01-11,ATM Çekimi,484.34,ATM,ATM Çekimi,İstanbul
+2024,Ocak,3,2024-01-03,Fatura Ödemesi,434.15,ATM,ATM Çekimi,İstanbul
+2024,Ocak,21,2024-01-21,Ulaşım,131.2,Market,Carrefour,İstanbul
+2024,Ocak,3,2024-01-03,Fatura Ödemesi,270.72,Fatura Ödemesi,Su,İstanbul
+2024,Ocak,28,2024-01-28,Fatura Ödemesi,234.52,Restoran,Kebapçı,Ankara
+2024,Ocak,5,2024-01-05,ATM Çekimi,394.22,ATM,ATM Çekimi,Ankara
+2024,Ocak,24,2024-01-24,Alışveriş,52.88,Market,Migros,İzmir
+2024,Ocak,25,2024-01-25,Restoran,394.23,Market,Migros,İstanbul
+2024,Ocak,25,2024-01-25,Fatura Ödemesi,21.9,ATM,ATM Çekimi,Ankara
+2024,Ocak,30,2024-01-30,Restoran,335.92,Restoran,Pizza,Ankara
+2024,Ocak,8,2024-01-08,Ulaşım,456.55,Market,Carrefour,İzmir
+2024,Ocak,14,2024-01-14,ATM Çekimi,149.32,ATM,ATM Çekimi,Ankara
+2024,Ocak,26,2024-01-26,ATM Çekimi,213.16,Ulaşım,Tren,İzmir
+2024,Ocak,26,2024-01-26,ATM Çekimi,317.62,ATM,ATM Çekimi,İstanbul
+2024,Ocak,21,2024-01-21,Restoran,196.04,ATM,ATM Çekimi,Ankara
+2024,Ocak,16,2024-01-16,Ulaşım,347.12,Market,Carrefour,İstanbul
+2024,Ocak,13,2024-01-13,ATM Çekimi,17.71,Fatura Ödemesi,Elektrik,İzmir
+2024,Ocak,25,2024-01-25,ATM Çekimi,133.66,ATM,ATM Çekimi,İstanbul
+2024,Ocak,10,2024-01-10,Fatura Ödemesi,95.77,Restoran,Pizza,İstanbul
+2024,Ocak,9,2024-01-09,Fatura Ödemesi,381.66,Market,BIM,İzmir
+2024,Ocak,28,2024-01-28,Ulaşım,110.44,Fatura Ödemesi,İnternet,İzmir
+2024,Ocak,25,2024-01-25,Alışveriş,381.99,ATM,ATM Çekimi,Ankara
+2024,Ocak,5,2024-01-05,Ulaşım,412.44,Ulaşım,Tren,İzmir
+2024,Ocak,11,2024-01-11,Ulaşım,198.0,Restoran,Pizza,İstanbul
+2024,Ocak,21,2024-01-21,Ulaşım,353.95,Restoran,Cafe,Ankara
+2024,Ocak,26,2024-01-26,Fatura Ödemesi,471.46,ATM,ATM Çekimi,İstanbul
+2024,Ocak,21,2024-01-21,Fatura Ödemesi,208.22,Restoran,Kebapçı,İzmir
+2024,Ocak,3,2024-01-03,Restoran,292.43,Restoran,Cafe,İzmir
+2024,Ocak,28,2024-01-28,Restoran,202.22,Ulaşım,Taksi,Ankara
+2024,Ocak,20,2024-01-20,Alışveriş,165.32,Market,Carrefour,İstanbul
+2024,Ocak,28,2024-01-28,Ulaşım,419.84,Restoran,Pizza,Ankara
+2024,Ocak,10,2024-01-10,Ulaşım,380.81,Restoran,Cafe,Ankara
+2024,Ocak,8,2024-01-08,Ulaşım,475.41,Fatura Ödemesi,Su,İstanbul
+2024,Ocak,2,2024-01-02,Alışveriş,245.55,Ulaşım,Otobüs,İstanbul
+2024,Ocak,24,2024-01-24,Ulaşım,104.11,Fatura Ödemesi,Elektrik,İzmir
+2024,Ocak,1,2024-01-01,Restoran,422.94,ATM,ATM Çekimi,İzmir
+2024,Ocak,3,2024-01-03,Ulaşım,90.5,Ulaşım,Tren,İstanbul
+2024,Ocak,20,2024-01-20,Alışveriş,435.7,Fatura Ödemesi,Elektrik,İstanbul
+2024,Ocak,29,2024-01-29,Alışveriş,141.89,ATM,ATM Çekimi,İzmir
+2024,Ocak,19,2024-01-19,Ulaşım,41.96,ATM,ATM Çekimi,İzmir
+2024,Ocak,4,2024-01-04,Ulaşım,197.4,Market,Carrefour,İzmir
+2024,Ocak,31,2024-01-31,Alışveriş,229.92,Market,BIM,Ankara
+2024,Ocak,11,2024-01-11,Ulaşım,11.82,Market,Carrefour,İzmir
+2024,Ocak,25,2024-01-25,Alışveriş,117.17,Restoran,Pizza,Ankara
+2024,Ocak,23,2024-01-23,ATM Çekimi,135.31,Ulaşım,Tren,İzmir
+2024,Ocak,8,2024-01-08,Fatura Ödemesi,189.17,Ulaşım,Otobüs,Ankara
+2024,Ocak,18,2024-01-18,Ulaşım,470.67,Market,BIM,İstanbul
+2024,Ocak,31,2024-01-31,Fatura Ödemesi,461.74,Fatura Ödemesi,Elektrik,İstanbul
+2024,Ocak,17,2024-01-17,Ulaşım,225.09,Ulaşım,Tren,İstanbul
+2024,Ocak,18,2024-01-18,ATM Çekimi,499.38,Restoran,Cafe,Ankara
+2024,Ocak,13,2024-01-13,ATM Çekimi,415.64,ATM,ATM Çekimi,Ankara
+2024,Ocak,16,2024-01-16,Fatura Ödemesi,23.47,Restoran,Kebapçı,İstanbul
+2024,Ocak,1,2024-01-01,Alışveriş,365.54,Restoran,Pizza,İzmir
+2024,Ocak,20,2024-01-20,ATM Çekimi,286.79,ATM,ATM Çekimi,İzmir
+2024,Ocak,13,2024-01-13,Alışveriş,281.29,ATM,ATM Çekimi,İzmir
+2024,Ocak,21,2024-01-21,Ulaşım,151.64,ATM,ATM Çekimi,Ankara
+2024,Ocak,7,2024-01-07,Ulaşım,480.07,ATM,ATM Çekimi,Ankara
+2024,Ocak,25,2024-01-25,Fatura Ödemesi,379.91,ATM,ATM Çekimi,İstanbul
+2024,Ocak,30,2024-01-30,ATM Çekimi,46.97,Restoran,Cafe,İstanbul
+2024,Ocak,21,2024-01-21,Ulaşım,258.11,Ulaşım,Tren,Ankara
+2024,Ocak,19,2024-01-19,Alışveriş,160.46,Market,Migros,İstanbul
+2024,Ocak,30,2024-01-30,Fatura Ödemesi,365.35,Market,BIM,İstanbul
+2024,Ocak,12,2024-01-12,Fatura Ödemesi,374.32,Restoran,Pizza,Ankara
+2024,Ocak,31,2024-01-31,Alışveriş,438.03,Restoran,Pizza,İstanbul
+2024,Ocak,28,2024-01-28,Restoran,306.64,Fatura Ödemesi,Elektrik,İstanbul
+2024,Ocak,27,2024-01-27,Fatura Ödemesi,206.72,ATM,ATM Çekimi,İstanbul
+2024,Ocak,15,2024-01-15,Ulaşım,255.01,Ulaşım,Otobüs,İstanbul
+2024,Ocak,26,2024-01-26,Fatura Ödemesi,213.21,ATM,ATM Çekimi,İstanbul
+2024,Ocak,21,2024-01-21,Alışveriş,46.68,Fatura Ödemesi,Su,İstanbul
+2024,Ocak,21,2024-01-21,Fatura Ödemesi,176.81,Market,BIM,Ankara
+2024,Ocak,20,2024-01-20,ATM Çekimi,254.81,Restoran,Kebapçı,Ankara
+2024,Ocak,20,2024-01-20,Restoran,294.28,Fatura Ödemesi,İnternet,İzmir
+2024,Ocak,8,2024-01-08,Restoran,213.26,Ulaşım,Otobüs,Ankara
+2024,Ocak,14,2024-01-14,Alışveriş,271.53,Ulaşım,Tren,İstanbul
+2024,Ocak,14,2024-01-14,Fatura Ödemesi,211.88,Fatura Ödemesi,Elektrik,Ankara
+2024,Ocak,17,2024-01-17,Fatura Ödemesi,28.61,ATM,ATM Çekimi,Ankara
+2024,Ocak,4,2024-01-04,Ulaşım,136.53,Restoran,Pizza,Ankara
+2024,Ocak,31,2024-01-31,Alışveriş,487.15,Fatura Ödemesi,Elektrik,İstanbul
+2024,Ocak,18,2024-01-18,ATM Çekimi,419.1,Market,BIM,Ankara
+2024,Ocak,17,2024-01-17,Alışveriş,175.29,Fatura Ödemesi,Elektrik,Ankara
+2024,Ocak,28,2024-01-28,Fatura Ödemesi,481.28,Market,Carrefour,İzmir
+2024,Ocak,11,2024-01-11,Restoran,427.37,Ulaşım,Tren,İzmir
+2024,Ocak,13,2024-01-13,Ulaşım,18.41,Fatura Ödemesi,Elektrik,Ankara
+2024,Ocak,7,2024-01-07,ATM Çekimi,431.57,Restoran,Pizza,İzmir
+2024,Ocak,2,2024-01-02,Ulaşım,33.99,ATM,ATM Çekimi,İstanbul
+2024,Ocak,9,2024-01-09,Restoran,271.17,Market,Migros,İzmir
+2024,Ocak,13,2024-01-13,Alışveriş,169.49,Ulaşım,Tren,İzmir
+2024,Ocak,26,2024-01-26,ATM Çekimi,403.73,Restoran,Pizza,İzmir
+2024,Ocak,17,2024-01-17,Alışveriş,382.26,Restoran,Pizza,İstanbul
+2024,Ocak,31,2024-01-31,ATM Çekimi,209.53,ATM,ATM Çekimi,İzmir
+2024,Ocak,7,2024-01-07,Alışveriş,469.88,ATM,ATM Çekimi,Ankara
+2024,Ocak,20,2024-01-20,Restoran,323.45,Restoran,Kebapçı,İstanbul
+2024,Ocak,30,2024-01-30,Restoran,437.33,Restoran,Pizza,Ankara
+2024,Ocak,14,2024-01-14,ATM Çekimi,101.69,ATM,ATM Çekimi,İzmir
+2024,Ocak,26,2024-01-26,Ulaşım,290.24,ATM,ATM Çekimi,İzmir
+2024,Ocak,30,2024-01-30,Fatura Ödemesi,386.3,Market,BIM,Ankara
+2024,Ocak,25,2024-01-25,Alışveriş,127.25,Restoran,Pizza,Ankara
+2024,Ocak,13,2024-01-13,Fatura Ödemesi,179.16,Market,BIM,İstanbul
+2024,Ocak,21,2024-01-21,Ulaşım,215.87,Market,Migros,Ankara
+2024,Ocak,21,2024-01-21,Restoran,313.7,Restoran,Cafe,İzmir
+2024,Ocak,26,2024-01-26,Fatura Ödemesi,445.16,Market,Carrefour,İzmir
+2024,Ocak,7,2024-01-07,Fatura Ödemesi,396.16,Fatura Ödemesi,İnternet,Ankara
+2024,Ocak,17,2024-01-17,ATM Çekimi,164.43,ATM,ATM Çekimi,İzmir
+2024,Ocak,21,2024-01-21,Restoran,85.53,Restoran,Kebapçı,İzmir
+2024,Ocak,21,2024-01-21,Restoran,387.72,Fatura Ödemesi,Su,Ankara
+2024,Ocak,23,2024-01-23,Fatura Ödemesi,40.23,Restoran,Pizza,İzmir
+2024,Ocak,14,2024-01-14,Restoran,242.57,Fatura Ödemesi,Elektrik,İzmir
+2024,Ocak,4,2024-01-04,Fatura Ödemesi,175.02,Market,Migros,İstanbul
+2024,Ocak,24,2024-01-24,Ulaşım,132.24,ATM,ATM Çekimi,İzmir
+2024,Ocak,7,2024-01-07,Alışveriş,392.86,ATM,ATM Çekimi,Ankara
+2024,Ocak,29,2024-01-29,Restoran,296.55,Ulaşım,Tren,İstanbul
+2024,Ocak,19,2024-01-19,Restoran,61.96,Market,BIM,Ankara
+2024,Ocak,12,2024-01-12,Ulaşım,29.44,Fatura Ödemesi,İnternet,İstanbul
+2024,Ocak,25,2024-01-25,Ulaşım,295.24,Restoran,Cafe,İstanbul
+2024,Ocak,13,2024-01-13,ATM Çekimi,287.84,Ulaşım,Otobüs,İstanbul
+2024,Ocak,5,2024-01-05,ATM Çekimi,388.41,ATM,ATM Çekimi,Ankara
+2024,Ocak,4,2024-01-04,Ulaşım,372.73,Market,Migros,İzmir
+2024,Ocak,6,2024-01-06,Alışveriş,366.5,Fatura Ödemesi,Elektrik,İstanbul
+2024,Ocak,9,2024-01-09,Fatura Ödemesi,414.72,Restoran,Kebapçı,İstanbul
+2024,Ocak,23,2024-01-23,Alışveriş,462.19,Ulaşım,Otobüs,Ankara
+2024,Ocak,7,2024-01-07,Alışveriş,69.37,Ulaşım,Taksi,Ankara
+2024,Ocak,4,2024-01-04,ATM Çekimi,111.51,Restoran,Kebapçı,İzmir
+2024,Ocak,7,2024-01-07,Alışveriş,485.22,Restoran,Kebapçı,İzmir
+2024,Ocak,22,2024-01-22,Restoran,122.29,ATM,ATM Çekimi,Ankara
+2024,Ocak,3,2024-01-03,Ulaşım,51.78,Fatura Ödemesi,Elektrik,Ankara
+2024,Ocak,29,2024-01-29,Alışveriş,14.57,ATM,ATM Çekimi,İstanbul
+2024,Ocak,23,2024-01-23,Ulaşım,227.72,Market,BIM,Ankara
+2024,Ocak,3,2024-01-03,Ulaşım,91.34,Restoran,Cafe,İzmir
+2024,Ocak,19,2024-01-19,Fatura Ödemesi,108.26,Restoran,Pizza,İstanbul
+2024,Ocak,23,2024-01-23,Fatura Ödemesi,164.3,Market,Carrefour,İstanbul
+2024,Ocak,26,2024-01-26,Ulaşım,388.01,ATM,ATM Çekimi,İzmir
+2024,Ocak,13,2024-01-13,Ulaşım,178.35,ATM,ATM Çekimi,İzmir
+2024,Ocak,30,2024-01-30,Fatura Ödemesi,314.72,ATM,ATM Çekimi,İzmir
+2024,Ocak,9,2024-01-09,Fatura Ödemesi,396.25,Market,Migros,Ankara
+2024,Ocak,10,2024-01-10,Fatura Ödemesi,173.4,Ulaşım,Taksi,İstanbul
+2024,Ocak,15,2024-01-15,Fatura Ödemesi,96.44,Fatura Ödemesi,Elektrik,Ankara
+2024,Ocak,17,2024-01-17,ATM Çekimi,413.49,Market,BIM,İstanbul
+2024,Ocak,16,2024-01-16,Ulaşım,499.55,Ulaşım,Taksi,İzmir
+2024,Ocak,5,2024-01-05,Alışveriş,236.7,Restoran,Cafe,İzmir
+2024,Ocak,19,2024-01-19,Restoran,495.56,Restoran,Pizza,Ankara
+2024,Ocak,10,2024-01-10,Restoran,284.0,Fatura Ödemesi,Elektrik,İzmir
+2024,Ocak,30,2024-01-30,Alışveriş,201.31,Ulaşım,Tren,Ankara
+2024,Ocak,21,2024-01-21,Fatura Ödemesi,158.1,Fatura Ödemesi,Su,Ankara
+2024,Ocak,11,2024-01-11,Fatura Ödemesi,243.33,Restoran,Kebapçı,Ankara
+2024,Ocak,5,2024-01-05,Restoran,64.51,Market,Carrefour,Ankara
+2024,Ocak,5,2024-01-05,ATM Çekimi,147.53,Market,Carrefour,Ankara
+2024,Ocak,6,2024-01-06,ATM Çekimi,11.15,Fatura Ödemesi,Su,Ankara
+2024,Ocak,28,2024-01-28,Alışveriş,238.79,Market,Migros,Ankara
+2024,Ocak,18,2024-01-18,ATM Çekimi,126.74,Market,Migros,İstanbul
+2024,Ocak,15,2024-01-15,Ulaşım,423.42,Fatura Ödemesi,Elektrik,Ankara
+2024,Ocak,22,2024-01-22,Ulaşım,435.04,Market,BIM,İstanbul
+2024,Ocak,19,2024-01-19,Restoran,421.74,Market,Migros,Ankara
+2024,Ocak,8,2024-01-08,Ulaşım,230.68,ATM,ATM Çekimi,İzmir
+2024,Ocak,1,2024-01-01,Restoran,184.14,Restoran,Kebapçı,İstanbul
+2024,Ocak,1,2024-01-01,Ulaşım,487.58,Restoran,Pizza,İstanbul
+2024,Ocak,18,2024-01-18,Restoran,78.16,Fatura Ödemesi,İnternet,Ankara
+2024,Ocak,7,2024-01-07,Ulaşım,200.66,Restoran,Cafe,İzmir
+2024,Ocak,25,2024-01-25,Alışveriş,124.51,Ulaşım,Otobüs,Ankara
+2024,Ocak,14,2024-01-14,Alışveriş,426.97,Ulaşım,Taksi,İzmir
+2024,Ocak,23,2024-01-23,Restoran,489.59,ATM,ATM Çekimi,İzmir
+2024,Ocak,20,2024-01-20,Ulaşım,160.09,Market,Carrefour,İstanbul
+2024,Ocak,30,2024-01-30,Restoran,293.34,Market,BIM,Ankara
+2024,Ocak,7,2024-01-07,Ulaşım,297.89,ATM,ATM Çekimi,İzmir
+2024,Ocak,27,2024-01-27,Fatura Ödemesi,172.14,ATM,ATM Çekimi,İzmir
+2024,Ocak,31,2024-01-31,ATM Çekimi,216.61,Market,Migros,İstanbul
+2024,Ocak,19,2024-01-19,Restoran,11.13,Market,Migros,İstanbul
+2024,Ocak,6,2024-01-06,Restoran,83.03,ATM,ATM Çekimi,İzmir
+2024,Ocak,16,2024-01-16,Ulaşım,499.26,Market,Carrefour,İzmir
+2024,Ocak,11,2024-01-11,Restoran,92.42,Fatura Ödemesi,İnternet,Ankara
+2024,Ocak,25,2024-01-25,Fatura Ödemesi,410.23,Ulaşım,Otobüs,İzmir
+2024,Ocak,15,2024-01-15,ATM Çekimi,251.47,Fatura Ödemesi,Su,Ankara
+2024,Ocak,13,2024-01-13,Ulaşım,499.61,Ulaşım,Taksi,İstanbul
+2024,Ocak,27,2024-01-27,Alışveriş,97.26,Ulaşım,Tren,İstanbul
+2024,Ocak,24,2024-01-24,Alışveriş,346.64,Ulaşım,Taksi,Ankara
+2024,Ocak,29,2024-01-29,Restoran,460.17,Ulaşım,Otobüs,İzmir
+2024,Ocak,12,2024-01-12,Fatura Ödemesi,369.41,ATM,ATM Çekimi,İzmir
+2024,Ocak,15,2024-01-15,Alışveriş,256.62,Market,Migros,İstanbul
+2024,Ocak,16,2024-01-16,Restoran,393.63,Restoran,Cafe,İzmir
+2024,Ocak,8,2024-01-08,Ulaşım,445.33,Restoran,Cafe,İzmir
+2024,Ocak,19,2024-01-19,ATM Çekimi,178.06,Restoran,Cafe,İstanbul
+2024,Ocak,9,2024-01-09,Ulaşım,471.49,Fatura Ödemesi,Su,Ankara
+2024,Ocak,17,2024-01-17,Ulaşım,200.54,ATM,ATM Çekimi,İzmir
+2024,Ocak,3,2024-01-03,Fatura Ödemesi,413.1,ATM,ATM Çekimi,İzmir
+2024,Ocak,17,2024-01-17,Alışveriş,387.33,ATM,ATM Çekimi,İstanbul
+2024,Ocak,9,2024-01-09,ATM Çekimi,438.2,Market,BIM,İstanbul
+2024,Ocak,4,2024-01-04,Ulaşım,490.29,Ulaşım,Tren,İzmir
+2024,Ocak,20,2024-01-20,Alışveriş,444.68,Market,Migros,Ankara
+2024,Ocak,7,2024-01-07,ATM Çekimi,326.03,Market,BIM,İzmir
+2024,Ocak,31,2024-01-31,Fatura Ödemesi,410.38,ATM,ATM Çekimi,Ankara
+2024,Ocak,6,2024-01-06,ATM Çekimi,72.14,Fatura Ödemesi,Su,Ankara
+2024,Ocak,2,2024-01-02,Restoran,328.79,ATM,ATM Çekimi,Ankara
+2024,Ocak,30,2024-01-30,Alışveriş,288.11,Market,Carrefour,İstanbul
+2024,Ocak,22,2024-01-22,Ulaşım,240.19,Market,Migros,İzmir
+2024,Ocak,23,2024-01-23,Restoran,348.14,ATM,ATM Çekimi,İzmir
+2024,Ocak,18,2024-01-18,Ulaşım,191.91,Market,Migros,İstanbul
+2024,Ocak,15,2024-01-15,Fatura Ödemesi,18.06,Restoran,Pizza,İzmir
+2024,Ocak,29,2024-01-29,Ulaşım,339.33,Fatura Ödemesi,Su,İstanbul
+2024,Ocak,2,2024-01-02,Fatura Ödemesi,378.74,Fatura Ödemesi,İnternet,İstanbul
+2024,Ocak,29,2024-01-29,Ulaşım,377.85,ATM,ATM Çekimi,Ankara
+2024,Ocak,27,2024-01-27,Fatura Ödemesi,316.91,ATM,ATM Çekimi,Ankara
+2024,Ocak,17,2024-01-17,Ulaşım,386.78,ATM,ATM Çekimi,İzmir
+2024,Ocak,21,2024-01-21,Fatura Ödemesi,80.32,Fatura Ödemesi,Su,Ankara
+2024,Ocak,8,2024-01-08,Alışveriş,432.53,Fatura Ödemesi,Su,İzmir
+2024,Ocak,10,2024-01-10,Fatura Ödemesi,21.32,Ulaşım,Tren,Ankara
+2024,Ocak,24,2024-01-24,Fatura Ödemesi,415.98,ATM,ATM Çekimi,İzmir
+2024,Ocak,9,2024-01-09,Restoran,290.54,Restoran,Pizza,İzmir
+2024,Ocak,11,2024-01-11,Fatura Ödemesi,407.0,ATM,ATM Çekimi,İstanbul
+2024,Ocak,23,2024-01-23,Ulaşım,284.65,Fatura Ödemesi,İnternet,Ankara
+2024,Ocak,8,2024-01-08,Alışveriş,294.74,Market,Carrefour,İzmir
+2024,Ocak,22,2024-01-22,ATM Çekimi,150.0,Fatura Ödemesi,Elektrik,İzmir
+2024,Ocak,27,2024-01-27,Ulaşım,20.07,Fatura Ödemesi,Elektrik,Ankara
+2024,Ocak,17,2024-01-17,Restoran,401.8,Market,Carrefour,İzmir
+2024,Ocak,21,2024-01-21,Restoran,19.04,Restoran,Cafe,Ankara
+2024,Ocak,30,2024-01-30,Fatura Ödemesi,95.25,Fatura Ödemesi,İnternet,İzmir
+2024,Ocak,22,2024-01-22,Restoran,300.84,ATM,ATM Çekimi,Ankara
+2024,Ocak,26,2024-01-26,Fatura Ödemesi,158.09,ATM,ATM Çekimi,İstanbul
+2024,Ocak,15,2024-01-15,Restoran,94.2,Fatura Ödemesi,Su,Ankara
+2024,Ocak,3,2024-01-03,ATM Çekimi,108.25,Restoran,Pizza,Ankara
+2024,Ocak,19,2024-01-19,Fatura Ödemesi,79.27,Market,Carrefour,İzmir
+2024,Ocak,6,2024-01-06,ATM Çekimi,331.28,Fatura Ödemesi,İnternet,İstanbul
+2024,Ocak,9,2024-01-09,Alışveriş,17.0,Market,BIM,Ankara
+2024,Ocak,5,2024-01-05,Ulaşım,476.36,Market,Migros,İzmir
+2024,Ocak,19,2024-01-19,Restoran,313.1,ATM,ATM Çekimi,Ankara
+2024,Ocak,14,2024-01-14,ATM Çekimi,161.55,Fatura Ödemesi,Elektrik,Ankara
+2024,Ocak,7,2024-01-07,ATM Çekimi,398.74,Fatura Ödemesi,Su,Ankara
+2024,Ocak,28,2024-01-28,Alışveriş,197.09,Market,Migros,İstanbul
+2024,Ocak,15,2024-01-15,ATM Çekimi,24.61,Fatura Ödemesi,İnternet,Ankara
+2024,Ocak,23,2024-01-23,Restoran,414.62,Restoran,Pizza,Ankara
+2024,Ocak,15,2024-01-15,Ulaşım,413.89,Restoran,Kebapçı,İzmir
+2024,Ocak,11,2024-01-11,Fatura Ödemesi,247.68,Ulaşım,Taksi,Ankara
+2024,Ocak,25,2024-01-25,Restoran,191.64,Market,BIM,İzmir
+2024,Ocak,28,2024-01-28,Fatura Ödemesi,484.33,ATM,ATM Çekimi,Ankara
+2024,Ocak,16,2024-01-16,ATM Çekimi,450.46,Ulaşım,Tren,İzmir
+2024,Ocak,18,2024-01-18,Alışveriş,14.59,Restoran,Kebapçı,Ankara
+2024,Ocak,1,2024-01-01,Fatura Ödemesi,185.57,ATM,ATM Çekimi,İzmir
+2024,Ocak,18,2024-01-18,ATM Çekimi,283.37,Fatura Ödemesi,Su,İstanbul
+2024,Ocak,25,2024-01-25,ATM Çekimi,411.98,ATM,ATM Çekimi,Ankara
+2024,Ocak,7,2024-01-07,Fatura Ödemesi,140.87,Market,BIM,İstanbul
+2024,Ocak,29,2024-01-29,Fatura Ödemesi,54.06,Fatura Ödemesi,İnternet,İstanbul
+2024,Ocak,9,2024-01-09,Restoran,145.61,ATM,ATM Çekimi,İstanbul
+2024,Ocak,12,2024-01-12,Fatura Ödemesi,38.48,Market,BIM,Ankara
+2024,Ocak,13,2024-01-13,Ulaşım,235.67,Market,Migros,İstanbul
+2024,Ocak,8,2024-01-08,Restoran,14.55,Restoran,Kebapçı,Ankara
+2024,Ocak,14,2024-01-14,Restoran,189.15,Market,Carrefour,Ankara
+2024,Ocak,18,2024-01-18,Ulaşım,455.1,Ulaşım,Otobüs,Ankara
+2024,Ocak,31,2024-01-31,Restoran,340.33,Fatura Ödemesi,Elektrik,İzmir
+2024,Ocak,7,2024-01-07,Fatura Ödemesi,245.76,Ulaşım,Otobüs,İstanbul
+2024,Ocak,17,2024-01-17,Restoran,350.58,Restoran,Kebapçı,Ankara
+2024,Ocak,5,2024-01-05,ATM Çekimi,102.06,Market,BIM,İstanbul
+2024,Ocak,16,2024-01-16,Restoran,179.47,ATM,ATM Çekimi,İstanbul
+2024,Ocak,5,2024-01-05,ATM Çekimi,216.44,Fatura Ödemesi,İnternet,Ankara
+2024,Ocak,3,2024-01-03,Ulaşım,215.16,Market,BIM,İzmir
+2024,Ocak,29,2024-01-29,Restoran,72.72,Restoran,Pizza,Ankara
+2024,Ocak,19,2024-01-19,Restoran,17.38,Fatura Ödemesi,Su,Ankara
+2024,Ocak,28,2024-01-28,Alışveriş,425.55,Market,Migros,İzmir
+2024,Ocak,14,2024-01-14,Fatura Ödemesi,273.28,Restoran,Cafe,Ankara
+2024,Ocak,21,2024-01-21,Restoran,211.11,Market,Carrefour,İstanbul
+2024,Ocak,26,2024-01-26,Alışveriş,33.72,Market,Carrefour,İstanbul
+2024,Ocak,4,2024-01-04,ATM Çekimi,200.88,Fatura Ödemesi,Elektrik,Ankara
+2024,Ocak,4,2024-01-04,Fatura Ödemesi,317.14,Market,Migros,İstanbul
+2024,Ocak,9,2024-01-09,ATM Çekimi,170.45,Fatura Ödemesi,Elektrik,Ankara
+2024,Ocak,20,2024-01-20,Ulaşım,181.72,Market,BIM,İzmir
+2024,Ocak,15,2024-01-15,Ulaşım,238.59,Restoran,Cafe,İzmir
+2024,Ocak,22,2024-01-22,Ulaşım,52.72,Fatura Ödemesi,İnternet,İzmir
+2024,Ocak,20,2024-01-20,Fatura Ödemesi,375.82,Market,Carrefour,İstanbul
+2024,Ocak,18,2024-01-18,Alışveriş,269.2,ATM,ATM Çekimi,İstanbul
+2024,Ocak,23,2024-01-23,Fatura Ödemesi,118.03,Fatura Ödemesi,İnternet,İzmir
+2024,Ocak,29,2024-01-29,Fatura Ödemesi,306.61,Ulaşım,Tren,İzmir
+2024,Ocak,30,2024-01-30,Restoran,33.49,Market,Migros,İzmir
+2024,Ocak,9,2024-01-09,ATM Çekimi,330.46,Ulaşım,Tren,Ankara
+2024,Ocak,5,2024-01-05,ATM Çekimi,55.34,ATM,ATM Çekimi,Ankara
+2024,Ocak,22,2024-01-22,Restoran,299.09,Restoran,Kebapçı,İzmir
+2024,Ocak,4,2024-01-04,Restoran,13.79,Ulaşım,Tren,Ankara
+2024,Ocak,14,2024-01-14,Fatura Ödemesi,24.91,Fatura Ödemesi,İnternet,İstanbul
+2024,Ocak,2,2024-01-02,ATM Çekimi,486.13,Fatura Ödemesi,Su,İzmir
+2024,Ocak,14,2024-01-14,Ulaşım,226.93,ATM,ATM Çekimi,İstanbul
+2024,Ocak,14,2024-01-14,ATM Çekimi,240.14,ATM,ATM Çekimi,İstanbul
+2024,Ocak,5,2024-01-05,ATM Çekimi,457.07,Ulaşım,Tren,İzmir
+2024,Ocak,3,2024-01-03,Restoran,161.1,Restoran,Kebapçı,İzmir
+2024,Ocak,12,2024-01-12,Restoran,163.92,Fatura Ödemesi,Elektrik,İzmir
+2024,Ocak,23,2024-01-23,Alışveriş,175.88,Ulaşım,Taksi,Ankara
+2024,Ocak,21,2024-01-21,Fatura Ödemesi,15.37,Restoran,Kebapçı,İzmir
+2024,Ocak,23,2024-01-23,Ulaşım,372.88,Market,Carrefour,Ankara
+2024,Ocak,15,2024-01-15,Restoran,309.97,Fatura Ödemesi,İnternet,Ankara
+2024,Ocak,11,2024-01-11,Restoran,484.49,ATM,ATM Çekimi,İstanbul
+2024,Ocak,3,2024-01-03,Restoran,222.94,Fatura Ödemesi,Su,İstanbul
+2024,Ocak,9,2024-01-09,Ulaşım,390.33,Restoran,Pizza,Ankara
+2024,Ocak,25,2024-01-25,Alışveriş,326.23,Fatura Ödemesi,İnternet,İzmir
+2024,Ocak,21,2024-01-21,Restoran,28.36,ATM,ATM Çekimi,İstanbul
+2024,Ocak,26,2024-01-26,Ulaşım,202.6,Market,Migros,İzmir
+2024,Ocak,23,2024-01-23,Ulaşım,302.68,ATM,ATM Çekimi,Ankara
+2024,Ocak,14,2024-01-14,ATM Çekimi,372.37,Ulaşım,Taksi,İzmir
+2024,Ocak,29,2024-01-29,Ulaşım,184.43,Ulaşım,Taksi,İzmir
+2024,Ocak,28,2024-01-28,Restoran,416.39,ATM,ATM Çekimi,İzmir
+2024,Ocak,13,2024-01-13,Alışveriş,106.89,Fatura Ödemesi,Su,Ankara
+2024,Ocak,20,2024-01-20,ATM Çekimi,325.54,Market,Migros,İzmir
+2024,Ocak,9,2024-01-09,ATM Çekimi,483.99,ATM,ATM Çekimi,İzmir
+2024,Ocak,17,2024-01-17,Restoran,102.77,Restoran,Kebapçı,İzmir
+2024,Ocak,29,2024-01-29,Ulaşım,54.76,Restoran,Pizza,İzmir
+2024,Ocak,21,2024-01-21,Restoran,336.18,Market,Carrefour,İzmir
+2024,Ocak,9,2024-01-09,Ulaşım,461.42,Market,BIM,Ankara
+2024,Ocak,10,2024-01-10,Alışveriş,53.19,Fatura Ödemesi,İnternet,İstanbul
+2024,Ocak,12,2024-01-12,Ulaşım,87.88,ATM,ATM Çekimi,Ankara
+2024,Ocak,30,2024-01-30,Restoran,159.66,ATM,ATM Çekimi,İzmir
+2024,Ocak,15,2024-01-15,ATM Çekimi,254.17,Fatura Ödemesi,Su,İstanbul
+2024,Ocak,20,2024-01-20,ATM Çekimi,250.46,ATM,ATM Çekimi,İstanbul
+2024,Ocak,17,2024-01-17,Fatura Ödemesi,269.15,Ulaşım,Taksi,İzmir
+2024,Ocak,8,2024-01-08,Fatura Ödemesi,184.12,Market,Carrefour,İstanbul
+2024,Ocak,7,2024-01-07,Fatura Ödemesi,46.08,Fatura Ödemesi,Elektrik,İstanbul
+2024,Ocak,12,2024-01-12,Fatura Ödemesi,400.48,Ulaşım,Otobüs,Ankara
+2024,Ocak,29,2024-01-29,Restoran,41.78,Market,Carrefour,İzmir
+2024,Ocak,16,2024-01-16,Fatura Ödemesi,92.17,Restoran,Pizza,Ankara
+2024,Ocak,10,2024-01-10,Restoran,79.39,Restoran,Pizza,İzmir
+2024,Ocak,22,2024-01-22,Restoran,155.6,Restoran,Kebapçı,İstanbul
+2024,Ocak,11,2024-01-11,Ulaşım,402.28,Fatura Ödemesi,İnternet,Ankara
+2024,Ocak,17,2024-01-17,Fatura Ödemesi,365.33,Restoran,Kebapçı,Ankara
+2024,Ocak,20,2024-01-20,ATM Çekimi,486.52,Restoran,Pizza,İzmir
+2024,Ocak,28,2024-01-28,Fatura Ödemesi,254.59,Ulaşım,Taksi,Ankara
+2024,Ocak,4,2024-01-04,Ulaşım,277.34,Restoran,Pizza,İzmir
+2024,Ocak,9,2024-01-09,Restoran,55.04,Fatura Ödemesi,Elektrik,İzmir
+2024,Ocak,18,2024-01-18,Ulaşım,341.31,Market,Migros,İstanbul
+2024,Ocak,16,2024-01-16,Fatura Ödemesi,428.32,Restoran,Kebapçı,İzmir
+2024,Ocak,17,2024-01-17,Fatura Ödemesi,117.09,ATM,ATM Çekimi,İzmir
+2024,Ocak,8,2024-01-08,Restoran,56.15,Fatura Ödemesi,İnternet,İzmir
+2024,Ocak,17,2024-01-17,Alışveriş,78.67,Fatura Ödemesi,İnternet,Ankara
+2024,Ocak,20,2024-01-20,Restoran,373.68,Ulaşım,Taksi,İzmir
+2024,Ocak,15,2024-01-15,Restoran,475.05,Fatura Ödemesi,İnternet,Ankara
+2024,Ocak,30,2024-01-30,ATM Çekimi,37.18,ATM,ATM Çekimi,Ankara
+2024,Ocak,1,2024-01-01,Alışveriş,63.29,Restoran,Kebapçı,İstanbul
+2024,Ocak,13,2024-01-13,Ulaşım,295.09,Restoran,Kebapçı,İstanbul
+2024,Ocak,15,2024-01-15,Alışveriş,340.48,Market,BIM,İzmir
+2024,Ocak,11,2024-01-11,Alışveriş,427.29,Ulaşım,Taksi,İstanbul
+2024,Ocak,31,2024-01-31,Restoran,276.34,Ulaşım,Tren,İzmir
+2024,Ocak,18,2024-01-18,Alışveriş,397.42,Market,Carrefour,Ankara
+2024,Ocak,25,2024-01-25,ATM Çekimi,326.19,Restoran,Kebapçı,Ankara
+2024,Ocak,7,2024-01-07,ATM Çekimi,100.43,Fatura Ödemesi,Elektrik,İzmir
+2024,Ocak,22,2024-01-22,Fatura Ödemesi,162.56,Ulaşım,Otobüs,İstanbul
+2024,Ocak,31,2024-01-31,Fatura Ödemesi,242.66,ATM,ATM Çekimi,Ankara
+2024,Ocak,20,2024-01-20,Fatura Ödemesi,168.26,Fatura Ödemesi,İnternet,İzmir
+2024,Ocak,18,2024-01-18,Restoran,131.07,ATM,ATM Çekimi,İstanbul
+2024,Ocak,17,2024-01-17,Ulaşım,40.9,Restoran,Kebapçı,Ankara
+2024,Ocak,31,2024-01-31,Restoran,270.93,Ulaşım,Tren,İzmir
+2024,Ocak,28,2024-01-28,Ulaşım,35.43,Ulaşım,Tren,Ankara
+2024,Ocak,16,2024-01-16,Fatura Ödemesi,26.07,Ulaşım,Taksi,İzmir
+2024,Ocak,13,2024-01-13,Restoran,405.94,Market,Carrefour,Ankara
+2024,Ocak,24,2024-01-24,ATM Çekimi,379.32,Restoran,Cafe,İstanbul
+2024,Ocak,11,2024-01-11,Alışveriş,154.29,Fatura Ödemesi,İnternet,İstanbul
+2024,Ocak,1,2024-01-01,Ulaşım,242.0,Ulaşım,Taksi,Ankara
+2024,Ocak,5,2024-01-05,Restoran,51.59,Market,Carrefour,İzmir
+2024,Ocak,5,2024-01-05,ATM Çekimi,208.82,Restoran,Cafe,İzmir
+2024,Ocak,23,2024-01-23,Ulaşım,88.0,Restoran,Pizza,İstanbul
+2024,Ocak,15,2024-01-15,Ulaşım,403.54,Ulaşım,Tren,İstanbul
+2024,Ocak,4,2024-01-04,Restoran,260.57,Restoran,Cafe,İstanbul
+2024,Ocak,20,2024-01-20,Fatura Ödemesi,415.22,ATM,ATM Çekimi,İzmir
+2024,Ocak,20,2024-01-20,Fatura Ödemesi,21.36,Fatura Ödemesi,İnternet,İstanbul
+2024,Ocak,24,2024-01-24,Ulaşım,45.97,Ulaşım,Taksi,Ankara
+2024,Ocak,18,2024-01-18,Restoran,66.58,Market,Migros,İzmir
+2024,Ocak,8,2024-01-08,ATM Çekimi,219.93,Fatura Ödemesi,İnternet,İzmir
+2024,Ocak,5,2024-01-05,Fatura Ödemesi,118.26,Market,Carrefour,İzmir
+2024,Ocak,20,2024-01-20,Ulaşım,479.76,Fatura Ödemesi,Elektrik,İzmir
+2024,Ocak,7,2024-01-07,ATM Çekimi,279.85,Market,Carrefour,İstanbul
+2024,Ocak,9,2024-01-09,Restoran,168.05,Fatura Ödemesi,İnternet,İzmir
+2024,Ocak,26,2024-01-26,Ulaşım,112.33,Market,Carrefour,İstanbul
+2024,Ocak,16,2024-01-16,Ulaşım,492.1,ATM,ATM Çekimi,Ankara
+2024,Ocak,26,2024-01-26,Ulaşım,47.5,Fatura Ödemesi,İnternet,İzmir
+2024,Ocak,15,2024-01-15,ATM Çekimi,382.66,ATM,ATM Çekimi,İstanbul
+2024,Ocak,29,2024-01-29,Ulaşım,384.5,Restoran,Cafe,İzmir
+2024,Ocak,28,2024-01-28,ATM Çekimi,243.44,Fatura Ödemesi,İnternet,Ankara
+2024,Ocak,28,2024-01-28,Restoran,121.49,ATM,ATM Çekimi,İstanbul
+2024,Ocak,13,2024-01-13,Fatura Ödemesi,57.69,ATM,ATM Çekimi,İzmir
+2024,Ocak,5,2024-01-05,Ulaşım,495.05,Market,Migros,İzmir
+2024,Ocak,29,2024-01-29,Restoran,118.18,ATM,ATM Çekimi,İzmir
+2024,Ocak,10,2024-01-10,Restoran,283.15,Restoran,Kebapçı,Ankara
+2024,Ocak,16,2024-01-16,Restoran,123.48,Market,Migros,Ankara
+2024,Ocak,30,2024-01-30,Fatura Ödemesi,331.06,ATM,ATM Çekimi,Ankara
+2024,Ocak,25,2024-01-25,Ulaşım,41.46,Ulaşım,Taksi,İstanbul
+2024,Ocak,29,2024-01-29,Fatura Ödemesi,316.75,Fatura Ödemesi,Elektrik,İzmir
+2024,Ocak,17,2024-01-17,Restoran,85.23,Ulaşım,Tren,Ankara
+2024,Ocak,8,2024-01-08,Fatura Ödemesi,209.01,ATM,ATM Çekimi,İzmir
+2024,Şubat,16,2024-02-16,Restoran,108.04,Restoran,Sushi,İstanbul
+2024,Şubat,22,2024-02-22,Alışveriş,433.52,Market,Metro,İstanbul
+2024,Şubat,22,2024-02-22,Sağlık,146.47,ATM,ATM Çekimi,Ankara
+2024,Şubat,26,2024-02-26,Alışveriş,213.28,ATM,ATM Çekimi,Ankara
+2024,Şubat,11,2024-02-11,Sağlık,54.93,Sağlık,Eczane,İstanbul
+2024,Şubat,19,2024-02-19,Eğlence,395.51,Eğlence,Sinema,Ankara
+2024,Şubat,29,2024-02-29,Restoran,323.46,Eğlence,Sinema,İstanbul
+2024,Şubat,29,2024-02-29,Restoran,304.34,Eğlence,Sinema,İzmir
+2024,Şubat,11,2024-02-11,ATM Çekimi,168.11,Restoran,Burger,Ankara
+2024,Şubat,3,2024-02-03,Alışveriş,208.94,Market,Metro,İzmir
+2024,Şubat,22,2024-02-22,Sağlık,3707.74,Eğlence,Konser,Ankara
+2024,Şubat,8,2024-02-08,ATM Çekimi,3347.43,Eğlence,Tiyatro,İzmir
+2024,Şubat,21,2024-02-21,Sağlık,1563.84,ATM,ATM Çekimi,İstanbul
+2024,Şubat,19,2024-02-19,Restoran,480.93,Sağlık,Eczane,Ankara
+2024,Şubat,24,2024-02-24,Sağlık,133.96,Eğlence,Konser,İstanbul
+2024,Şubat,5,2024-02-05,Sağlık,97.04,ATM,ATM Çekimi,İstanbul
+2024,Şubat,22,2024-02-22,Sağlık,274.59,Market,A101,Ankara
+2024,Şubat,12,2024-02-12,ATM Çekimi,56.17,Market,Unusual Expense,İzmir
+2024,Şubat,17,2024-02-17,Sağlık,2857.83,Restoran,Sushi,Ankara
+2024,Şubat,5,2024-02-05,ATM Çekimi,421.13,Restoran,Pasta,Ankara
+2024,Şubat,28,2024-02-28,Eğlence,4616.24,Sağlık,Doktor,İstanbul
+2024,Şubat,19,2024-02-19,Restoran,311.25,Market,A101,İzmir
+2024,Şubat,3,2024-02-03,Restoran,331.21,ATM,ATM Çekimi,Ankara
+2024,Şubat,28,2024-02-28,Eğlence,474.59,Sağlık,Eczane,İzmir
+2024,Şubat,20,2024-02-20,ATM Çekimi,307.69,Market,Unusual Expense,İstanbul
+2024,Şubat,2,2024-02-02,Eğlence,4062.48,Sağlık,Doktor,İzmir
+2024,Şubat,15,2024-02-15,ATM Çekimi,56.01,Market,Unusual Expense,Ankara
+2024,Şubat,24,2024-02-24,Sağlık,285.61,Market,Unusual Expense,Ankara
+2024,Şubat,11,2024-02-11,ATM Çekimi,64.26,ATM,ATM Çekimi,İstanbul
+2024,Şubat,21,2024-02-21,Alışveriş,392.38,Market,A101,İstanbul
+2024,Şubat,12,2024-02-12,Restoran,184.85,Eğlence,Tiyatro,İzmir
+2024,Şubat,12,2024-02-12,Alışveriş,89.1,Market,Şok,İstanbul
+2024,Şubat,13,2024-02-13,ATM Çekimi,448.34,Market,Şok,İzmir
+2024,Şubat,19,2024-02-19,Eğlence,2067.83,ATM,ATM Çekimi,İstanbul
+2024,Şubat,18,2024-02-18,Sağlık,34.93,Sağlık,Doktor,İstanbul
+2024,Şubat,5,2024-02-05,ATM Çekimi,54.25,Sağlık,Eczane,İstanbul
+2024,Şubat,12,2024-02-12,Eğlence,396.35,Eğlence,Tiyatro,Ankara
+2024,Şubat,8,2024-02-08,Sağlık,198.92,Eğlence,Tiyatro,İzmir
+2024,Şubat,6,2024-02-06,Eğlence,2763.0,ATM,ATM Çekimi,İstanbul
+2024,Şubat,19,2024-02-19,Alışveriş,1415.64,ATM,ATM Çekimi,Ankara
+2024,Şubat,3,2024-02-03,Sağlık,200.3,ATM,ATM Çekimi,İstanbul
+2024,Şubat,13,2024-02-13,ATM Çekimi,338.64,Restoran,Sushi,Ankara
+2024,Şubat,19,2024-02-19,ATM Çekimi,360.17,Restoran,Sushi,Ankara
+2024,Şubat,3,2024-02-03,Restoran,432.46,Market,A101,İstanbul
+2024,Şubat,18,2024-02-18,Sağlık,201.22,Market,Şok,İzmir
+2024,Şubat,28,2024-02-28,Eğlence,353.48,ATM,ATM Çekimi,İstanbul
+2024,Şubat,21,2024-02-21,Eğlence,322.38,ATM,ATM Çekimi,Ankara
+2024,Şubat,23,2024-02-23,Eğlence,169.28,Market,Metro,Ankara
+2024,Şubat,24,2024-02-24,Alışveriş,249.25,Sağlık,Eczane,İstanbul
+2024,Şubat,19,2024-02-19,Sağlık,288.36,Sağlık,Eczane,Ankara
+2024,Şubat,25,2024-02-25,Restoran,390.67,Market,A101,İzmir
+2024,Şubat,17,2024-02-17,Eğlence,4806.32,Eğlence,Konser,Ankara
+2024,Şubat,6,2024-02-06,Sağlık,273.44,Eğlence,Sinema,Ankara
+2024,Şubat,5,2024-02-05,Eğlence,426.17,Eğlence,Konser,İstanbul
+2024,Şubat,19,2024-02-19,Sağlık,460.85,Market,Metro,Ankara
+2024,Şubat,16,2024-02-16,Restoran,217.34,Eğlence,Konser,İzmir
+2024,Şubat,9,2024-02-09,Eğlence,1348.07,Sağlık,Eczane,İzmir
+2024,Şubat,3,2024-02-03,Eğlence,4164.83,Eğlence,Konser,Ankara
+2024,Şubat,21,2024-02-21,Alışveriş,442.76,ATM,ATM Çekimi,Ankara
+2024,Şubat,7,2024-02-07,Eğlence,3836.03,Market,A101,Ankara
+2024,Şubat,27,2024-02-27,ATM Çekimi,206.41,Sağlık,Eczane,İstanbul
+2024,Şubat,16,2024-02-16,Sağlık,109.32,Sağlık,Eczane,İzmir
+2024,Şubat,23,2024-02-23,Sağlık,89.12,Sağlık,Eczane,İzmir
+2024,Şubat,8,2024-02-08,Alışveriş,397.96,Sağlık,Eczane,İstanbul
+2024,Şubat,18,2024-02-18,Alışveriş,1662.59,ATM,Unusual Expense,Ankara
+2024,Şubat,26,2024-02-26,Sağlık,4534.5,Market,A101,İstanbul
+2024,Şubat,13,2024-02-13,Sağlık,334.66,Sağlık,Eczane,Ankara
+2024,Şubat,2,2024-02-02,ATM Çekimi,414.99,Restoran,Pasta,İzmir
+2024,Şubat,16,2024-02-16,ATM Çekimi,336.34,Eğlence,Tiyatro,Ankara
+2024,Şubat,25,2024-02-25,Restoran,2769.49,Restoran,Burger,İzmir
+2024,Şubat,24,2024-02-24,Sağlık,12.84,Eğlence,Sinema,Ankara
+2024,Şubat,23,2024-02-23,Sağlık,477.29,Market,Metro,İzmir
+2024,Şubat,12,2024-02-12,Alışveriş,104.06,Eğlence,Tiyatro,Ankara
+2024,Şubat,17,2024-02-17,Eğlence,97.99,Eğlence,Konser,İzmir
+2024,Şubat,29,2024-02-29,Alışveriş,2962.37,ATM,ATM Çekimi,Ankara
+2024,Şubat,12,2024-02-12,Alışveriş,489.4,Sağlık,Doktor,İstanbul
+2024,Şubat,18,2024-02-18,Alışveriş,386.12,Market,Unusual Expense,İzmir
+2024,Şubat,21,2024-02-21,ATM Çekimi,1325.91,Eğlence,Konser,İzmir
+2024,Şubat,16,2024-02-16,Eğlence,289.44,Market,A101,İzmir
+2024,Şubat,24,2024-02-24,Restoran,373.63,Eğlence,Sinema,İstanbul
+2024,Şubat,22,2024-02-22,Alışveriş,432.07,Sağlık,Doktor,İzmir
+2024,Şubat,9,2024-02-09,Restoran,478.43,ATM,Unusual Expense,Ankara
+2024,Şubat,3,2024-02-03,ATM Çekimi,190.65,Sağlık,Doktor,İzmir
+2024,Şubat,1,2024-02-01,Eğlence,319.06,Eğlence,Konser,Ankara
+2024,Şubat,27,2024-02-27,ATM Çekimi,34.78,Eğlence,Konser,İzmir
+2024,Şubat,16,2024-02-16,Eğlence,3764.3,Sağlık,Eczane,İstanbul
+2024,Şubat,15,2024-02-15,Restoran,281.51,Sağlık,Doktor,İstanbul
+2024,Şubat,26,2024-02-26,Eğlence,373.93,Restoran,Burger,İzmir
+2024,Şubat,5,2024-02-05,Alışveriş,387.44,Restoran,Pasta,İstanbul
+2024,Şubat,3,2024-02-03,Sağlık,4121.32,Restoran,Sushi,Ankara
+2024,Şubat,22,2024-02-22,ATM Çekimi,3890.13,Sağlık,Doktor,İstanbul
+2024,Şubat,18,2024-02-18,Sağlık,117.27,Sağlık,Doktor,İstanbul
+2024,Şubat,3,2024-02-03,Sağlık,2784.74,ATM,ATM Çekimi,İzmir
+2024,Şubat,23,2024-02-23,Restoran,4808.35,Market,A101,İzmir
+2024,Şubat,24,2024-02-24,Alışveriş,3487.07,ATM,ATM Çekimi,Ankara
+2024,Şubat,18,2024-02-18,Restoran,45.04,Restoran,Pasta,İzmir
+2024,Şubat,26,2024-02-26,Sağlık,127.44,Sağlık,Unusual Expense,İzmir
+2024,Şubat,8,2024-02-08,Alışveriş,202.45,Sağlık,Doktor,Ankara
+2024,Şubat,10,2024-02-10,Eğlence,26.01,Sağlık,Doktor,Ankara
+2024,Şubat,9,2024-02-09,Restoran,32.56,Restoran,Burger,Ankara
+2024,Şubat,15,2024-02-15,Sağlık,4472.84,Market,Metro,İstanbul
+2024,Şubat,9,2024-02-09,Sağlık,4585.07,ATM,ATM Çekimi,Ankara
+2024,Şubat,21,2024-02-21,Eğlence,4252.7,Market,A101,İzmir
+2024,Şubat,12,2024-02-12,Restoran,448.75,Restoran,Pasta,İstanbul
+2024,Şubat,23,2024-02-23,Alışveriş,91.8,Restoran,Sushi,Ankara
+2024,Şubat,21,2024-02-21,Restoran,466.99,Sağlık,Doktor,İzmir
+2024,Şubat,16,2024-02-16,Sağlık,73.3,Sağlık,Eczane,İstanbul
+2024,Şubat,18,2024-02-18,Restoran,88.14,ATM,ATM Çekimi,İstanbul
+2024,Şubat,4,2024-02-04,Restoran,156.96,Market,A101,Ankara
+2024,Şubat,11,2024-02-11,ATM Çekimi,37.39,Market,A101,Ankara
+2024,Şubat,18,2024-02-18,ATM Çekimi,391.98,Market,Unusual Expense,İstanbul
+2024,Şubat,16,2024-02-16,Alışveriş,341.25,Eğlence,Sinema,Ankara
+2024,Şubat,29,2024-02-29,Eğlence,191.22,Sağlık,Doktor,İzmir
+2024,Şubat,5,2024-02-05,Sağlık,54.94,Sağlık,Unusual Expense,Ankara
+2024,Şubat,15,2024-02-15,ATM Çekimi,4902.4,Sağlık,Doktor,İstanbul
+2024,Şubat,12,2024-02-12,Eğlence,1721.06,ATM,ATM Çekimi,İstanbul
+2024,Şubat,5,2024-02-05,Eğlence,252.74,Sağlık,Doktor,İstanbul
+2024,Şubat,2,2024-02-02,ATM Çekimi,2937.2,Market,Metro,İstanbul
+2024,Şubat,7,2024-02-07,Alışveriş,146.82,ATM,ATM Çekimi,Ankara
+2024,Şubat,14,2024-02-14,Eğlence,39.71,ATM,ATM Çekimi,İstanbul
+2024,Şubat,13,2024-02-13,Eğlence,278.65,Market,Metro,İstanbul
+2024,Şubat,11,2024-02-11,Eğlence,19.77,Sağlık,Eczane,İstanbul
+2024,Şubat,2,2024-02-02,Eğlence,255.4,ATM,ATM Çekimi,Ankara
+2024,Şubat,29,2024-02-29,ATM Çekimi,354.25,Restoran,Pasta,İzmir
+2024,Şubat,27,2024-02-27,Sağlık,244.61,Eğlence,Sinema,İstanbul
+2024,Şubat,16,2024-02-16,Eğlence,276.55,Market,Unusual Expense,Ankara
+2024,Şubat,18,2024-02-18,Eğlence,4638.83,Eğlence,Unusual Expense,İstanbul
+2024,Şubat,27,2024-02-27,ATM Çekimi,238.02,Eğlence,Tiyatro,Ankara
+2024,Şubat,25,2024-02-25,Sağlık,358.59,Sağlık,Doktor,İstanbul
+2024,Şubat,18,2024-02-18,ATM Çekimi,4691.07,Sağlık,Eczane,Ankara
+2024,Şubat,11,2024-02-11,Eğlence,431.0,Restoran,Sushi,Ankara
+2024,Şubat,8,2024-02-08,Alışveriş,2606.55,Eğlence,Unusual Expense,İzmir
+2024,Şubat,16,2024-02-16,ATM Çekimi,441.66,Market,Metro,Ankara
+2024,Şubat,24,2024-02-24,ATM Çekimi,1272.18,Market,Metro,Ankara
+2024,Şubat,10,2024-02-10,ATM Çekimi,360.35,ATM,ATM Çekimi,Ankara
+2024,Şubat,25,2024-02-25,Sağlık,49.87,Sağlık,Doktor,İzmir
+2024,Şubat,18,2024-02-18,Restoran,90.73,Eğlence,Konser,İzmir
+2024,Şubat,12,2024-02-12,Eğlence,364.36,Eğlence,Konser,Ankara
+2024,Şubat,7,2024-02-07,Eğlence,218.33,Market,Metro,Ankara
+2024,Şubat,10,2024-02-10,Alışveriş,4800.6,Market,A101,İstanbul
+2024,Şubat,28,2024-02-28,Eğlence,16.58,Eğlence,Sinema,Ankara
+2024,Şubat,7,2024-02-07,Alışveriş,97.21,Sağlık,Unusual Expense,Ankara
+2024,Şubat,23,2024-02-23,Alışveriş,207.49,Eğlence,Konser,İstanbul
+2024,Şubat,20,2024-02-20,ATM Çekimi,2919.31,Eğlence,Sinema,İstanbul
+2024,Şubat,10,2024-02-10,Sağlık,90.91,Sağlık,Doktor,İstanbul
+2024,Şubat,12,2024-02-12,Eğlence,79.43,Restoran,Pasta,İzmir
+2024,Şubat,9,2024-02-09,Eğlence,337.36,Eğlence,Konser,İstanbul
+2024,Şubat,5,2024-02-05,Sağlık,333.57,Eğlence,Tiyatro,İzmir
+2024,Şubat,2,2024-02-02,Sağlık,218.42,Sağlık,Doktor,İstanbul
+2024,Şubat,7,2024-02-07,Restoran,117.3,Market,Şok,İstanbul
+2024,Şubat,9,2024-02-09,Alışveriş,2632.92,Eğlence,Sinema,İzmir
+2024,Şubat,4,2024-02-04,Eğlence,182.93,Restoran,Burger,İstanbul
+2024,Şubat,4,2024-02-04,Sağlık,459.84,Market,Şok,Ankara
+2024,Şubat,13,2024-02-13,Sağlık,355.54,Eğlence,Tiyatro,İstanbul
+2024,Şubat,24,2024-02-24,Eğlence,168.49,ATM,ATM Çekimi,İzmir
+2024,Şubat,11,2024-02-11,Sağlık,166.84,ATM,ATM Çekimi,Ankara
+2024,Şubat,7,2024-02-07,Restoran,298.46,Sağlık,Eczane,İzmir
+2024,Şubat,22,2024-02-22,Sağlık,181.62,Eğlence,Sinema,İzmir
+2024,Şubat,22,2024-02-22,Eğlence,181.31,Market,Metro,İzmir
+2024,Şubat,7,2024-02-07,Alışveriş,212.31,Sağlık,Eczane,İzmir
+2024,Şubat,29,2024-02-29,Restoran,4671.16,ATM,ATM Çekimi,Ankara
+2024,Şubat,29,2024-02-29,Eğlence,179.13,Sağlık,Unusual Expense,İstanbul
+2024,Şubat,6,2024-02-06,Sağlık,4417.92,Eğlence,Tiyatro,İstanbul
+2024,Şubat,19,2024-02-19,Restoran,370.47,Market,Metro,İzmir
+2024,Şubat,8,2024-02-08,Alışveriş,1279.94,Sağlık,Unusual Expense,İzmir
+2024,Şubat,29,2024-02-29,Sağlık,404.37,Market,A101,Ankara
+2024,Şubat,25,2024-02-25,ATM Çekimi,303.37,Restoran,Sushi,Ankara
+2024,Şubat,6,2024-02-06,ATM Çekimi,17.64,Sağlık,Eczane,İstanbul
+2024,Şubat,18,2024-02-18,Restoran,77.62,Restoran,Burger,Ankara
+2024,Şubat,8,2024-02-08,ATM Çekimi,446.52,Restoran,Burger,İzmir
+2024,Şubat,14,2024-02-14,Sağlık,399.56,Restoran,Burger,İzmir
+2024,Şubat,10,2024-02-10,Eğlence,354.17,Eğlence,Sinema,Ankara
+2024,Şubat,13,2024-02-13,Alışveriş,252.22,Restoran,Unusual Expense,İzmir
+2024,Şubat,13,2024-02-13,ATM Çekimi,260.66,ATM,ATM Çekimi,İstanbul
+2024,Şubat,11,2024-02-11,Eğlence,359.12,ATM,ATM Çekimi,İstanbul
+2024,Şubat,14,2024-02-14,ATM Çekimi,38.81,Sağlık,Doktor,Ankara
+2024,Şubat,10,2024-02-10,Sağlık,1629.74,Sağlık,Doktor,İstanbul
+2024,Şubat,24,2024-02-24,Restoran,1717.72,Restoran,Pasta,Ankara
+2024,Şubat,3,2024-02-03,Alışveriş,138.58,Restoran,Burger,Ankara
+2024,Şubat,27,2024-02-27,ATM Çekimi,69.0,ATM,ATM Çekimi,Ankara
+2024,Şubat,12,2024-02-12,Sağlık,4783.91,Restoran,Sushi,İstanbul
+2024,Şubat,4,2024-02-04,Eğlence,1241.34,Eğlence,Tiyatro,Ankara
+2024,Şubat,24,2024-02-24,Eğlence,144.2,Restoran,Burger,İstanbul
+2024,Şubat,28,2024-02-28,Eğlence,498.89,Market,Şok,Ankara
+2024,Şubat,28,2024-02-28,Sağlık,1291.65,Sağlık,Doktor,Ankara
+2024,Şubat,11,2024-02-11,ATM Çekimi,115.64,Eğlence,Tiyatro,İstanbul
+2024,Şubat,5,2024-02-05,Alışveriş,3319.93,Eğlence,Tiyatro,İzmir
+2024,Şubat,15,2024-02-15,Sağlık,263.77,Market,Şok,İzmir
+2024,Şubat,17,2024-02-17,Restoran,486.51,Restoran,Pasta,Ankara
+2024,Şubat,1,2024-02-01,Alışveriş,353.42,Sağlık,Eczane,İstanbul
+2024,Şubat,21,2024-02-21,Alışveriş,206.04,Eğlence,Konser,İstanbul
+2024,Şubat,21,2024-02-21,Alışveriş,455.76,Market,Metro,İzmir
+2024,Şubat,13,2024-02-13,ATM Çekimi,446.46,Restoran,Sushi,İzmir
+2024,Şubat,3,2024-02-03,ATM Çekimi,389.09,Market,Metro,İstanbul
+2024,Şubat,2,2024-02-02,ATM Çekimi,2279.53,Market,Metro,İstanbul
+2024,Şubat,13,2024-02-13,Restoran,134.45,Market,Unusual Expense,Ankara
+2024,Şubat,26,2024-02-26,Restoran,467.88,ATM,ATM Çekimi,İstanbul
+2024,Şubat,22,2024-02-22,Restoran,2723.48,Sağlık,Eczane,İzmir
+2024,Şubat,24,2024-02-24,Restoran,163.45,Sağlık,Eczane,İzmir
+2024,Şubat,26,2024-02-26,Alışveriş,100.5,Eğlence,Unusual Expense,Ankara
+2024,Şubat,14,2024-02-14,ATM Çekimi,349.92,Restoran,Sushi,İzmir
+2024,Şubat,28,2024-02-28,Sağlık,2372.48,Eğlence,Konser,Ankara
+2024,Şubat,25,2024-02-25,Eğlence,61.88,ATM,ATM Çekimi,İzmir
+2024,Şubat,25,2024-02-25,Eğlence,398.23,Restoran,Pasta,Ankara
+2024,Şubat,20,2024-02-20,Sağlık,126.63,Restoran,Burger,İzmir
+2024,Şubat,19,2024-02-19,Alışveriş,406.28,Market,A101,Ankara
+2024,Şubat,27,2024-02-27,ATM Çekimi,132.99,Sağlık,Doktor,İzmir
+2024,Şubat,20,2024-02-20,Eğlence,32.23,Market,Metro,İzmir
+2024,Şubat,24,2024-02-24,Eğlence,455.51,Restoran,Sushi,Ankara
+2024,Şubat,12,2024-02-12,Eğlence,287.64,ATM,ATM Çekimi,İzmir
+2024,Şubat,11,2024-02-11,ATM Çekimi,334.14,Restoran,Pasta,İzmir
+2024,Şubat,21,2024-02-21,Restoran,42.39,Sağlık,Doktor,Ankara
+2024,Şubat,21,2024-02-21,ATM Çekimi,196.17,Sağlık,Unusual Expense,İzmir
+2024,Şubat,14,2024-02-14,Restoran,19.56,Eğlence,Sinema,Ankara
+2024,Şubat,7,2024-02-07,Alışveriş,2163.16,ATM,ATM Çekimi,İzmir
+2024,Şubat,3,2024-02-03,Sağlık,438.81,ATM,ATM Çekimi,İzmir
+2024,Şubat,5,2024-02-05,Alışveriş,31.47,Market,Metro,İstanbul
+2024,Şubat,24,2024-02-24,Alışveriş,258.38,ATM,ATM Çekimi,İzmir
+2024,Şubat,14,2024-02-14,Restoran,120.8,Market,A101,İzmir
+2024,Şubat,23,2024-02-23,Eğlence,136.8,ATM,ATM Çekimi,Ankara
+2024,Şubat,4,2024-02-04,Eğlence,1730.99,ATM,ATM Çekimi,İstanbul
+2024,Şubat,20,2024-02-20,ATM Çekimi,239.42,ATM,ATM Çekimi,Ankara
+2024,Şubat,20,2024-02-20,Alışveriş,67.8,Sağlık,Eczane,İstanbul
+2024,Şubat,21,2024-02-21,Restoran,3490.71,ATM,ATM Çekimi,Ankara
+2024,Şubat,24,2024-02-24,ATM Çekimi,169.74,Restoran,Burger,İstanbul
+2024,Şubat,6,2024-02-06,Sağlık,2128.26,Restoran,Sushi,İzmir
+2024,Şubat,17,2024-02-17,ATM Çekimi,445.12,ATM,ATM Çekimi,Ankara
+2024,Şubat,20,2024-02-20,Eğlence,296.88,ATM,ATM Çekimi,Ankara
+2024,Şubat,26,2024-02-26,ATM Çekimi,131.78,Eğlence,Sinema,İstanbul
+2024,Şubat,12,2024-02-12,Sağlık,242.51,Sağlık,Doktor,Ankara
+2024,Şubat,17,2024-02-17,Restoran,1329.85,Market,A101,İzmir
+2024,Şubat,9,2024-02-09,Restoran,2246.61,Sağlık,Unusual Expense,Ankara
+2024,Şubat,1,2024-02-01,Alışveriş,220.94,ATM,ATM Çekimi,İstanbul
+2024,Şubat,5,2024-02-05,Eğlence,52.09,ATM,ATM Çekimi,İzmir
+2024,Şubat,21,2024-02-21,Sağlık,403.62,ATM,ATM Çekimi,İzmir
+2024,Şubat,28,2024-02-28,Eğlence,205.45,ATM,ATM Çekimi,Ankara
+2024,Şubat,5,2024-02-05,Eğlence,4798.66,Eğlence,Sinema,İstanbul
+2024,Şubat,28,2024-02-28,Sağlık,48.23,ATM,ATM Çekimi,İzmir
+2024,Şubat,6,2024-02-06,Alışveriş,422.87,Market,Şok,İzmir
+2024,Şubat,12,2024-02-12,ATM Çekimi,4138.72,Sağlık,Eczane,Ankara
+2024,Şubat,21,2024-02-21,Restoran,409.18,Market,Şok,Ankara
+2024,Şubat,21,2024-02-21,Restoran,148.36,ATM,ATM Çekimi,İzmir
+2024,Şubat,5,2024-02-05,Eğlence,178.34,Market,A101,Ankara
+2024,Şubat,1,2024-02-01,Restoran,77.55,Restoran,Pasta,İstanbul
+2024,Şubat,17,2024-02-17,Sağlık,325.92,Market,A101,İstanbul
+2024,Şubat,17,2024-02-17,Eğlence,21.78,Eğlence,Konser,İzmir
+2024,Şubat,8,2024-02-08,Alışveriş,3053.95,Sağlık,Unusual Expense,Ankara
+2024,Şubat,26,2024-02-26,Alışveriş,195.17,Eğlence,Konser,İstanbul
+2024,Şubat,2,2024-02-02,Sağlık,476.71,Eğlence,Konser,İstanbul
+2024,Şubat,20,2024-02-20,Eğlence,34.75,Eğlence,Sinema,İstanbul
+2024,Şubat,11,2024-02-11,Sağlık,317.83,Eğlence,Tiyatro,İzmir
+2024,Şubat,14,2024-02-14,Sağlık,4445.05,Restoran,Pasta,İstanbul
+2024,Şubat,28,2024-02-28,Alışveriş,34.11,Market,Metro,İstanbul
+2024,Şubat,20,2024-02-20,Restoran,465.12,Eğlence,Tiyatro,Ankara
+2024,Şubat,26,2024-02-26,Restoran,289.3,Restoran,Sushi,İstanbul
+2024,Şubat,13,2024-02-13,Restoran,156.13,Restoran,Burger,Ankara
+2024,Şubat,21,2024-02-21,ATM Çekimi,269.22,ATM,ATM Çekimi,Ankara
+2024,Şubat,23,2024-02-23,Restoran,423.53,Eğlence,Konser,İzmir
+2024,Şubat,21,2024-02-21,Alışveriş,231.56,Sağlık,Eczane,İzmir
+2024,Şubat,5,2024-02-05,ATM Çekimi,2591.49,Restoran,Sushi,İzmir
+2024,Şubat,5,2024-02-05,Alışveriş,223.98,Market,Şok,İzmir
+2024,Şubat,29,2024-02-29,Alışveriş,477.15,Sağlık,Doktor,İstanbul
+2024,Şubat,6,2024-02-06,Sağlık,424.76,Eğlence,Sinema,İzmir
+2024,Şubat,20,2024-02-20,ATM Çekimi,228.37,Restoran,Pasta,İstanbul
+2024,Şubat,25,2024-02-25,Eğlence,397.5,Sağlık,Eczane,Ankara
+2024,Şubat,29,2024-02-29,ATM Çekimi,2761.67,Eğlence,Sinema,Ankara
+2024,Şubat,28,2024-02-28,ATM Çekimi,310.71,Eğlence,Sinema,İzmir
+2024,Şubat,29,2024-02-29,Restoran,61.42,Eğlence,Unusual Expense,İstanbul
+2024,Şubat,6,2024-02-06,Restoran,279.13,ATM,ATM Çekimi,İzmir
+2024,Şubat,29,2024-02-29,Sağlık,89.89,Restoran,Sushi,İzmir
+2024,Şubat,11,2024-02-11,Sağlık,3342.57,Sağlık,Unusual Expense,İstanbul
+2024,Şubat,8,2024-02-08,ATM Çekimi,103.89,Eğlence,Konser,İstanbul
+2024,Şubat,5,2024-02-05,Eğlence,408.74,ATM,ATM Çekimi,İzmir
+2024,Şubat,9,2024-02-09,Sağlık,339.77,Market,Metro,İstanbul
+2024,Şubat,27,2024-02-27,Sağlık,427.31,Eğlence,Sinema,Ankara
+2024,Şubat,9,2024-02-09,Sağlık,464.38,Eğlence,Unusual Expense,Ankara
+2024,Şubat,12,2024-02-12,Alışveriş,179.83,ATM,ATM Çekimi,İstanbul
+2024,Şubat,13,2024-02-13,Restoran,308.21,Sağlık,Eczane,İzmir
+2024,Şubat,14,2024-02-14,Restoran,4164.75,Sağlık,Eczane,İstanbul
+2024,Şubat,19,2024-02-19,ATM Çekimi,2978.07,Market,A101,İzmir
+2024,Şubat,29,2024-02-29,Alışveriş,419.88,Sağlık,Doktor,İstanbul
+2024,Şubat,20,2024-02-20,ATM Çekimi,400.05,ATM,ATM Çekimi,İstanbul
+2024,Şubat,26,2024-02-26,Sağlık,473.86,Restoran,Pasta,İstanbul
+2024,Şubat,4,2024-02-04,Alışveriş,3775.07,Sağlık,Eczane,Ankara
+2024,Şubat,28,2024-02-28,ATM Çekimi,289.1,Eğlence,Sinema,İzmir
+2024,Şubat,2,2024-02-02,Restoran,274.45,Market,Metro,Ankara
+2024,Şubat,17,2024-02-17,ATM Çekimi,4403.65,ATM,ATM Çekimi,Ankara
+2024,Şubat,6,2024-02-06,Sağlık,142.24,Eğlence,Unusual Expense,İstanbul
+2024,Şubat,3,2024-02-03,Alışveriş,345.17,Sağlık,Doktor,İzmir
+2024,Şubat,5,2024-02-05,Alışveriş,385.46,Restoran,Pasta,Ankara
+2024,Şubat,7,2024-02-07,ATM Çekimi,383.63,Market,A101,Ankara
+2024,Şubat,28,2024-02-28,Sağlık,383.38,Market,A101,İzmir
+2024,Şubat,17,2024-02-17,Sağlık,327.65,Market,A101,İstanbul
+2024,Şubat,24,2024-02-24,Restoran,1926.92,Market,Metro,İstanbul
+2024,Şubat,4,2024-02-04,Restoran,3181.91,ATM,ATM Çekimi,İstanbul
+2024,Şubat,3,2024-02-03,Sağlık,2856.89,Restoran,Sushi,İstanbul
+2024,Şubat,18,2024-02-18,Eğlence,159.03,Market,A101,İzmir
+2024,Şubat,14,2024-02-14,Restoran,116.22,ATM,ATM Çekimi,İstanbul
+2024,Şubat,13,2024-02-13,Alışveriş,3603.28,Market,A101,İzmir
+2024,Şubat,8,2024-02-08,Sağlık,3217.92,Market,Unusual Expense,İzmir
+2024,Mart,15,2024-03-15,Fatura Ödemesi,198.26,Seyahat,Uçak,İstanbul
+2024,Mart,20,2024-03-20,ATM Çekimi,193.64,Kafe,Starbucks,İstanbul
+2024,Mart,22,2024-03-22,Kafe,153.29,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,6,2024-03-06,Fatura Ödemesi,439.22,Kafe,Kahve Dünyası,Ankara
+2024,Mart,31,2024-03-31,ATM Çekimi,253.75,Seyahat,Otobüs,Ankara
+2024,Mart,6,2024-03-06,Seyahat,284.51,ATM,ATM Çekimi,İzmir
+2024,Mart,1,2024-03-01,Alışveriş,476.79,Giyim,Zara,İstanbul
+2024,Mart,1,2024-03-01,Fatura Ödemesi,282.71,Giyim,Zara,İzmir
+2024,Mart,2,2024-03-02,Seyahat,228.0,Fatura Ödemesi,Doğalgaz,İstanbul
+2024,Mart,27,2024-03-27,Kafe,362.54,Giyim,H&M,İstanbul
+2024,Mart,27,2024-03-27,Fatura Ödemesi,318.26,ATM,ATM Çekimi,Ankara
+2024,Mart,24,2024-03-24,Seyahat,415.84,Giyim,Zara,İzmir
+2024,Mart,20,2024-03-20,Kafe,344.46,Fatura Ödemesi,Elektrik,İstanbul
+2024,Mart,30,2024-03-30,ATM Çekimi,173.09,Kafe,Gloria Jeans,İzmir
+2024,Mart,10,2024-03-10,Kafe,344.99,Kafe,Gloria Jeans,İzmir
+2024,Mart,18,2024-03-18,Seyahat,171.49,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,3,2024-03-03,Seyahat,301.97,Seyahat,Otobüs,Ankara
+2024,Mart,24,2024-03-24,Fatura Ödemesi,148.08,ATM,ATM Çekimi,Ankara
+2024,Mart,12,2024-03-12,Kafe,337.49,ATM,ATM Çekimi,Ankara
+2024,Mart,12,2024-03-12,Alışveriş,324.66,ATM,ATM Çekimi,İstanbul
+2024,Mart,7,2024-03-07,Seyahat,134.78,Giyim,H&M,İstanbul
+2024,Mart,7,2024-03-07,Fatura Ödemesi,222.98,Giyim,H&M,İstanbul
+2024,Mart,7,2024-03-07,Kafe,476.3,Fatura Ödemesi,Elektrik,Ankara
+2024,Mart,23,2024-03-23,Kafe,358.47,Seyahat,Uçak,İstanbul
+2024,Mart,13,2024-03-13,ATM Çekimi,361.57,Seyahat,Otobüs,İzmir
+2024,Mart,29,2024-03-29,Fatura Ödemesi,448.42,ATM,ATM Çekimi,İstanbul
+2024,Mart,28,2024-03-28,Alışveriş,38.73,Seyahat,Otobüs,İstanbul
+2024,Mart,17,2024-03-17,Kafe,111.9,Kafe,Kahve Dünyası,Ankara
+2024,Mart,6,2024-03-06,Fatura Ödemesi,240.02,Kafe,Starbucks,İzmir
+2024,Mart,13,2024-03-13,Alışveriş,461.75,Kafe,Kahve Dünyası,İzmir
+2024,Mart,3,2024-03-03,Fatura Ödemesi,196.52,Seyahat,Otobüs,Ankara
+2024,Mart,25,2024-03-25,Alışveriş,56.15,Kafe,Starbucks,Ankara
+2024,Mart,3,2024-03-03,Alışveriş,59.7,Fatura Ödemesi,Elektrik,İzmir
+2024,Mart,4,2024-03-04,Kafe,379.88,ATM,ATM Çekimi,İzmir
+2024,Mart,23,2024-03-23,Kafe,306.31,Fatura Ödemesi,Su,İstanbul
+2024,Mart,26,2024-03-26,ATM Çekimi,330.93,Kafe,Kahve Dünyası,İzmir
+2024,Mart,11,2024-03-11,ATM Çekimi,174.17,ATM,ATM Çekimi,İzmir
+2024,Mart,1,2024-03-01,Seyahat,54.56,Seyahat,Tren,İzmir
+2024,Mart,28,2024-03-28,ATM Çekimi,227.29,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,7,2024-03-07,ATM Çekimi,464.82,Kafe,Starbucks,İstanbul
+2024,Mart,24,2024-03-24,Alışveriş,173.0,Giyim,Zara,İzmir
+2024,Mart,25,2024-03-25,Seyahat,139.3,Giyim,Zara,İzmir
+2024,Mart,20,2024-03-20,Alışveriş,431.71,ATM,ATM Çekimi,İstanbul
+2024,Mart,9,2024-03-09,Fatura Ödemesi,420.58,Fatura Ödemesi,Doğalgaz,İstanbul
+2024,Mart,22,2024-03-22,Fatura Ödemesi,100.57,Fatura Ödemesi,Su,İzmir
+2024,Mart,17,2024-03-17,ATM Çekimi,242.62,Giyim,LC Waikiki,İzmir
+2024,Mart,18,2024-03-18,ATM Çekimi,354.57,Seyahat,Otobüs,İstanbul
+2024,Mart,22,2024-03-22,Fatura Ödemesi,454.08,Fatura Ödemesi,Doğalgaz,İzmir
+2024,Mart,7,2024-03-07,ATM Çekimi,349.36,Giyim,LC Waikiki,Ankara
+2024,Mart,30,2024-03-30,Fatura Ödemesi,343.84,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,23,2024-03-23,Alışveriş,299.59,ATM,ATM Çekimi,İstanbul
+2024,Mart,10,2024-03-10,Seyahat,135.02,Seyahat,Tren,İstanbul
+2024,Mart,19,2024-03-19,Kafe,197.78,Seyahat,Uçak,İzmir
+2024,Mart,16,2024-03-16,Kafe,296.77,Seyahat,Tren,Ankara
+2024,Mart,10,2024-03-10,Kafe,304.91,Giyim,LC Waikiki,Ankara
+2024,Mart,18,2024-03-18,Kafe,159.69,ATM,ATM Çekimi,İzmir
+2024,Mart,4,2024-03-04,Fatura Ödemesi,25.24,Giyim,LC Waikiki,İzmir
+2024,Mart,22,2024-03-22,Fatura Ödemesi,149.46,Seyahat,Otobüs,İstanbul
+2024,Mart,20,2024-03-20,Fatura Ödemesi,14.92,Fatura Ödemesi,Elektrik,Ankara
+2024,Mart,15,2024-03-15,ATM Çekimi,113.32,Seyahat,Uçak,Ankara
+2024,Mart,24,2024-03-24,Seyahat,19.92,ATM,ATM Çekimi,İzmir
+2024,Mart,14,2024-03-14,Seyahat,164.12,ATM,ATM Çekimi,Ankara
+2024,Mart,12,2024-03-12,Kafe,318.58,ATM,ATM Çekimi,Ankara
+2024,Mart,13,2024-03-13,Alışveriş,34.13,Fatura Ödemesi,Su,İstanbul
+2024,Mart,14,2024-03-14,ATM Çekimi,303.49,Fatura Ödemesi,Su,Ankara
+2024,Mart,4,2024-03-04,Alışveriş,275.88,ATM,ATM Çekimi,İzmir
+2024,Mart,31,2024-03-31,Alışveriş,412.21,Seyahat,Tren,İzmir
+2024,Mart,4,2024-03-04,Fatura Ödemesi,427.35,Kafe,Starbucks,İstanbul
+2024,Mart,21,2024-03-21,Fatura Ödemesi,168.65,Giyim,H&M,İstanbul
+2024,Mart,2,2024-03-02,Fatura Ödemesi,499.94,Kafe,Kahve Dünyası,İzmir
+2024,Mart,28,2024-03-28,Alışveriş,196.74,Fatura Ödemesi,Elektrik,Ankara
+2024,Mart,28,2024-03-28,ATM Çekimi,137.97,Giyim,H&M,Ankara
+2024,Mart,20,2024-03-20,Fatura Ödemesi,356.64,ATM,ATM Çekimi,İstanbul
+2024,Mart,14,2024-03-14,Kafe,328.94,Giyim,Zara,İstanbul
+2024,Mart,2,2024-03-02,Alışveriş,261.72,Kafe,Starbucks,İstanbul
+2024,Mart,30,2024-03-30,Seyahat,258.64,Giyim,LC Waikiki,İstanbul
+2024,Mart,28,2024-03-28,Seyahat,325.82,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,17,2024-03-17,ATM Çekimi,135.88,Kafe,Gloria Jeans,Ankara
+2024,Mart,31,2024-03-31,Alışveriş,268.92,Kafe,Starbucks,İzmir
+2024,Mart,24,2024-03-24,ATM Çekimi,45.54,Fatura Ödemesi,Elektrik,İzmir
+2024,Mart,26,2024-03-26,ATM Çekimi,208.49,Seyahat,Uçak,Ankara
+2024,Mart,22,2024-03-22,Fatura Ödemesi,424.46,Fatura Ödemesi,Elektrik,İzmir
+2024,Mart,2,2024-03-02,Seyahat,449.98,Seyahat,Otobüs,İstanbul
+2024,Mart,8,2024-03-08,Fatura Ödemesi,59.24,Fatura Ödemesi,Doğalgaz,İstanbul
+2024,Mart,5,2024-03-05,Seyahat,241.54,Seyahat,Uçak,İzmir
+2024,Mart,7,2024-03-07,Kafe,132.43,Giyim,LC Waikiki,Ankara
+2024,Mart,23,2024-03-23,Seyahat,265.28,Kafe,Gloria Jeans,İstanbul
+2024,Mart,9,2024-03-09,ATM Çekimi,148.91,ATM,ATM Çekimi,İzmir
+2024,Mart,26,2024-03-26,ATM Çekimi,85.72,Kafe,Kahve Dünyası,Ankara
+2024,Mart,25,2024-03-25,Kafe,436.81,ATM,ATM Çekimi,Ankara
+2024,Mart,15,2024-03-15,ATM Çekimi,220.33,Seyahat,Tren,İzmir
+2024,Mart,23,2024-03-23,Fatura Ödemesi,203.51,Fatura Ödemesi,Su,İzmir
+2024,Mart,20,2024-03-20,Fatura Ödemesi,389.92,Kafe,Kahve Dünyası,İstanbul
+2024,Mart,14,2024-03-14,Fatura Ödemesi,202.39,Giyim,LC Waikiki,Ankara
+2024,Mart,15,2024-03-15,Kafe,288.11,Fatura Ödemesi,Su,Ankara
+2024,Mart,6,2024-03-06,Kafe,120.76,Fatura Ödemesi,Doğalgaz,İzmir
+2024,Mart,1,2024-03-01,Fatura Ödemesi,346.93,Seyahat,Otobüs,İstanbul
+2024,Mart,6,2024-03-06,ATM Çekimi,488.0,Kafe,Gloria Jeans,İstanbul
+2024,Mart,4,2024-03-04,ATM Çekimi,463.95,Seyahat,Uçak,İzmir
+2024,Mart,12,2024-03-12,Alışveriş,331.7,Kafe,Gloria Jeans,İzmir
+2024,Mart,3,2024-03-03,Fatura Ödemesi,490.41,Fatura Ödemesi,Doğalgaz,İzmir
+2024,Mart,20,2024-03-20,Seyahat,211.46,Giyim,LC Waikiki,İzmir
+2024,Mart,14,2024-03-14,Kafe,432.64,Kafe,Starbucks,İzmir
+2024,Mart,9,2024-03-09,Alışveriş,214.64,Kafe,Starbucks,İzmir
+2024,Mart,22,2024-03-22,Fatura Ödemesi,212.25,Fatura Ödemesi,Doğalgaz,İzmir
+2024,Mart,31,2024-03-31,Alışveriş,384.26,Giyim,LC Waikiki,İstanbul
+2024,Mart,16,2024-03-16,Kafe,82.73,Seyahat,Uçak,İzmir
+2024,Mart,12,2024-03-12,Seyahat,75.24,Fatura Ödemesi,Su,İzmir
+2024,Mart,29,2024-03-29,Fatura Ödemesi,184.61,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,10,2024-03-10,Fatura Ödemesi,422.53,Giyim,Zara,Ankara
+2024,Mart,21,2024-03-21,ATM Çekimi,322.0,ATM,ATM Çekimi,Ankara
+2024,Mart,12,2024-03-12,Fatura Ödemesi,70.63,ATM,ATM Çekimi,Ankara
+2024,Mart,24,2024-03-24,Seyahat,63.63,Fatura Ödemesi,Su,Ankara
+2024,Mart,24,2024-03-24,Fatura Ödemesi,493.62,Seyahat,Tren,İzmir
+2024,Mart,17,2024-03-17,Kafe,325.26,Kafe,Gloria Jeans,Ankara
+2024,Mart,27,2024-03-27,ATM Çekimi,246.11,ATM,ATM Çekimi,İzmir
+2024,Mart,7,2024-03-07,Fatura Ödemesi,186.36,Fatura Ödemesi,Elektrik,Ankara
+2024,Mart,14,2024-03-14,Seyahat,396.29,ATM,ATM Çekimi,İzmir
+2024,Mart,27,2024-03-27,Fatura Ödemesi,403.52,Kafe,Starbucks,İstanbul
+2024,Mart,5,2024-03-05,Fatura Ödemesi,260.63,ATM,ATM Çekimi,İzmir
+2024,Mart,5,2024-03-05,Alışveriş,458.18,Giyim,Zara,İstanbul
+2024,Mart,30,2024-03-30,Fatura Ödemesi,16.54,ATM,ATM Çekimi,İstanbul
+2024,Mart,27,2024-03-27,Seyahat,121.95,ATM,ATM Çekimi,Ankara
+2024,Mart,27,2024-03-27,ATM Çekimi,228.57,Seyahat,Tren,İstanbul
+2024,Mart,16,2024-03-16,ATM Çekimi,198.82,Giyim,Zara,Ankara
+2024,Mart,1,2024-03-01,Kafe,65.32,ATM,ATM Çekimi,İstanbul
+2024,Mart,15,2024-03-15,ATM Çekimi,255.02,ATM,ATM Çekimi,Ankara
+2024,Mart,16,2024-03-16,Kafe,169.85,Fatura Ödemesi,Elektrik,İstanbul
+2024,Mart,29,2024-03-29,Fatura Ödemesi,369.1,ATM,ATM Çekimi,Ankara
+2024,Mart,9,2024-03-09,Alışveriş,290.27,ATM,ATM Çekimi,İzmir
+2024,Mart,15,2024-03-15,Seyahat,22.98,Seyahat,Tren,İzmir
+2024,Mart,11,2024-03-11,Fatura Ödemesi,486.29,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,3,2024-03-03,Kafe,13.73,Giyim,H&M,Ankara
+2024,Mart,16,2024-03-16,ATM Çekimi,474.97,Fatura Ödemesi,Elektrik,İzmir
+2024,Mart,8,2024-03-08,Fatura Ödemesi,31.06,Fatura Ödemesi,Su,İstanbul
+2024,Mart,31,2024-03-31,Kafe,118.63,Kafe,Kahve Dünyası,Ankara
+2024,Mart,25,2024-03-25,Kafe,420.31,Seyahat,Uçak,İstanbul
+2024,Mart,2,2024-03-02,Fatura Ödemesi,378.93,ATM,ATM Çekimi,İstanbul
+2024,Mart,21,2024-03-21,Kafe,153.29,Kafe,Starbucks,Ankara
+2024,Mart,21,2024-03-21,Fatura Ödemesi,39.7,Seyahat,Otobüs,İstanbul
+2024,Mart,9,2024-03-09,Kafe,360.67,Seyahat,Uçak,İstanbul
+2024,Mart,15,2024-03-15,Kafe,481.05,Kafe,Gloria Jeans,Ankara
+2024,Mart,25,2024-03-25,Seyahat,88.4,Seyahat,Otobüs,İstanbul
+2024,Mart,17,2024-03-17,Alışveriş,251.58,ATM,ATM Çekimi,İstanbul
+2024,Mart,20,2024-03-20,Fatura Ödemesi,156.2,Kafe,Starbucks,Ankara
+2024,Mart,27,2024-03-27,Alışveriş,392.13,Kafe,Starbucks,Ankara
+2024,Mart,22,2024-03-22,Fatura Ödemesi,324.6,Seyahat,Uçak,Ankara
+2024,Mart,23,2024-03-23,ATM Çekimi,124.81,Seyahat,Uçak,İzmir
+2024,Mart,25,2024-03-25,Kafe,152.1,Giyim,LC Waikiki,İzmir
+2024,Mart,9,2024-03-09,ATM Çekimi,178.98,ATM,ATM Çekimi,İstanbul
+2024,Mart,9,2024-03-09,Alışveriş,31.75,Fatura Ödemesi,Doğalgaz,İzmir
+2024,Mart,5,2024-03-05,Alışveriş,278.38,ATM,ATM Çekimi,İstanbul
+2024,Mart,16,2024-03-16,Fatura Ödemesi,53.92,Seyahat,Tren,İzmir
+2024,Mart,7,2024-03-07,Fatura Ödemesi,120.93,Seyahat,Tren,İzmir
+2024,Mart,14,2024-03-14,ATM Çekimi,185.56,Giyim,Zara,İstanbul
+2024,Mart,21,2024-03-21,ATM Çekimi,168.78,Kafe,Gloria Jeans,İzmir
+2024,Mart,29,2024-03-29,ATM Çekimi,398.26,Giyim,H&M,İstanbul
+2024,Mart,25,2024-03-25,Fatura Ödemesi,410.81,Seyahat,Tren,İzmir
+2024,Mart,4,2024-03-04,Alışveriş,473.12,Kafe,Starbucks,İstanbul
+2024,Mart,20,2024-03-20,Alışveriş,180.42,Seyahat,Tren,Ankara
+2024,Mart,4,2024-03-04,Fatura Ödemesi,196.82,Kafe,Starbucks,İzmir
+2024,Mart,31,2024-03-31,Fatura Ödemesi,212.35,Kafe,Starbucks,İzmir
+2024,Mart,20,2024-03-20,ATM Çekimi,292.41,Kafe,Starbucks,Ankara
+2024,Mart,26,2024-03-26,Fatura Ödemesi,55.99,Kafe,Starbucks,İzmir
+2024,Mart,3,2024-03-03,Kafe,371.38,Fatura Ödemesi,Elektrik,İstanbul
+2024,Mart,16,2024-03-16,Fatura Ödemesi,484.76,ATM,ATM Çekimi,İzmir
+2024,Mart,31,2024-03-31,Alışveriş,499.65,Giyim,H&M,Ankara
+2024,Mart,8,2024-03-08,Kafe,260.27,Kafe,Kahve Dünyası,İzmir
+2024,Mart,1,2024-03-01,Alışveriş,305.16,ATM,ATM Çekimi,İzmir
+2024,Mart,13,2024-03-13,ATM Çekimi,39.68,Fatura Ödemesi,Elektrik,İzmir
+2024,Mart,8,2024-03-08,Seyahat,178.72,Kafe,Gloria Jeans,İzmir
+2024,Mart,8,2024-03-08,Kafe,103.61,Seyahat,Tren,Ankara
+2024,Mart,14,2024-03-14,ATM Çekimi,351.67,Giyim,Zara,İstanbul
+2024,Mart,2,2024-03-02,Seyahat,33.64,Kafe,Starbucks,İstanbul
+2024,Mart,28,2024-03-28,ATM Çekimi,291.77,ATM,ATM Çekimi,İzmir
+2024,Mart,8,2024-03-08,Kafe,149.39,Fatura Ödemesi,Su,İstanbul
+2024,Mart,21,2024-03-21,Seyahat,473.97,ATM,ATM Çekimi,Ankara
+2024,Mart,26,2024-03-26,Kafe,419.22,Seyahat,Otobüs,İzmir
+2024,Mart,22,2024-03-22,Fatura Ödemesi,295.65,ATM,ATM Çekimi,Ankara
+2024,Mart,2,2024-03-02,Kafe,56.36,Seyahat,Otobüs,İstanbul
+2024,Mart,2,2024-03-02,Seyahat,222.66,Giyim,H&M,İzmir
+2024,Mart,20,2024-03-20,Kafe,334.47,Kafe,Gloria Jeans,Ankara
+2024,Mart,15,2024-03-15,Fatura Ödemesi,109.03,Giyim,LC Waikiki,İzmir
+2024,Mart,14,2024-03-14,Seyahat,470.7,ATM,ATM Çekimi,İstanbul
+2024,Mart,31,2024-03-31,Fatura Ödemesi,297.4,Seyahat,Tren,Ankara
+2024,Mart,2,2024-03-02,Seyahat,123.88,Giyim,H&M,İstanbul
+2024,Mart,16,2024-03-16,Fatura Ödemesi,360.88,Kafe,Kahve Dünyası,Ankara
+2024,Mart,6,2024-03-06,Alışveriş,161.6,Fatura Ödemesi,Doğalgaz,İzmir
+2024,Mart,8,2024-03-08,Seyahat,498.63,Giyim,LC Waikiki,Ankara
+2024,Mart,18,2024-03-18,Kafe,366.62,Fatura Ödemesi,Elektrik,İzmir
+2024,Mart,21,2024-03-21,Seyahat,312.48,Fatura Ödemesi,Su,Ankara
+2024,Mart,19,2024-03-19,Alışveriş,498.79,Seyahat,Otobüs,İstanbul
+2024,Mart,29,2024-03-29,Fatura Ödemesi,294.99,Giyim,LC Waikiki,İzmir
+2024,Mart,23,2024-03-23,Kafe,390.9,Giyim,LC Waikiki,Ankara
+2024,Mart,16,2024-03-16,Kafe,424.62,Fatura Ödemesi,Su,İzmir
+2024,Mart,8,2024-03-08,Alışveriş,157.14,ATM,ATM Çekimi,Ankara
+2024,Mart,11,2024-03-11,Seyahat,418.54,Seyahat,Otobüs,İstanbul
+2024,Mart,6,2024-03-06,Seyahat,80.22,Giyim,LC Waikiki,Ankara
+2024,Mart,7,2024-03-07,Kafe,482.42,Seyahat,Uçak,Ankara
+2024,Mart,15,2024-03-15,Fatura Ödemesi,407.42,ATM,ATM Çekimi,İzmir
+2024,Mart,22,2024-03-22,Alışveriş,455.09,Fatura Ödemesi,Su,İstanbul
+2024,Mart,28,2024-03-28,ATM Çekimi,81.95,ATM,ATM Çekimi,Ankara
+2024,Mart,21,2024-03-21,Fatura Ödemesi,471.46,ATM,ATM Çekimi,Ankara
+2024,Mart,28,2024-03-28,Fatura Ödemesi,401.83,Giyim,H&M,İstanbul
+2024,Mart,15,2024-03-15,Fatura Ödemesi,403.7,ATM,ATM Çekimi,Ankara
+2024,Mart,7,2024-03-07,ATM Çekimi,242.94,Seyahat,Otobüs,İstanbul
+2024,Mart,15,2024-03-15,ATM Çekimi,418.97,Seyahat,Uçak,Ankara
+2024,Mart,25,2024-03-25,ATM Çekimi,84.98,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,8,2024-03-08,ATM Çekimi,131.64,Fatura Ödemesi,Elektrik,İzmir
+2024,Mart,7,2024-03-07,Seyahat,366.6,ATM,ATM Çekimi,İstanbul
+2024,Mart,8,2024-03-08,ATM Çekimi,367.02,ATM,ATM Çekimi,Ankara
+2024,Mart,26,2024-03-26,Alışveriş,237.44,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,12,2024-03-12,ATM Çekimi,52.69,Giyim,H&M,İzmir
+2024,Mart,4,2024-03-04,Kafe,167.93,Seyahat,Uçak,Ankara
+2024,Mart,28,2024-03-28,ATM Çekimi,189.45,Fatura Ödemesi,Elektrik,Ankara
+2024,Mart,29,2024-03-29,Fatura Ödemesi,347.97,Kafe,Gloria Jeans,İstanbul
+2024,Mart,6,2024-03-06,ATM Çekimi,458.17,Kafe,Kahve Dünyası,İstanbul
+2024,Mart,26,2024-03-26,Alışveriş,101.07,Fatura Ödemesi,Elektrik,Ankara
+2024,Mart,22,2024-03-22,ATM Çekimi,221.63,Giyim,LC Waikiki,Ankara
+2024,Mart,14,2024-03-14,ATM Çekimi,328.89,ATM,ATM Çekimi,Ankara
+2024,Mart,2,2024-03-02,Fatura Ödemesi,476.22,Kafe,Gloria Jeans,İstanbul
+2024,Mart,7,2024-03-07,Alışveriş,213.63,Kafe,Starbucks,İstanbul
+2024,Mart,11,2024-03-11,Fatura Ödemesi,311.07,Seyahat,Uçak,İstanbul
+2024,Mart,22,2024-03-22,Kafe,230.81,ATM,ATM Çekimi,Ankara
+2024,Mart,31,2024-03-31,Seyahat,305.38,Giyim,H&M,İzmir
+2024,Mart,21,2024-03-21,ATM Çekimi,113.69,Fatura Ödemesi,Su,İstanbul
+2024,Mart,2,2024-03-02,Fatura Ödemesi,330.69,Seyahat,Tren,Ankara
+2024,Mart,28,2024-03-28,Fatura Ödemesi,95.28,Seyahat,Otobüs,İzmir
+2024,Mart,2,2024-03-02,Alışveriş,381.91,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,26,2024-03-26,Fatura Ödemesi,381.67,Seyahat,Uçak,İzmir
+2024,Mart,30,2024-03-30,Alışveriş,227.63,Giyim,Zara,Ankara
+2024,Mart,19,2024-03-19,Seyahat,381.05,Seyahat,Uçak,İzmir
+2024,Mart,7,2024-03-07,Kafe,241.28,Seyahat,Tren,İstanbul
+2024,Mart,18,2024-03-18,Alışveriş,344.31,Fatura Ödemesi,Doğalgaz,İzmir
+2024,Mart,28,2024-03-28,ATM Çekimi,145.53,Seyahat,Tren,İstanbul
+2024,Mart,18,2024-03-18,Alışveriş,152.35,Giyim,Zara,İzmir
+2024,Mart,18,2024-03-18,Fatura Ödemesi,400.26,Kafe,Kahve Dünyası,Ankara
+2024,Mart,27,2024-03-27,ATM Çekimi,118.72,Fatura Ödemesi,Doğalgaz,İstanbul
+2024,Mart,16,2024-03-16,Alışveriş,81.58,Seyahat,Tren,Ankara
+2024,Mart,22,2024-03-22,Fatura Ödemesi,476.96,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,21,2024-03-21,Alışveriş,408.4,Kafe,Starbucks,İzmir
+2024,Mart,10,2024-03-10,ATM Çekimi,295.97,Kafe,Starbucks,İstanbul
+2024,Mart,22,2024-03-22,Fatura Ödemesi,410.81,Seyahat,Uçak,İstanbul
+2024,Mart,11,2024-03-11,Fatura Ödemesi,346.61,Kafe,Kahve Dünyası,İzmir
+2024,Mart,29,2024-03-29,ATM Çekimi,273.99,Seyahat,Otobüs,Ankara
+2024,Mart,12,2024-03-12,Kafe,28.37,Kafe,Gloria Jeans,İstanbul
+2024,Mart,8,2024-03-08,Alışveriş,173.54,Seyahat,Uçak,İzmir
+2024,Mart,31,2024-03-31,Fatura Ödemesi,239.01,ATM,ATM Çekimi,Ankara
+2024,Mart,20,2024-03-20,Fatura Ödemesi,220.61,Fatura Ödemesi,Doğalgaz,İstanbul
+2024,Mart,20,2024-03-20,Alışveriş,393.92,Seyahat,Otobüs,İzmir
+2024,Mart,27,2024-03-27,Alışveriş,132.88,Seyahat,Otobüs,İstanbul
+2024,Mart,21,2024-03-21,Kafe,182.49,Seyahat,Otobüs,İzmir
+2024,Mart,16,2024-03-16,Seyahat,134.61,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,10,2024-03-10,Kafe,423.45,ATM,ATM Çekimi,Ankara
+2024,Mart,21,2024-03-21,Seyahat,18.57,Kafe,Kahve Dünyası,İstanbul
+2024,Mart,21,2024-03-21,Alışveriş,242.96,Seyahat,Uçak,Ankara
+2024,Mart,14,2024-03-14,Fatura Ödemesi,98.69,Seyahat,Tren,İstanbul
+2024,Mart,11,2024-03-11,Alışveriş,81.2,Fatura Ödemesi,Su,İstanbul
+2024,Mart,21,2024-03-21,Kafe,52.45,Seyahat,Tren,İzmir
+2024,Mart,14,2024-03-14,Seyahat,102.31,Fatura Ödemesi,Su,İstanbul
+2024,Mart,26,2024-03-26,Kafe,425.33,Giyim,LC Waikiki,Ankara
+2024,Mart,5,2024-03-05,ATM Çekimi,356.7,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,16,2024-03-16,Alışveriş,459.47,Fatura Ödemesi,Doğalgaz,İstanbul
+2024,Mart,7,2024-03-07,ATM Çekimi,301.24,ATM,ATM Çekimi,İzmir
+2024,Mart,22,2024-03-22,Alışveriş,26.42,ATM,ATM Çekimi,Ankara
+2024,Mart,25,2024-03-25,ATM Çekimi,468.15,ATM,ATM Çekimi,İstanbul
+2024,Mart,28,2024-03-28,Kafe,399.95,Giyim,LC Waikiki,Ankara
+2024,Mart,26,2024-03-26,ATM Çekimi,204.74,Seyahat,Tren,Ankara
+2024,Mart,20,2024-03-20,ATM Çekimi,230.0,ATM,ATM Çekimi,Ankara
+2024,Mart,18,2024-03-18,Kafe,26.08,Kafe,Starbucks,İzmir
+2024,Mart,22,2024-03-22,Seyahat,350.27,ATM,ATM Çekimi,Ankara
+2024,Mart,14,2024-03-14,Seyahat,91.16,Seyahat,Uçak,Ankara
+2024,Mart,18,2024-03-18,Alışveriş,276.64,Seyahat,Otobüs,İzmir
+2024,Mart,1,2024-03-01,Seyahat,10.18,Giyim,Zara,İzmir
+2024,Mart,23,2024-03-23,Seyahat,211.25,Giyim,H&M,İzmir
+2024,Mart,18,2024-03-18,Seyahat,181.2,Fatura Ödemesi,Su,İstanbul
+2024,Mart,20,2024-03-20,Seyahat,46.66,Seyahat,Tren,Ankara
+2024,Mart,20,2024-03-20,Fatura Ödemesi,436.22,ATM,ATM Çekimi,Ankara
+2024,Mart,23,2024-03-23,Fatura Ödemesi,225.99,Seyahat,Tren,İstanbul
+2024,Mart,26,2024-03-26,ATM Çekimi,433.4,Fatura Ödemesi,Su,İstanbul
+2024,Mart,25,2024-03-25,ATM Çekimi,342.17,Fatura Ödemesi,Su,İzmir
+2024,Mart,11,2024-03-11,Alışveriş,198.05,Kafe,Gloria Jeans,İzmir
+2024,Mart,30,2024-03-30,Alışveriş,345.57,Seyahat,Tren,İzmir
+2024,Mart,2,2024-03-02,Kafe,444.44,Kafe,Kahve Dünyası,İzmir
+2024,Mart,19,2024-03-19,ATM Çekimi,327.18,Giyim,Zara,Ankara
+2024,Mart,7,2024-03-07,Kafe,216.68,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,25,2024-03-25,Seyahat,345.62,Kafe,Starbucks,Ankara
+2024,Mart,22,2024-03-22,Kafe,297.77,ATM,ATM Çekimi,İzmir
+2024,Mart,11,2024-03-11,Kafe,286.54,Fatura Ödemesi,Su,İzmir
+2024,Mart,22,2024-03-22,Fatura Ödemesi,292.81,Seyahat,Tren,Ankara
+2024,Mart,4,2024-03-04,Alışveriş,184.13,Seyahat,Uçak,İstanbul
+2024,Mart,14,2024-03-14,Seyahat,304.38,Giyim,LC Waikiki,İzmir
+2024,Mart,18,2024-03-18,Kafe,101.76,Fatura Ödemesi,Su,Ankara
+2024,Mart,28,2024-03-28,Alışveriş,291.66,Kafe,Starbucks,İzmir
+2024,Mart,29,2024-03-29,Kafe,467.65,Fatura Ödemesi,Elektrik,İzmir
+2024,Mart,8,2024-03-08,Alışveriş,52.53,Fatura Ödemesi,Su,İzmir
+2024,Mart,19,2024-03-19,Seyahat,232.44,Kafe,Starbucks,İzmir
+2024,Mart,20,2024-03-20,Fatura Ödemesi,182.77,Seyahat,Otobüs,İstanbul
+2024,Mart,31,2024-03-31,Kafe,235.2,Seyahat,Uçak,İzmir
+2024,Mart,12,2024-03-12,ATM Çekimi,213.36,ATM,ATM Çekimi,İstanbul
+2024,Mart,25,2024-03-25,Fatura Ödemesi,19.39,Seyahat,Otobüs,İstanbul
+2024,Mart,10,2024-03-10,Fatura Ödemesi,276.2,Fatura Ödemesi,Su,İzmir
+2024,Mart,21,2024-03-21,ATM Çekimi,184.56,Seyahat,Tren,Ankara
+2024,Mart,3,2024-03-03,Seyahat,429.23,ATM,ATM Çekimi,İstanbul
+2024,Mart,19,2024-03-19,Alışveriş,159.24,Giyim,LC Waikiki,İstanbul
+2024,Mart,31,2024-03-31,Kafe,42.6,ATM,ATM Çekimi,Ankara
+2024,Mart,30,2024-03-30,Kafe,244.86,Fatura Ödemesi,Su,Ankara
+2024,Mart,1,2024-03-01,Seyahat,37.34,Fatura Ödemesi,Su,İzmir
+2024,Mart,3,2024-03-03,Kafe,99.24,Seyahat,Otobüs,İzmir
+2024,Mart,11,2024-03-11,Seyahat,188.24,Kafe,Kahve Dünyası,Ankara
+2024,Mart,4,2024-03-04,ATM Çekimi,293.54,Fatura Ödemesi,Su,İstanbul
+2024,Mart,21,2024-03-21,Alışveriş,337.42,ATM,ATM Çekimi,İstanbul
+2024,Mart,9,2024-03-09,Fatura Ödemesi,452.62,Kafe,Gloria Jeans,Ankara
+2024,Mart,6,2024-03-06,ATM Çekimi,90.13,Kafe,Kahve Dünyası,İstanbul
+2024,Mart,11,2024-03-11,Fatura Ödemesi,200.07,Seyahat,Uçak,Ankara
+2024,Mart,23,2024-03-23,ATM Çekimi,417.43,Kafe,Starbucks,İzmir
+2024,Mart,30,2024-03-30,ATM Çekimi,160.91,Kafe,Gloria Jeans,İzmir
+2024,Mart,31,2024-03-31,Kafe,325.02,Kafe,Kahve Dünyası,İzmir
+2024,Mart,9,2024-03-09,ATM Çekimi,112.39,Kafe,Starbucks,İzmir
+2024,Mart,17,2024-03-17,Seyahat,431.78,ATM,ATM Çekimi,Ankara
+2024,Mart,11,2024-03-11,Alışveriş,429.68,Seyahat,Uçak,İstanbul
+2024,Mart,22,2024-03-22,Alışveriş,217.3,Seyahat,Tren,Ankara
+2024,Mart,15,2024-03-15,Alışveriş,52.62,ATM,ATM Çekimi,İzmir
+2024,Mart,19,2024-03-19,Kafe,178.27,ATM,ATM Çekimi,İzmir
+2024,Mart,25,2024-03-25,Alışveriş,409.77,Seyahat,Uçak,İstanbul
+2024,Mart,13,2024-03-13,Fatura Ödemesi,251.75,Kafe,Starbucks,İstanbul
+2024,Mart,25,2024-03-25,Alışveriş,481.72,Kafe,Kahve Dünyası,İstanbul
+2024,Mart,17,2024-03-17,Alışveriş,58.52,Kafe,Gloria Jeans,Ankara
+2024,Mart,6,2024-03-06,Fatura Ödemesi,387.34,ATM,ATM Çekimi,İzmir
+2024,Mart,2,2024-03-02,Fatura Ödemesi,95.91,Seyahat,Tren,İstanbul
+2024,Mart,19,2024-03-19,Alışveriş,172.93,Kafe,Gloria Jeans,İzmir
+2024,Mart,16,2024-03-16,Alışveriş,53.05,Kafe,Gloria Jeans,Ankara
+2024,Mart,22,2024-03-22,Fatura Ödemesi,14.46,ATM,ATM Çekimi,İzmir
+2024,Mart,23,2024-03-23,Kafe,222.92,Kafe,Kahve Dünyası,Ankara
+2024,Mart,16,2024-03-16,Kafe,347.38,Giyim,LC Waikiki,İstanbul
+2024,Mart,11,2024-03-11,Alışveriş,183.45,Fatura Ödemesi,Su,İzmir
+2024,Mart,18,2024-03-18,Fatura Ödemesi,129.38,Seyahat,Otobüs,Ankara
+2024,Mart,25,2024-03-25,Kafe,246.34,Fatura Ödemesi,Su,Ankara
+2024,Mart,7,2024-03-07,Fatura Ödemesi,451.2,Seyahat,Tren,Ankara
+2024,Mart,15,2024-03-15,Kafe,104.83,Kafe,Gloria Jeans,İstanbul
+2024,Mart,23,2024-03-23,Fatura Ödemesi,56.3,Fatura Ödemesi,Elektrik,İstanbul
+2024,Mart,2,2024-03-02,Seyahat,91.5,ATM,ATM Çekimi,İzmir
+2024,Mart,24,2024-03-24,Alışveriş,333.79,Fatura Ödemesi,Elektrik,İzmir
+2024,Mart,6,2024-03-06,Seyahat,482.06,Kafe,Gloria Jeans,İzmir
+2024,Mart,25,2024-03-25,Alışveriş,333.98,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,8,2024-03-08,ATM Çekimi,408.37,Giyim,H&M,Ankara
+2024,Mart,22,2024-03-22,ATM Çekimi,117.85,ATM,ATM Çekimi,İstanbul
+2024,Mart,27,2024-03-27,Alışveriş,227.68,Seyahat,Uçak,Ankara
+2024,Mart,8,2024-03-08,Kafe,272.21,Kafe,Gloria Jeans,İzmir
+2024,Mart,31,2024-03-31,Fatura Ödemesi,203.65,Fatura Ödemesi,Elektrik,İzmir
+2024,Mart,6,2024-03-06,Alışveriş,25.79,Seyahat,Uçak,İzmir
+2024,Mart,3,2024-03-03,Seyahat,209.96,ATM,ATM Çekimi,İstanbul
+2024,Mart,28,2024-03-28,Fatura Ödemesi,471.57,Seyahat,Otobüs,İzmir
+2024,Mart,5,2024-03-05,ATM Çekimi,410.16,ATM,ATM Çekimi,İzmir
+2024,Mart,23,2024-03-23,ATM Çekimi,36.21,ATM,ATM Çekimi,Ankara
+2024,Mart,28,2024-03-28,Seyahat,109.81,Kafe,Gloria Jeans,İzmir
+2024,Mart,31,2024-03-31,Kafe,190.88,Giyim,H&M,İzmir
+2024,Mart,16,2024-03-16,Fatura Ödemesi,477.76,Giyim,LC Waikiki,İzmir
+2024,Mart,24,2024-03-24,Kafe,441.6,Giyim,Zara,Ankara
+2024,Mart,24,2024-03-24,ATM Çekimi,29.74,Kafe,Starbucks,Ankara
+2024,Mart,13,2024-03-13,ATM Çekimi,113.39,ATM,ATM Çekimi,İzmir
+2024,Mart,25,2024-03-25,Kafe,490.84,Giyim,H&M,Ankara
+2024,Mart,10,2024-03-10,ATM Çekimi,409.83,Kafe,Gloria Jeans,Ankara
+2024,Mart,11,2024-03-11,Alışveriş,473.35,Seyahat,Uçak,İzmir
+2024,Mart,19,2024-03-19,Fatura Ödemesi,255.5,Kafe,Gloria Jeans,İzmir
+2024,Mart,6,2024-03-06,Seyahat,453.59,Kafe,Kahve Dünyası,İzmir
+2024,Mart,26,2024-03-26,ATM Çekimi,311.2,Kafe,Gloria Jeans,İzmir
+2024,Mart,23,2024-03-23,Alışveriş,462.29,Giyim,LC Waikiki,Ankara
+2024,Mart,23,2024-03-23,Fatura Ödemesi,187.44,Fatura Ödemesi,Su,İstanbul
+2024,Mart,3,2024-03-03,ATM Çekimi,82.03,Fatura Ödemesi,Elektrik,İzmir
+2024,Mart,24,2024-03-24,Fatura Ödemesi,216.35,Fatura Ödemesi,Doğalgaz,İzmir
+2024,Mart,6,2024-03-06,Fatura Ödemesi,338.85,Kafe,Starbucks,İzmir
+2024,Mart,18,2024-03-18,Fatura Ödemesi,244.31,Fatura Ödemesi,Elektrik,Ankara
+2024,Mart,4,2024-03-04,ATM Çekimi,171.1,Seyahat,Tren,İzmir
+2024,Mart,10,2024-03-10,Seyahat,411.77,Giyim,Zara,İstanbul
+2024,Mart,4,2024-03-04,Fatura Ödemesi,263.25,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,11,2024-03-11,Alışveriş,279.23,ATM,ATM Çekimi,İstanbul
+2024,Mart,26,2024-03-26,Fatura Ödemesi,216.65,ATM,ATM Çekimi,İstanbul
+2024,Mart,28,2024-03-28,Kafe,14.37,Seyahat,Tren,İzmir
+2024,Mart,4,2024-03-04,ATM Çekimi,143.79,Fatura Ödemesi,Doğalgaz,İzmir
+2024,Mart,24,2024-03-24,Alışveriş,158.2,Seyahat,Tren,Ankara
+2024,Mart,30,2024-03-30,Fatura Ödemesi,208.17,Kafe,Kahve Dünyası,İstanbul
+2024,Mart,30,2024-03-30,ATM Çekimi,19.45,Seyahat,Tren,İzmir
+2024,Mart,21,2024-03-21,Alışveriş,331.1,Giyim,Zara,İstanbul
+2024,Mart,17,2024-03-17,ATM Çekimi,141.26,Kafe,Kahve Dünyası,Ankara
+2024,Mart,22,2024-03-22,Alışveriş,368.71,Fatura Ödemesi,Doğalgaz,İzmir
+2024,Mart,2,2024-03-02,Alışveriş,167.8,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,20,2024-03-20,Seyahat,214.53,Fatura Ödemesi,Su,Ankara
+2024,Mart,10,2024-03-10,Seyahat,153.84,Fatura Ödemesi,Elektrik,İzmir
+2024,Mart,23,2024-03-23,Alışveriş,184.29,ATM,ATM Çekimi,Ankara
+2024,Mart,23,2024-03-23,Fatura Ödemesi,280.46,ATM,ATM Çekimi,İzmir
+2024,Mart,21,2024-03-21,Kafe,233.08,Seyahat,Otobüs,İstanbul
+2024,Mart,27,2024-03-27,ATM Çekimi,252.82,Fatura Ödemesi,Doğalgaz,İzmir
+2024,Mart,2,2024-03-02,Kafe,236.61,Kafe,Starbucks,İzmir
+2024,Mart,5,2024-03-05,Alışveriş,488.94,Giyim,Zara,Ankara
+2024,Mart,1,2024-03-01,Kafe,324.77,Fatura Ödemesi,Elektrik,Ankara
+2024,Mart,28,2024-03-28,Seyahat,475.46,ATM,ATM Çekimi,Ankara
+2024,Mart,16,2024-03-16,Alışveriş,107.03,Kafe,Starbucks,İzmir
+2024,Mart,29,2024-03-29,Fatura Ödemesi,398.63,Giyim,LC Waikiki,Ankara
+2024,Mart,12,2024-03-12,Kafe,203.28,Giyim,LC Waikiki,İzmir
+2024,Mart,20,2024-03-20,ATM Çekimi,256.09,ATM,ATM Çekimi,İstanbul
+2024,Mart,30,2024-03-30,Kafe,341.99,Seyahat,Uçak,Ankara
+2024,Mart,10,2024-03-10,Seyahat,367.56,Fatura Ödemesi,Su,İstanbul
+2024,Mart,14,2024-03-14,Kafe,276.18,Fatura Ödemesi,Elektrik,Ankara
+2024,Mart,5,2024-03-05,Fatura Ödemesi,349.35,ATM,ATM Çekimi,İzmir
+2024,Mart,5,2024-03-05,Kafe,458.57,Fatura Ödemesi,Doğalgaz,İzmir
+2024,Mart,28,2024-03-28,Fatura Ödemesi,65.58,Kafe,Gloria Jeans,Ankara
+2024,Mart,16,2024-03-16,ATM Çekimi,116.03,Fatura Ödemesi,Doğalgaz,İzmir
+2024,Mart,11,2024-03-11,Seyahat,17.01,Fatura Ödemesi,Su,İzmir
+2024,Mart,9,2024-03-09,Alışveriş,238.34,Seyahat,Uçak,İzmir
+2024,Mart,12,2024-03-12,ATM Çekimi,100.95,Kafe,Kahve Dünyası,İstanbul
+2024,Mart,29,2024-03-29,Fatura Ödemesi,334.59,Fatura Ödemesi,Elektrik,İzmir
+2024,Mart,5,2024-03-05,ATM Çekimi,237.27,ATM,ATM Çekimi,İstanbul
+2024,Mart,19,2024-03-19,Fatura Ödemesi,448.02,Kafe,Gloria Jeans,Ankara
+2024,Mart,13,2024-03-13,Seyahat,339.96,Kafe,Kahve Dünyası,Ankara
+2024,Mart,13,2024-03-13,ATM Çekimi,203.95,Seyahat,Uçak,Ankara
+2024,Mart,19,2024-03-19,ATM Çekimi,390.7,Seyahat,Uçak,İzmir
+2024,Mart,25,2024-03-25,ATM Çekimi,396.18,Seyahat,Otobüs,Ankara
+2024,Mart,8,2024-03-08,Kafe,278.24,Fatura Ödemesi,Doğalgaz,İstanbul
+2024,Mart,19,2024-03-19,Alışveriş,51.23,Seyahat,Otobüs,İstanbul
+2024,Mart,22,2024-03-22,Kafe,401.95,Fatura Ödemesi,Su,İzmir
+2024,Mart,23,2024-03-23,Kafe,438.58,Kafe,Kahve Dünyası,Ankara
+2024,Mart,28,2024-03-28,ATM Çekimi,452.32,Fatura Ödemesi,Doğalgaz,İstanbul
+2024,Mart,6,2024-03-06,Fatura Ödemesi,128.4,ATM,ATM Çekimi,Ankara
+2024,Mart,25,2024-03-25,Seyahat,141.6,Seyahat,Otobüs,Ankara
+2024,Mart,28,2024-03-28,Seyahat,81.1,Seyahat,Uçak,İstanbul
+2024,Mart,11,2024-03-11,ATM Çekimi,348.81,Seyahat,Uçak,İstanbul
+2024,Mart,12,2024-03-12,Kafe,237.21,Kafe,Kahve Dünyası,İzmir
+2024,Mart,19,2024-03-19,Kafe,153.63,Fatura Ödemesi,Doğalgaz,İstanbul
+2024,Mart,11,2024-03-11,ATM Çekimi,187.28,Fatura Ödemesi,Doğalgaz,İzmir
+2024,Mart,14,2024-03-14,Kafe,181.83,Giyim,Zara,İstanbul
+2024,Mart,4,2024-03-04,Fatura Ödemesi,131.92,Seyahat,Uçak,İzmir
+2024,Mart,15,2024-03-15,Kafe,12.99,Seyahat,Otobüs,Ankara
+2024,Mart,13,2024-03-13,Alışveriş,394.76,Kafe,Kahve Dünyası,İstanbul
+2024,Mart,5,2024-03-05,Alışveriş,324.4,Kafe,Starbucks,İzmir
+2024,Mart,26,2024-03-26,Kafe,143.43,Fatura Ödemesi,Elektrik,Ankara
+2024,Mart,8,2024-03-08,Kafe,289.32,Seyahat,Uçak,İstanbul
+2024,Mart,20,2024-03-20,ATM Çekimi,74.01,Giyim,LC Waikiki,Ankara
+2024,Mart,15,2024-03-15,ATM Çekimi,335.8,Giyim,LC Waikiki,Ankara
+2024,Mart,20,2024-03-20,Seyahat,107.6,Fatura Ödemesi,Elektrik,İstanbul
+2024,Mart,19,2024-03-19,Alışveriş,205.15,Kafe,Starbucks,İzmir
+2024,Mart,14,2024-03-14,Fatura Ödemesi,10.17,Seyahat,Uçak,İzmir
+2024,Mart,10,2024-03-10,ATM Çekimi,55.36,Fatura Ödemesi,Doğalgaz,İstanbul
+2024,Mart,1,2024-03-01,Alışveriş,42.43,Kafe,Gloria Jeans,İzmir
+2024,Mart,23,2024-03-23,Fatura Ödemesi,169.04,Kafe,Gloria Jeans,Ankara
+2024,Mart,5,2024-03-05,Seyahat,54.63,Giyim,H&M,İstanbul
+2024,Mart,18,2024-03-18,Kafe,373.02,Fatura Ödemesi,Doğalgaz,İstanbul
+2024,Mart,17,2024-03-17,Seyahat,213.95,Fatura Ödemesi,Doğalgaz,İstanbul
+2024,Mart,11,2024-03-11,Kafe,355.45,Kafe,Kahve Dünyası,İstanbul
+2024,Mart,3,2024-03-03,Seyahat,406.59,Giyim,Zara,İstanbul
+2024,Mart,2,2024-03-02,Kafe,205.25,Seyahat,Tren,İzmir
+2024,Mart,20,2024-03-20,ATM Çekimi,21.42,Giyim,H&M,İstanbul
+2024,Mart,13,2024-03-13,Alışveriş,160.49,Kafe,Gloria Jeans,İzmir
+2024,Mart,18,2024-03-18,Alışveriş,240.75,Seyahat,Tren,İstanbul
+2024,Mart,30,2024-03-30,Kafe,311.65,Giyim,LC Waikiki,İzmir
+2024,Mart,12,2024-03-12,Alışveriş,415.81,Seyahat,Otobüs,İzmir
+2024,Mart,7,2024-03-07,Kafe,29.98,Fatura Ödemesi,Elektrik,İstanbul
+2024,Mart,9,2024-03-09,ATM Çekimi,129.22,Kafe,Starbucks,İzmir
+2024,Mart,18,2024-03-18,Alışveriş,349.82,Kafe,Starbucks,İzmir
+2024,Mart,27,2024-03-27,Alışveriş,255.64,Kafe,Kahve Dünyası,İstanbul
+2024,Mart,3,2024-03-03,Seyahat,145.25,ATM,ATM Çekimi,İstanbul
+2024,Mart,13,2024-03-13,Seyahat,270.25,Seyahat,Otobüs,Ankara
+2024,Mart,6,2024-03-06,Kafe,298.0,Kafe,Starbucks,Ankara
+2024,Mart,28,2024-03-28,Seyahat,346.35,Kafe,Starbucks,Ankara
+2024,Mart,20,2024-03-20,Alışveriş,463.27,Kafe,Kahve Dünyası,İstanbul
+2024,Mart,6,2024-03-06,Seyahat,282.4,Seyahat,Uçak,İstanbul
+2024,Mart,1,2024-03-01,Kafe,424.69,Giyim,Zara,Ankara
+2024,Mart,18,2024-03-18,ATM Çekimi,145.88,Giyim,LC Waikiki,İzmir
+2024,Mart,18,2024-03-18,Fatura Ödemesi,454.68,Kafe,Kahve Dünyası,İstanbul
+2024,Mart,10,2024-03-10,Seyahat,458.72,Kafe,Starbucks,İzmir
+2024,Mart,26,2024-03-26,Fatura Ödemesi,286.72,Kafe,Starbucks,İzmir
+2024,Mart,10,2024-03-10,ATM Çekimi,265.3,Fatura Ödemesi,Doğalgaz,İstanbul
+2024,Mart,2,2024-03-02,Seyahat,281.44,ATM,ATM Çekimi,İstanbul
+2024,Mart,29,2024-03-29,Kafe,465.8,Fatura Ödemesi,Elektrik,İzmir
+2024,Mart,8,2024-03-08,Alışveriş,280.39,Fatura Ödemesi,Su,İstanbul
+2024,Mart,30,2024-03-30,Seyahat,163.9,Kafe,Kahve Dünyası,Ankara
+2024,Mart,14,2024-03-14,Kafe,152.16,Giyim,H&M,Ankara
+2024,Mart,8,2024-03-08,ATM Çekimi,364.21,Giyim,LC Waikiki,İzmir
+2024,Mart,18,2024-03-18,Alışveriş,391.11,Seyahat,Otobüs,İzmir
+2024,Mart,9,2024-03-09,Fatura Ödemesi,492.72,Giyim,LC Waikiki,Ankara
+2024,Mart,13,2024-03-13,Kafe,118.5,Giyim,Zara,Ankara
+2024,Mart,3,2024-03-03,Fatura Ödemesi,168.54,Seyahat,Uçak,Ankara
+2024,Mart,10,2024-03-10,Kafe,367.64,Kafe,Kahve Dünyası,İzmir
+2024,Mart,14,2024-03-14,Seyahat,342.03,ATM,ATM Çekimi,İzmir
+2024,Mart,7,2024-03-07,Kafe,63.54,Fatura Ödemesi,Elektrik,İzmir
+2024,Mart,16,2024-03-16,Fatura Ödemesi,428.11,Seyahat,Otobüs,İstanbul
+2024,Mart,29,2024-03-29,ATM Çekimi,246.47,Giyim,LC Waikiki,Ankara
+2024,Mart,1,2024-03-01,Alışveriş,94.91,Giyim,H&M,İstanbul
+2024,Mart,20,2024-03-20,Fatura Ödemesi,31.04,ATM,ATM Çekimi,İzmir
+2024,Mart,18,2024-03-18,Fatura Ödemesi,402.87,Giyim,LC Waikiki,İzmir
+2024,Mart,29,2024-03-29,Kafe,124.49,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,11,2024-03-11,Kafe,450.94,ATM,ATM Çekimi,İstanbul
+2024,Mart,14,2024-03-14,Fatura Ödemesi,283.39,Kafe,Gloria Jeans,İzmir
+2024,Mart,11,2024-03-11,Alışveriş,237.59,Kafe,Kahve Dünyası,İstanbul
+2024,Mart,10,2024-03-10,Fatura Ödemesi,263.12,Seyahat,Otobüs,İzmir
+2024,Mart,5,2024-03-05,Alışveriş,44.31,Seyahat,Otobüs,İstanbul
+2024,Mart,29,2024-03-29,Seyahat,60.76,Kafe,Starbucks,Ankara
+2024,Mart,9,2024-03-09,ATM Çekimi,387.22,Kafe,Starbucks,İstanbul
+2024,Mart,30,2024-03-30,Seyahat,103.56,Fatura Ödemesi,Doğalgaz,İzmir
+2024,Mart,8,2024-03-08,Fatura Ödemesi,37.33,Giyim,Zara,Ankara
+2024,Mart,9,2024-03-09,Fatura Ödemesi,364.9,Fatura Ödemesi,Su,Ankara
+2024,Mart,17,2024-03-17,ATM Çekimi,147.35,Fatura Ödemesi,Su,İstanbul
+2024,Mart,12,2024-03-12,Alışveriş,483.69,Fatura Ödemesi,Doğalgaz,İzmir
+2024,Mart,9,2024-03-09,ATM Çekimi,278.89,Fatura Ödemesi,Doğalgaz,İstanbul
+2024,Mart,4,2024-03-04,ATM Çekimi,147.08,Seyahat,Otobüs,İstanbul
+2024,Mart,28,2024-03-28,Fatura Ödemesi,179.51,Kafe,Starbucks,Ankara
+2024,Mart,26,2024-03-26,Seyahat,381.27,Kafe,Kahve Dünyası,İstanbul
+2024,Mart,18,2024-03-18,Seyahat,215.75,Seyahat,Uçak,Ankara
+2024,Mart,17,2024-03-17,Alışveriş,131.29,Seyahat,Uçak,İzmir
+2024,Mart,12,2024-03-12,Alışveriş,274.42,Seyahat,Otobüs,Ankara
+2024,Mart,13,2024-03-13,Kafe,194.05,Giyim,H&M,Ankara
+2024,Mart,31,2024-03-31,ATM Çekimi,225.66,ATM,ATM Çekimi,Ankara
+2024,Mart,25,2024-03-25,Kafe,53.01,Kafe,Starbucks,İstanbul
+2024,Mart,1,2024-03-01,Fatura Ödemesi,33.04,ATM,ATM Çekimi,Ankara
+2024,Mart,4,2024-03-04,Fatura Ödemesi,102.52,Giyim,Zara,İstanbul
+2024,Mart,28,2024-03-28,ATM Çekimi,50.01,ATM,ATM Çekimi,Ankara
+2024,Mart,1,2024-03-01,Fatura Ödemesi,24.89,ATM,ATM Çekimi,Ankara
+2024,Mart,13,2024-03-13,Fatura Ödemesi,310.4,Kafe,Gloria Jeans,Ankara
+2024,Mart,20,2024-03-20,Fatura Ödemesi,14.62,ATM,ATM Çekimi,İzmir
+2024,Mart,25,2024-03-25,Alışveriş,216.67,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,17,2024-03-17,Fatura Ödemesi,460.16,Fatura Ödemesi,Doğalgaz,İstanbul
+2024,Mart,1,2024-03-01,Fatura Ödemesi,442.58,ATM,ATM Çekimi,Ankara
+2024,Mart,10,2024-03-10,Kafe,459.62,Giyim,H&M,Ankara
+2024,Mart,9,2024-03-09,Kafe,329.86,Giyim,H&M,Ankara
+2024,Mart,10,2024-03-10,Seyahat,190.57,Fatura Ödemesi,Doğalgaz,İzmir
+2024,Mart,2,2024-03-02,ATM Çekimi,221.57,Seyahat,Otobüs,Ankara
+2024,Mart,2,2024-03-02,Kafe,29.61,Giyim,H&M,İzmir
+2024,Mart,5,2024-03-05,ATM Çekimi,365.37,Giyim,LC Waikiki,İzmir
+2024,Mart,13,2024-03-13,Kafe,195.28,Fatura Ödemesi,Elektrik,İstanbul
+2024,Mart,12,2024-03-12,Fatura Ödemesi,136.04,Fatura Ödemesi,Elektrik,İzmir
+2024,Mart,1,2024-03-01,Alışveriş,457.46,Kafe,Gloria Jeans,İstanbul
+2024,Mart,13,2024-03-13,Alışveriş,409.26,ATM,ATM Çekimi,Ankara
+2024,Mart,14,2024-03-14,Seyahat,407.6,ATM,ATM Çekimi,İstanbul
+2024,Mart,24,2024-03-24,Fatura Ödemesi,497.23,Fatura Ödemesi,Su,İstanbul
+2024,Mart,19,2024-03-19,Fatura Ödemesi,25.61,ATM,ATM Çekimi,İstanbul
+2024,Mart,10,2024-03-10,Seyahat,497.44,Fatura Ödemesi,Elektrik,İstanbul
+2024,Mart,26,2024-03-26,Alışveriş,293.19,ATM,ATM Çekimi,İzmir
+2024,Mart,3,2024-03-03,Kafe,214.52,ATM,ATM Çekimi,İstanbul
+2024,Mart,25,2024-03-25,Fatura Ödemesi,384.56,ATM,ATM Çekimi,İstanbul
+2024,Mart,2,2024-03-02,Kafe,110.53,Seyahat,Uçak,İzmir
+2024,Mart,8,2024-03-08,Seyahat,327.36,Giyim,LC Waikiki,Ankara
+2024,Mart,21,2024-03-21,ATM Çekimi,216.68,Seyahat,Uçak,İstanbul
+2024,Mart,1,2024-03-01,ATM Çekimi,270.61,Giyim,Zara,İstanbul
+2024,Mart,24,2024-03-24,Alışveriş,323.96,Fatura Ödemesi,Su,Ankara
+2024,Mart,14,2024-03-14,Fatura Ödemesi,100.04,Fatura Ödemesi,Elektrik,İzmir
+2024,Mart,17,2024-03-17,Kafe,241.93,Kafe,Gloria Jeans,Ankara
+2024,Mart,15,2024-03-15,Alışveriş,179.72,Fatura Ödemesi,Su,Ankara
+2024,Mart,26,2024-03-26,Seyahat,13.96,Giyim,H&M,Ankara
+2024,Mart,23,2024-03-23,ATM Çekimi,408.32,Seyahat,Otobüs,İstanbul
+2024,Mart,8,2024-03-08,Seyahat,215.6,Kafe,Starbucks,İstanbul
+2024,Mart,14,2024-03-14,ATM Çekimi,80.23,Kafe,Starbucks,Ankara
+2024,Mart,16,2024-03-16,ATM Çekimi,496.8,Seyahat,Uçak,İzmir
+2024,Mart,28,2024-03-28,Fatura Ödemesi,465.46,Giyim,Zara,İstanbul
+2024,Mart,12,2024-03-12,Fatura Ödemesi,69.88,Fatura Ödemesi,Doğalgaz,İstanbul
+2024,Mart,18,2024-03-18,Kafe,323.87,Kafe,Starbucks,Ankara
+2024,Mart,18,2024-03-18,ATM Çekimi,232.61,Seyahat,Otobüs,Ankara
+2024,Mart,10,2024-03-10,Fatura Ödemesi,67.96,Giyim,H&M,Ankara
+2024,Mart,24,2024-03-24,Fatura Ödemesi,49.48,Kafe,Gloria Jeans,İstanbul
+2024,Mart,25,2024-03-25,ATM Çekimi,305.23,Seyahat,Tren,İzmir
+2024,Mart,16,2024-03-16,Fatura Ödemesi,433.19,ATM,ATM Çekimi,İzmir
+2024,Mart,9,2024-03-09,Kafe,201.37,Kafe,Gloria Jeans,İzmir
+2024,Mart,19,2024-03-19,Seyahat,310.97,Seyahat,Uçak,İstanbul
+2024,Mart,1,2024-03-01,Kafe,11.1,Seyahat,Uçak,İstanbul
+2024,Mart,1,2024-03-01,Kafe,163.64,Seyahat,Tren,Ankara
+2024,Mart,8,2024-03-08,Seyahat,231.45,Seyahat,Tren,Ankara
+2024,Mart,26,2024-03-26,Kafe,136.0,Fatura Ödemesi,Su,İzmir
+2024,Mart,9,2024-03-09,ATM Çekimi,240.0,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,9,2024-03-09,Alışveriş,22.51,Fatura Ödemesi,Doğalgaz,İzmir
+2024,Mart,7,2024-03-07,Alışveriş,345.97,Kafe,Starbucks,İzmir
+2024,Mart,19,2024-03-19,Alışveriş,246.2,ATM,ATM Çekimi,Ankara
+2024,Mart,25,2024-03-25,Fatura Ödemesi,60.94,ATM,ATM Çekimi,Ankara
+2024,Mart,19,2024-03-19,Alışveriş,306.85,Giyim,H&M,İzmir
+2024,Mart,18,2024-03-18,Seyahat,100.74,ATM,ATM Çekimi,Ankara
+2024,Mart,4,2024-03-04,Kafe,93.89,Giyim,H&M,Ankara
+2024,Mart,30,2024-03-30,Fatura Ödemesi,162.04,Kafe,Kahve Dünyası,Ankara
+2024,Mart,18,2024-03-18,Kafe,100.62,ATM,ATM Çekimi,İstanbul
+2024,Mart,24,2024-03-24,ATM Çekimi,183.85,Giyim,Zara,İstanbul
+2024,Mart,24,2024-03-24,Fatura Ödemesi,179.86,Giyim,LC Waikiki,Ankara
+2024,Mart,13,2024-03-13,Alışveriş,260.6,Seyahat,Otobüs,İstanbul
+2024,Mart,22,2024-03-22,Fatura Ödemesi,24.34,Seyahat,Uçak,Ankara
+2024,Mart,29,2024-03-29,Seyahat,130.41,ATM,ATM Çekimi,İstanbul
+2024,Mart,22,2024-03-22,Fatura Ödemesi,14.93,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,19,2024-03-19,ATM Çekimi,463.5,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,8,2024-03-08,Kafe,421.36,Giyim,H&M,Ankara
+2024,Mart,30,2024-03-30,Fatura Ödemesi,303.67,Seyahat,Tren,Ankara
+2024,Mart,18,2024-03-18,Alışveriş,336.6,Kafe,Starbucks,İzmir
+2024,Mart,4,2024-03-04,Kafe,451.75,ATM,ATM Çekimi,İstanbul
+2024,Mart,23,2024-03-23,Seyahat,259.41,ATM,ATM Çekimi,İstanbul
+2024,Mart,23,2024-03-23,Kafe,455.1,Giyim,H&M,İzmir
+2024,Mart,21,2024-03-21,ATM Çekimi,100.94,ATM,ATM Çekimi,İzmir
+2024,Mart,1,2024-03-01,Fatura Ödemesi,139.35,Fatura Ödemesi,Doğalgaz,İstanbul
+2024,Mart,25,2024-03-25,Kafe,435.63,Kafe,Starbucks,Ankara
+2024,Mart,13,2024-03-13,Kafe,281.02,Fatura Ödemesi,Elektrik,Ankara
+2024,Mart,5,2024-03-05,Seyahat,26.77,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,25,2024-03-25,Alışveriş,202.16,Seyahat,Uçak,İstanbul
+2024,Mart,1,2024-03-01,Kafe,202.32,ATM,ATM Çekimi,İstanbul
+2024,Mart,20,2024-03-20,Alışveriş,434.44,Seyahat,Otobüs,İstanbul
+2024,Mart,15,2024-03-15,Seyahat,166.66,Fatura Ödemesi,Su,Ankara
+2024,Mart,18,2024-03-18,Seyahat,63.43,Fatura Ödemesi,Doğalgaz,Ankara
+2024,Mart,28,2024-03-28,Fatura Ödemesi,165.5,Seyahat,Uçak,Ankara
+2024,Nisan,24,2024-04-24,Alışveriş,3658.97,ATM,ATM Çekimi,İstanbul
+2024,Nisan,14,2024-04-14,Alışveriş,2462.35,ATM,ATM Çekimi,Ankara
+2024,Nisan,19,2024-04-19,Fatura Ödemesi,179.36,Restoran,Cafe,İzmir
+2024,Nisan,19,2024-04-19,Eğitim,1872.79,Restoran,Cafe,İstanbul
+2024,Nisan,23,2024-04-23,Fatura Ödemesi,259.56,Eğitim,Kurs,İstanbul
+2024,Nisan,14,2024-04-14,Alışveriş,324.27,Eğitim,Seminer,İstanbul
+2024,Nisan,4,2024-04-04,Restoran,18.39,Fatura Ödemesi,Unusual Expense,İzmir
+2024,Nisan,22,2024-04-22,Alışveriş,149.35,ATM,ATM Çekimi,İstanbul
+2024,Nisan,25,2024-04-25,Fatura Ödemesi,491.42,ATM,ATM Çekimi,İzmir
+2024,Nisan,24,2024-04-24,Restoran,2476.79,Restoran,Cafe,Ankara
+2024,Nisan,16,2024-04-16,Restoran,340.94,Spor,Ekipman,İstanbul
+2024,Nisan,27,2024-04-27,Alışveriş,368.25,Restoran,Unusual Expense,Ankara
+2024,Nisan,10,2024-04-10,Fatura Ödemesi,281.65,Fatura Ödemesi,Telefon,İzmir
+2024,Nisan,5,2024-04-05,Fatura Ödemesi,407.57,Restoran,Unusual Expense,İstanbul
+2024,Nisan,8,2024-04-08,Fatura Ödemesi,25.19,Eğitim,Seminer,Ankara
+2024,Nisan,15,2024-04-15,Restoran,317.3,Restoran,Cafe,İzmir
+2024,Nisan,14,2024-04-14,Alışveriş,25.05,Restoran,Cafe,İstanbul
+2024,Nisan,3,2024-04-03,Alışveriş,224.05,ATM,ATM Çekimi,İzmir
+2024,Nisan,18,2024-04-18,Eğitim,429.6,Spor,Unusual Expense,Ankara
+2024,Nisan,15,2024-04-15,Eğitim,218.1,ATM,ATM Çekimi,İstanbul
+2024,Nisan,22,2024-04-22,Spor,41.57,ATM,ATM Çekimi,İstanbul
+2024,Nisan,17,2024-04-17,Spor,477.19,Fatura Ödemesi,Su,İstanbul
+2024,Nisan,3,2024-04-03,Restoran,26.89,Eğitim,Unusual Expense,Ankara
+2024,Nisan,4,2024-04-04,Spor,458.8,Eğitim,Seminer,İzmir
+2024,Nisan,25,2024-04-25,Restoran,431.94,Restoran,Fine Dining,İstanbul
+2024,Nisan,21,2024-04-21,Eğitim,441.68,ATM,ATM Çekimi,İstanbul
+2024,Nisan,4,2024-04-04,Eğitim,279.21,Fatura Ödemesi,İnternet,İstanbul
+2024,Nisan,4,2024-04-04,Fatura Ödemesi,302.97,Eğitim,Seminer,İstanbul
+2024,Nisan,12,2024-04-12,Spor,3289.39,Spor,Ekipman,İzmir
+2024,Nisan,23,2024-04-23,Eğitim,1130.79,Restoran,Fine Dining,İzmir
+2024,Nisan,28,2024-04-28,Restoran,4961.5,Fatura Ödemesi,Telefon,İzmir
+2024,Nisan,13,2024-04-13,Eğitim,462.83,Eğitim,Seminer,İzmir
+2024,Nisan,3,2024-04-03,Spor,2250.51,ATM,ATM Çekimi,İzmir
+2024,Nisan,16,2024-04-16,Restoran,3078.03,ATM,ATM Çekimi,İzmir
+2024,Nisan,3,2024-04-03,Eğitim,279.44,Spor,Ekipman,Ankara
+2024,Nisan,19,2024-04-19,Restoran,99.52,ATM,Unusual Expense,Ankara
+2024,Nisan,17,2024-04-17,Restoran,4934.16,Eğitim,Kitap,Ankara
+2024,Nisan,16,2024-04-16,Restoran,169.36,Restoran,Cafe,İzmir
+2024,Nisan,3,2024-04-03,Alışveriş,1482.5,Restoran,Cafe,Ankara
+2024,Nisan,1,2024-04-01,Fatura Ödemesi,224.84,Fatura Ödemesi,Unusual Expense,Ankara
+2024,Nisan,18,2024-04-18,Alışveriş,140.51,Restoran,Fine Dining,İstanbul
+2024,Nisan,11,2024-04-11,Restoran,126.27,ATM,ATM Çekimi,İstanbul
+2024,Nisan,6,2024-04-06,Spor,191.2,Fatura Ödemesi,Telefon,İstanbul
+2024,Nisan,19,2024-04-19,Eğitim,22.78,Spor,Spor Salonu,İstanbul
+2024,Nisan,2,2024-04-02,Eğitim,298.62,Spor,Üyelik,İstanbul
+2024,Nisan,22,2024-04-22,Eğitim,445.89,Spor,Ekipman,İstanbul
+2024,Nisan,21,2024-04-21,Alışveriş,70.74,Restoran,Fine Dining,İzmir
+2024,Nisan,14,2024-04-14,Spor,22.3,Spor,Spor Salonu,İzmir
+2024,Nisan,15,2024-04-15,Restoran,466.6,Restoran,Fine Dining,İstanbul
+2024,Nisan,23,2024-04-23,Spor,47.04,Eğitim,Kitap,İzmir
+2024,Nisan,13,2024-04-13,Fatura Ödemesi,200.21,ATM,ATM Çekimi,İzmir
+2024,Nisan,29,2024-04-29,Spor,42.46,Eğitim,Kitap,İstanbul
+2024,Nisan,22,2024-04-22,Alışveriş,366.33,ATM,ATM Çekimi,İstanbul
+2024,Nisan,1,2024-04-01,Eğitim,368.79,Spor,Üyelik,İzmir
+2024,Nisan,18,2024-04-18,Alışveriş,3964.28,Fatura Ödemesi,Telefon,İzmir
+2024,Nisan,9,2024-04-09,Eğitim,37.07,Eğitim,Kitap,Ankara
+2024,Nisan,1,2024-04-01,Eğitim,490.15,Restoran,Fine Dining,İstanbul
+2024,Nisan,6,2024-04-06,Spor,213.36,Fatura Ödemesi,Su,İstanbul
+2024,Nisan,5,2024-04-05,Spor,304.06,Restoran,Fine Dining,İstanbul
+2024,Nisan,16,2024-04-16,Spor,112.3,ATM,ATM Çekimi,İzmir
+2024,Nisan,8,2024-04-08,Alışveriş,228.0,ATM,ATM Çekimi,İstanbul
+2024,Nisan,28,2024-04-28,Spor,403.69,ATM,ATM Çekimi,İzmir
+2024,Nisan,13,2024-04-13,Eğitim,124.6,ATM,ATM Çekimi,Ankara
+2024,Nisan,6,2024-04-06,Spor,67.79,Spor,Ekipman,İstanbul
+2024,Nisan,30,2024-04-30,Eğitim,75.29,Spor,Ekipman,Ankara
+2024,Nisan,29,2024-04-29,Spor,314.84,Spor,Spor Salonu,İzmir
+2024,Nisan,24,2024-04-24,Alışveriş,76.54,Restoran,Fast Food,İzmir
+2024,Nisan,8,2024-04-08,Eğitim,444.22,ATM,ATM Çekimi,Ankara
+2024,Nisan,5,2024-04-05,Restoran,26.28,Restoran,Fast Food,Ankara
+2024,Nisan,20,2024-04-20,Fatura Ödemesi,255.74,Spor,Spor Salonu,Ankara
+2024,Nisan,19,2024-04-19,Spor,2542.09,Spor,Ekipman,Ankara
+2024,Nisan,7,2024-04-07,Fatura Ödemesi,161.11,Spor,Spor Salonu,İstanbul
+2024,Nisan,13,2024-04-13,Fatura Ödemesi,21.75,ATM,ATM Çekimi,Ankara
+2024,Nisan,2,2024-04-02,Fatura Ödemesi,91.64,Fatura Ödemesi,Su,İstanbul
+2024,Nisan,19,2024-04-19,Spor,82.45,ATM,ATM Çekimi,Ankara
+2024,Nisan,2,2024-04-02,Restoran,498.67,ATM,ATM Çekimi,İstanbul
+2024,Nisan,23,2024-04-23,Eğitim,486.47,Restoran,Unusual Expense,İstanbul
+2024,Nisan,5,2024-04-05,Restoran,414.16,Fatura Ödemesi,İnternet,İzmir
+2024,Nisan,26,2024-04-26,Restoran,4439.04,Fatura Ödemesi,Telefon,İstanbul
+2024,Nisan,3,2024-04-03,Eğitim,441.51,Spor,Unusual Expense,İzmir
+2024,Nisan,2,2024-04-02,Eğitim,79.45,Fatura Ödemesi,Su,İstanbul
+2024,Nisan,24,2024-04-24,Restoran,120.02,Spor,Üyelik,Ankara
+2024,Nisan,11,2024-04-11,Alışveriş,207.12,Eğitim,Seminer,Ankara
+2024,Nisan,27,2024-04-27,Eğitim,298.35,Restoran,Cafe,Ankara
+2024,Nisan,9,2024-04-09,Eğitim,394.25,Eğitim,Kitap,İzmir
+2024,Nisan,25,2024-04-25,Spor,1833.2,Eğitim,Kitap,Ankara
+2024,Nisan,16,2024-04-16,Fatura Ödemesi,433.46,ATM,Unusual Expense,İzmir
+2024,Nisan,9,2024-04-09,Restoran,391.62,Spor,Ekipman,Ankara
+2024,Nisan,15,2024-04-15,Restoran,345.34,ATM,ATM Çekimi,İstanbul
+2024,Nisan,2,2024-04-02,Alışveriş,93.5,Fatura Ödemesi,İnternet,İstanbul
+2024,Nisan,11,2024-04-11,Restoran,231.06,Spor,Unusual Expense,İzmir
+2024,Nisan,29,2024-04-29,Spor,84.44,ATM,ATM Çekimi,Ankara
+2024,Nisan,14,2024-04-14,Eğitim,347.26,Fatura Ödemesi,Telefon,Ankara
+2024,Nisan,2,2024-04-02,Restoran,257.86,Spor,Spor Salonu,İstanbul
+2024,Nisan,18,2024-04-18,Restoran,480.7,ATM,ATM Çekimi,İstanbul
+2024,Nisan,16,2024-04-16,Alışveriş,1773.57,ATM,ATM Çekimi,İstanbul
+2024,Nisan,21,2024-04-21,Spor,260.74,Restoran,Fast Food,İzmir
+2024,Nisan,6,2024-04-06,Spor,265.32,Fatura Ödemesi,İnternet,Ankara
+2024,Nisan,10,2024-04-10,Spor,3255.06,Fatura Ödemesi,İnternet,İstanbul
+2024,Nisan,17,2024-04-17,Fatura Ödemesi,220.62,Fatura Ödemesi,Su,Ankara
+2024,Nisan,7,2024-04-07,Spor,2285.44,ATM,ATM Çekimi,Ankara
+2024,Nisan,30,2024-04-30,Spor,401.12,ATM,ATM Çekimi,İzmir
+2024,Nisan,18,2024-04-18,Spor,377.04,Eğitim,Kitap,Ankara
+2024,Nisan,17,2024-04-17,Eğitim,74.16,Eğitim,Seminer,Ankara
+2024,Nisan,12,2024-04-12,Fatura Ödemesi,3329.02,Restoran,Cafe,İzmir
+2024,Nisan,8,2024-04-08,Eğitim,163.34,Restoran,Fast Food,İstanbul
+2024,Nisan,19,2024-04-19,Restoran,69.54,Eğitim,Seminer,İstanbul
+2024,Nisan,4,2024-04-04,Eğitim,247.08,Restoran,Unusual Expense,İstanbul
+2024,Nisan,17,2024-04-17,Alışveriş,269.68,ATM,ATM Çekimi,İzmir
+2024,Nisan,30,2024-04-30,Alışveriş,344.31,Eğitim,Kitap,Ankara
+2024,Nisan,23,2024-04-23,Eğitim,225.72,ATM,ATM Çekimi,Ankara
+2024,Nisan,17,2024-04-17,Alışveriş,157.63,ATM,ATM Çekimi,Ankara
+2024,Nisan,22,2024-04-22,Restoran,457.88,Spor,Unusual Expense,İstanbul
+2024,Nisan,8,2024-04-08,Spor,4036.61,Restoran,Cafe,İzmir
+2024,Nisan,9,2024-04-09,Alışveriş,496.99,Spor,Ekipman,İstanbul
+2024,Nisan,21,2024-04-21,Spor,47.5,ATM,ATM Çekimi,İzmir
+2024,Nisan,5,2024-04-05,Eğitim,391.43,Restoran,Fast Food,İstanbul
+2024,Nisan,8,2024-04-08,Eğitim,2370.98,Restoran,Fast Food,Ankara
+2024,Nisan,25,2024-04-25,Alışveriş,178.07,Eğitim,Seminer,İzmir
+2024,Nisan,8,2024-04-08,Fatura Ödemesi,2180.31,Fatura Ödemesi,İnternet,İzmir
+2024,Nisan,12,2024-04-12,Restoran,1210.14,Restoran,Fine Dining,Ankara
+2024,Nisan,12,2024-04-12,Eğitim,76.96,ATM,ATM Çekimi,İstanbul
+2024,Nisan,6,2024-04-06,Spor,3436.45,Eğitim,Seminer,Ankara
+2024,Nisan,3,2024-04-03,Restoran,220.69,Restoran,Cafe,İzmir
+2024,Nisan,2,2024-04-02,Fatura Ödemesi,337.01,Eğitim,Kitap,Ankara
+2024,Nisan,10,2024-04-10,Spor,157.48,Fatura Ödemesi,Telefon,Ankara
+2024,Nisan,27,2024-04-27,Alışveriş,131.74,ATM,ATM Çekimi,İzmir
+2024,Nisan,1,2024-04-01,Restoran,337.58,Spor,Spor Salonu,İzmir
+2024,Nisan,25,2024-04-25,Eğitim,84.42,Spor,Üyelik,Ankara
+2024,Nisan,5,2024-04-05,Fatura Ödemesi,244.33,Eğitim,Unusual Expense,İstanbul
+2024,Nisan,22,2024-04-22,Spor,16.98,Restoran,Cafe,İzmir
+2024,Nisan,23,2024-04-23,Fatura Ödemesi,219.4,Eğitim,Seminer,Ankara
+2024,Nisan,19,2024-04-19,Alışveriş,297.12,Eğitim,Kitap,İstanbul
+2024,Nisan,7,2024-04-07,Spor,72.74,Fatura Ödemesi,Telefon,İzmir
+2024,Nisan,1,2024-04-01,Fatura Ödemesi,75.6,Fatura Ödemesi,Telefon,Ankara
+2024,Nisan,9,2024-04-09,Eğitim,1724.5,Restoran,Cafe,Ankara
+2024,Nisan,13,2024-04-13,Alışveriş,107.16,Eğitim,Unusual Expense,İstanbul
+2024,Nisan,15,2024-04-15,Restoran,129.54,Restoran,Cafe,İzmir
+2024,Nisan,18,2024-04-18,Eğitim,3771.73,ATM,ATM Çekimi,Ankara
+2024,Nisan,10,2024-04-10,Eğitim,497.91,Restoran,Fine Dining,İstanbul
+2024,Nisan,10,2024-04-10,Spor,232.17,Restoran,Cafe,İzmir
+2024,Nisan,30,2024-04-30,Restoran,2323.6,Restoran,Fine Dining,İzmir
+2024,Nisan,21,2024-04-21,Eğitim,1487.98,Fatura Ödemesi,Unusual Expense,Ankara
+2024,Nisan,17,2024-04-17,Fatura Ödemesi,413.39,Spor,Spor Salonu,İzmir
+2024,Nisan,2,2024-04-02,Eğitim,314.43,Fatura Ödemesi,Telefon,İzmir
+2024,Nisan,24,2024-04-24,Restoran,1130.62,Restoran,Fast Food,İstanbul
+2024,Nisan,16,2024-04-16,Restoran,181.29,Restoran,Fast Food,İzmir
+2024,Nisan,7,2024-04-07,Restoran,260.28,Restoran,Fine Dining,İstanbul
+2024,Nisan,16,2024-04-16,Restoran,78.39,Restoran,Unusual Expense,Ankara
+2024,Nisan,23,2024-04-23,Fatura Ödemesi,259.12,Restoran,Fast Food,İzmir
+2024,Nisan,18,2024-04-18,Spor,218.16,Fatura Ödemesi,İnternet,Ankara
+2024,Nisan,28,2024-04-28,Alışveriş,2165.09,Spor,Ekipman,İstanbul
+2024,Nisan,2,2024-04-02,Eğitim,469.72,Restoran,Fine Dining,Ankara
+2024,Nisan,28,2024-04-28,Restoran,2268.86,Spor,Unusual Expense,İstanbul
+2024,Nisan,20,2024-04-20,Restoran,95.65,Eğitim,Kurs,Ankara
+2024,Nisan,17,2024-04-17,Alışveriş,137.49,Spor,Spor Salonu,İzmir
+2024,Nisan,3,2024-04-03,Spor,403.75,Spor,Spor Salonu,İstanbul
+2024,Nisan,25,2024-04-25,Alışveriş,3812.31,Spor,Ekipman,Ankara
+2024,Nisan,25,2024-04-25,Alışveriş,100.71,Eğitim,Kitap,Ankara
+2024,Nisan,1,2024-04-01,Restoran,343.09,ATM,ATM Çekimi,İstanbul
+2024,Nisan,30,2024-04-30,Eğitim,492.7,Spor,Spor Salonu,İzmir
+2024,Nisan,25,2024-04-25,Alışveriş,488.68,Fatura Ödemesi,Telefon,İstanbul
+2024,Nisan,21,2024-04-21,Restoran,241.19,Restoran,Cafe,İzmir
+2024,Nisan,4,2024-04-04,Restoran,411.97,Fatura Ödemesi,İnternet,İstanbul
+2024,Nisan,17,2024-04-17,Alışveriş,1316.78,Fatura Ödemesi,İnternet,İstanbul
+2024,Nisan,8,2024-04-08,Fatura Ödemesi,2875.49,Restoran,Fast Food,İstanbul
+2024,Nisan,5,2024-04-05,Fatura Ödemesi,15.82,Spor,Unusual Expense,Ankara
+2024,Nisan,3,2024-04-03,Spor,80.33,ATM,ATM Çekimi,Ankara
+2024,Nisan,12,2024-04-12,Alışveriş,244.74,Fatura Ödemesi,Telefon,İzmir
+2024,Nisan,15,2024-04-15,Restoran,141.56,ATM,ATM Çekimi,Ankara
+2024,Nisan,14,2024-04-14,Alışveriş,166.06,Fatura Ödemesi,İnternet,Ankara
+2024,Nisan,3,2024-04-03,Fatura Ödemesi,415.67,Eğitim,Unusual Expense,İstanbul
+2024,Nisan,23,2024-04-23,Spor,240.22,Eğitim,Seminer,İzmir
+2024,Nisan,9,2024-04-09,Spor,487.25,ATM,ATM Çekimi,Ankara
+2024,Nisan,28,2024-04-28,Spor,496.23,ATM,ATM Çekimi,İstanbul
+2024,Nisan,8,2024-04-08,Eğitim,493.65,ATM,ATM Çekimi,İzmir
+2024,Nisan,4,2024-04-04,Restoran,259.72,ATM,ATM Çekimi,İzmir
+2024,Nisan,29,2024-04-29,Alışveriş,4433.92,Spor,Ekipman,İstanbul
+2024,Nisan,1,2024-04-01,Spor,48.53,Eğitim,Seminer,İstanbul
+2024,Nisan,26,2024-04-26,Spor,95.43,Spor,Üyelik,İzmir
+2024,Nisan,20,2024-04-20,Restoran,215.44,Restoran,Cafe,İzmir
+2024,Nisan,27,2024-04-27,Spor,256.16,ATM,ATM Çekimi,İzmir
+2024,Nisan,25,2024-04-25,Fatura Ödemesi,1809.19,Spor,Üyelik,Ankara
+2024,Nisan,13,2024-04-13,Alışveriş,105.09,Spor,Ekipman,İstanbul
+2024,Nisan,19,2024-04-19,Eğitim,415.96,Spor,Ekipman,Ankara
+2024,Nisan,20,2024-04-20,Alışveriş,472.32,Restoran,Unusual Expense,İstanbul
+2024,Nisan,2,2024-04-02,Restoran,158.68,Eğitim,Seminer,Ankara
+2024,Nisan,24,2024-04-24,Spor,406.56,Fatura Ödemesi,Su,Ankara
+2024,Nisan,30,2024-04-30,Alışveriş,1256.14,Fatura Ödemesi,Su,İstanbul
+2024,Nisan,11,2024-04-11,Restoran,1928.69,Eğitim,Seminer,Ankara
+2024,Nisan,17,2024-04-17,Spor,352.89,Eğitim,Unusual Expense,Ankara
+2024,Nisan,14,2024-04-14,Eğitim,492.45,Spor,Unusual Expense,İzmir
+2024,Nisan,17,2024-04-17,Eğitim,4128.38,Restoran,Cafe,İzmir
+2024,Nisan,14,2024-04-14,Restoran,1778.49,Spor,Ekipman,İstanbul
+2024,Nisan,1,2024-04-01,Restoran,1936.13,Spor,Üyelik,İzmir
+2024,Nisan,15,2024-04-15,Eğitim,445.15,Restoran,Cafe,Ankara
+2024,Nisan,21,2024-04-21,Restoran,4120.75,Restoran,Cafe,İzmir
+2024,Nisan,21,2024-04-21,Restoran,480.21,Eğitim,Kurs,İstanbul
+2024,Nisan,1,2024-04-01,Spor,123.69,Eğitim,Seminer,İstanbul
+2024,Nisan,9,2024-04-09,Restoran,478.94,Fatura Ödemesi,Telefon,İzmir
+2024,Nisan,20,2024-04-20,Eğitim,435.47,Fatura Ödemesi,Su,İzmir
+2024,Nisan,16,2024-04-16,Restoran,215.2,Fatura Ödemesi,Su,İzmir
+2024,Nisan,1,2024-04-01,Spor,149.22,ATM,Unusual Expense,İstanbul
+2024,Nisan,3,2024-04-03,Spor,199.95,Eğitim,Kitap,İzmir
+2024,Nisan,7,2024-04-07,Restoran,274.51,Fatura Ödemesi,Telefon,Ankara
+2024,Nisan,6,2024-04-06,Spor,2699.03,Spor,Ekipman,İstanbul
+2024,Nisan,21,2024-04-21,Spor,252.6,ATM,ATM Çekimi,Ankara
+2024,Nisan,13,2024-04-13,Spor,434.09,Restoran,Unusual Expense,Ankara
+2024,Nisan,6,2024-04-06,Restoran,83.43,Restoran,Fast Food,İzmir
+2024,Nisan,2,2024-04-02,Alışveriş,463.24,Fatura Ödemesi,Su,Ankara
+2024,Nisan,6,2024-04-06,Fatura Ödemesi,67.3,Restoran,Cafe,İstanbul
+2024,Nisan,7,2024-04-07,Spor,359.18,Restoran,Cafe,İzmir
+2024,Nisan,26,2024-04-26,Eğitim,4032.27,Restoran,Fine Dining,İstanbul
+2024,Nisan,13,2024-04-13,Fatura Ödemesi,109.6,Restoran,Fine Dining,İstanbul
+2024,Nisan,15,2024-04-15,Spor,190.57,Spor,Üyelik,İzmir
+2024,Nisan,5,2024-04-05,Restoran,125.97,Restoran,Cafe,İzmir
+2024,Nisan,21,2024-04-21,Spor,182.56,Restoran,Fast Food,İstanbul
+2024,Nisan,30,2024-04-30,Alışveriş,201.07,Restoran,Fast Food,Ankara
+2024,Nisan,25,2024-04-25,Spor,236.16,Restoran,Fine Dining,Ankara
+2024,Nisan,11,2024-04-11,Eğitim,4518.78,ATM,ATM Çekimi,İzmir
+2024,Nisan,18,2024-04-18,Restoran,420.65,Spor,Ekipman,İstanbul
+2024,Nisan,11,2024-04-11,Spor,102.78,Restoran,Fast Food,İstanbul
+2024,Nisan,29,2024-04-29,Restoran,144.25,Spor,Ekipman,İstanbul
+2024,Nisan,5,2024-04-05,Alışveriş,89.79,Restoran,Cafe,Ankara
+2024,Nisan,24,2024-04-24,Eğitim,278.32,Spor,Üyelik,Ankara
+2024,Nisan,1,2024-04-01,Alışveriş,475.7,Eğitim,Kitap,Ankara
+2024,Nisan,29,2024-04-29,Alışveriş,168.69,Restoran,Fast Food,Ankara
+2024,Nisan,27,2024-04-27,Eğitim,297.21,Fatura Ödemesi,Su,İstanbul
+2024,Nisan,5,2024-04-05,Fatura Ödemesi,3367.83,Restoran,Fine Dining,İstanbul
+2024,Nisan,23,2024-04-23,Fatura Ödemesi,256.86,Fatura Ödemesi,Telefon,İstanbul
+2024,Nisan,5,2024-04-05,Restoran,74.37,Fatura Ödemesi,İnternet,Ankara
+2024,Nisan,18,2024-04-18,Eğitim,481.93,Fatura Ödemesi,Su,Ankara
+2024,Nisan,29,2024-04-29,Fatura Ödemesi,333.77,Spor,Spor Salonu,İstanbul
+2024,Nisan,23,2024-04-23,Fatura Ödemesi,24.8,Eğitim,Kitap,İzmir
+2024,Nisan,26,2024-04-26,Spor,380.35,Fatura Ödemesi,Unusual Expense,Ankara
+2024,Nisan,9,2024-04-09,Spor,63.74,Restoran,Fast Food,Ankara
+2024,Nisan,9,2024-04-09,Restoran,15.1,ATM,ATM Çekimi,İstanbul
+2024,Nisan,15,2024-04-15,Spor,243.83,ATM,ATM Çekimi,İstanbul
+2024,Nisan,11,2024-04-11,Fatura Ödemesi,187.53,Fatura Ödemesi,Su,Ankara
+2024,Nisan,25,2024-04-25,Eğitim,470.43,Restoran,Fast Food,İstanbul
+2024,Nisan,15,2024-04-15,Alışveriş,487.19,Fatura Ödemesi,İnternet,İzmir
+2024,Nisan,12,2024-04-12,Eğitim,305.47,Eğitim,Unusual Expense,İzmir
+2024,Nisan,18,2024-04-18,Eğitim,198.46,ATM,ATM Çekimi,İstanbul
+2024,Nisan,23,2024-04-23,Spor,288.47,Restoran,Fast Food,Ankara
+2024,Nisan,28,2024-04-28,Restoran,217.05,Restoran,Fine Dining,İzmir
+2024,Nisan,23,2024-04-23,Alışveriş,245.3,Fatura Ödemesi,Unusual Expense,Ankara
+2024,Nisan,28,2024-04-28,Restoran,401.88,Fatura Ödemesi,İnternet,İstanbul
+2024,Nisan,23,2024-04-23,Eğitim,2330.48,ATM,ATM Çekimi,İstanbul
+2024,Nisan,5,2024-04-05,Fatura Ödemesi,446.18,Eğitim,Seminer,İzmir
+2024,Nisan,29,2024-04-29,Fatura Ödemesi,82.2,Restoran,Cafe,Ankara
+2024,Nisan,24,2024-04-24,Alışveriş,186.92,Spor,Üyelik,İstanbul
+2024,Nisan,5,2024-04-05,Spor,334.57,Fatura Ödemesi,Unusual Expense,İstanbul
+2024,Nisan,16,2024-04-16,Alışveriş,195.43,Fatura Ödemesi,Telefon,İstanbul
+2024,Nisan,9,2024-04-09,Fatura Ödemesi,230.76,ATM,ATM Çekimi,Ankara
+2024,Nisan,1,2024-04-01,Fatura Ödemesi,80.24,Fatura Ödemesi,Su,İzmir
+2024,Nisan,22,2024-04-22,Alışveriş,378.96,Restoran,Fast Food,İzmir
+2024,Nisan,18,2024-04-18,Fatura Ödemesi,270.54,Fatura Ödemesi,Telefon,Ankara
+2024,Nisan,8,2024-04-08,Spor,288.62,Fatura Ödemesi,Telefon,İstanbul
+2024,Nisan,27,2024-04-27,Alışveriş,1252.27,Restoran,Fine Dining,İzmir
+2024,Nisan,21,2024-04-21,Spor,490.0,Eğitim,Kurs,İzmir
+2024,Nisan,25,2024-04-25,Spor,221.57,Restoran,Fine Dining,İstanbul
+2024,Nisan,29,2024-04-29,Restoran,249.76,Fatura Ödemesi,Unusual Expense,İstanbul
+2024,Nisan,13,2024-04-13,Alışveriş,90.72,Restoran,Cafe,Ankara
+2024,Nisan,10,2024-04-10,Restoran,270.13,Eğitim,Kitap,Ankara
+2024,Nisan,10,2024-04-10,Eğitim,80.68,ATM,ATM Çekimi,İstanbul
+2024,Nisan,26,2024-04-26,Fatura Ödemesi,107.9,Fatura Ödemesi,Telefon,Ankara
+2024,Nisan,6,2024-04-06,Fatura Ödemesi,42.41,Eğitim,Seminer,İzmir
+2024,Nisan,17,2024-04-17,Restoran,4745.69,Fatura Ödemesi,Telefon,Ankara
+2024,Nisan,11,2024-04-11,Eğitim,246.03,Restoran,Fast Food,İzmir
+2024,Nisan,7,2024-04-07,Alışveriş,181.52,Restoran,Fast Food,Ankara
+2024,Nisan,6,2024-04-06,Alışveriş,87.38,Fatura Ödemesi,İnternet,İzmir
+2024,Nisan,9,2024-04-09,Eğitim,279.21,Fatura Ödemesi,Telefon,Ankara
+2024,Nisan,26,2024-04-26,Fatura Ödemesi,361.36,ATM,ATM Çekimi,İstanbul
+2024,Nisan,7,2024-04-07,Restoran,336.73,Fatura Ödemesi,İnternet,İzmir
+2024,Nisan,4,2024-04-04,Alışveriş,184.68,Eğitim,Kitap,İstanbul
+2024,Nisan,27,2024-04-27,Fatura Ödemesi,21.41,ATM,ATM Çekimi,İzmir
+2024,Nisan,2,2024-04-02,Eğitim,4545.8,Eğitim,Kurs,Ankara
+2024,Nisan,30,2024-04-30,Eğitim,250.77,ATM,Unusual Expense,İstanbul
+2024,Nisan,19,2024-04-19,Fatura Ödemesi,445.93,Eğitim,Seminer,İzmir
+2024,Nisan,2,2024-04-02,Eğitim,141.28,Restoran,Cafe,İstanbul
+2024,Nisan,13,2024-04-13,Eğitim,318.06,Restoran,Cafe,İstanbul
+2024,Nisan,16,2024-04-16,Eğitim,25.92,Restoran,Fine Dining,İzmir
+2024,Nisan,6,2024-04-06,Spor,206.53,Eğitim,Kurs,Ankara
+2024,Nisan,12,2024-04-12,Spor,224.01,Fatura Ödemesi,Unusual Expense,İzmir
+2024,Nisan,10,2024-04-10,Alışveriş,215.57,Spor,Unusual Expense,İstanbul
+2024,Nisan,25,2024-04-25,Eğitim,2674.01,Fatura Ödemesi,Telefon,İzmir
+2024,Nisan,16,2024-04-16,Alışveriş,397.22,ATM,ATM Çekimi,İstanbul
+2024,Nisan,24,2024-04-24,Eğitim,479.86,Spor,Ekipman,İzmir
+2024,Nisan,25,2024-04-25,Alışveriş,79.39,Spor,Spor Salonu,İstanbul
+2024,Nisan,14,2024-04-14,Alışveriş,352.28,Spor,Ekipman,İstanbul
+2024,Nisan,4,2024-04-04,Restoran,1153.91,Spor,Spor Salonu,İstanbul
+2024,Nisan,5,2024-04-05,Fatura Ödemesi,266.59,Fatura Ödemesi,Su,İstanbul
+2024,Nisan,12,2024-04-12,Alışveriş,410.55,ATM,ATM Çekimi,İstanbul
+2024,Nisan,27,2024-04-27,Spor,1440.62,Restoran,Fine Dining,Ankara
+2024,Nisan,10,2024-04-10,Restoran,2833.93,ATM,ATM Çekimi,İzmir
+2024,Nisan,5,2024-04-05,Eğitim,35.0,Restoran,Fast Food,İzmir
+2024,Nisan,30,2024-04-30,Spor,105.65,Eğitim,Seminer,Ankara
+2024,Nisan,23,2024-04-23,Alışveriş,199.46,Spor,Üyelik,İzmir
+2024,Nisan,24,2024-04-24,Alışveriş,288.0,Eğitim,Seminer,Ankara
+2024,Nisan,22,2024-04-22,Eğitim,203.35,Restoran,Fast Food,Ankara
+2024,Nisan,23,2024-04-23,Restoran,431.73,Spor,Spor Salonu,İzmir
+2024,Nisan,21,2024-04-21,Restoran,362.56,Restoran,Fine Dining,İstanbul
+2024,Nisan,16,2024-04-16,Fatura Ödemesi,101.12,Fatura Ödemesi,Su,İstanbul
+2024,Nisan,6,2024-04-06,Spor,2483.96,ATM,ATM Çekimi,İstanbul
+2024,Nisan,8,2024-04-08,Spor,3600.69,ATM,ATM Çekimi,İstanbul
+2024,Nisan,11,2024-04-11,Restoran,426.37,Fatura Ödemesi,Su,Ankara
+2024,Nisan,19,2024-04-19,Fatura Ödemesi,145.89,Fatura Ödemesi,Su,Ankara
+2024,Nisan,13,2024-04-13,Spor,118.68,Spor,Ekipman,İstanbul
+2024,Nisan,27,2024-04-27,Fatura Ödemesi,51.93,Eğitim,Seminer,Ankara
+2024,Nisan,16,2024-04-16,Fatura Ödemesi,117.32,Eğitim,Kurs,İzmir
+2024,Nisan,13,2024-04-13,Eğitim,205.64,Restoran,Fine Dining,İzmir
+2024,Nisan,9,2024-04-09,Spor,173.44,Spor,Spor Salonu,Ankara
+2024,Nisan,2,2024-04-02,Alışveriş,455.99,Fatura Ödemesi,Su,Ankara
+2024,Nisan,11,2024-04-11,Alışveriş,74.18,Eğitim,Seminer,İstanbul
+2024,Nisan,26,2024-04-26,Restoran,3109.24,Restoran,Cafe,İstanbul
+2024,Nisan,23,2024-04-23,Spor,282.21,ATM,ATM Çekimi,İzmir
+2024,Nisan,30,2024-04-30,Alışveriş,187.94,ATM,ATM Çekimi,İzmir
+2024,Nisan,10,2024-04-10,Fatura Ödemesi,283.82,Eğitim,Kitap,Ankara
+2024,Nisan,30,2024-04-30,Spor,148.24,Spor,Üyelik,İstanbul
+2024,Nisan,11,2024-04-11,Eğitim,4926.96,Fatura Ödemesi,Telefon,İstanbul
+2024,Nisan,1,2024-04-01,Eğitim,170.89,Fatura Ödemesi,Telefon,Ankara
+2024,Nisan,11,2024-04-11,Alışveriş,120.71,Eğitim,Seminer,Ankara
+2024,Nisan,15,2024-04-15,Fatura Ödemesi,3159.24,ATM,ATM Çekimi,İzmir
+2024,Nisan,14,2024-04-14,Spor,131.19,Spor,Spor Salonu,Ankara
+2024,Nisan,23,2024-04-23,Eğitim,452.77,Restoran,Cafe,İstanbul
+2024,Nisan,19,2024-04-19,Restoran,3786.2,Fatura Ödemesi,Su,İzmir
+2024,Nisan,27,2024-04-27,Spor,349.7,ATM,ATM Çekimi,Ankara
+2024,Nisan,8,2024-04-08,Restoran,1941.32,Eğitim,Kurs,Ankara
+2024,Nisan,6,2024-04-06,Spor,330.38,Fatura Ödemesi,İnternet,İstanbul
+2024,Nisan,14,2024-04-14,Fatura Ödemesi,497.55,Fatura Ödemesi,Su,İstanbul
+2024,Nisan,21,2024-04-21,Spor,214.18,Fatura Ödemesi,Su,İzmir
+2024,Nisan,13,2024-04-13,Eğitim,43.8,Spor,Ekipman,İstanbul
+2024,Nisan,19,2024-04-19,Restoran,1227.8,Fatura Ödemesi,Telefon,İzmir
+2024,Nisan,30,2024-04-30,Spor,3133.21,Eğitim,Seminer,İstanbul
+2024,Nisan,3,2024-04-03,Fatura Ödemesi,288.52,Fatura Ödemesi,Telefon,İstanbul
+2024,Nisan,29,2024-04-29,Eğitim,292.71,Spor,Spor Salonu,Ankara
+2024,Nisan,15,2024-04-15,Fatura Ödemesi,153.4,Spor,Ekipman,Ankara
+2024,Nisan,1,2024-04-01,Restoran,317.84,Eğitim,Kitap,İstanbul
+2024,Nisan,23,2024-04-23,Restoran,364.71,ATM,ATM Çekimi,Ankara
+2024,Nisan,7,2024-04-07,Restoran,69.44,Restoran,Fine Dining,İstanbul
+2024,Nisan,14,2024-04-14,Alışveriş,2911.95,Restoran,Fine Dining,Ankara
+2024,Nisan,9,2024-04-09,Alışveriş,72.52,Spor,Üyelik,İstanbul
+2024,Nisan,25,2024-04-25,Spor,67.69,Fatura Ödemesi,İnternet,Ankara
+2024,Nisan,4,2024-04-04,Restoran,305.37,Spor,Ekipman,İstanbul
+2024,Nisan,21,2024-04-21,Restoran,321.43,Spor,Spor Salonu,Ankara
+2024,Nisan,8,2024-04-08,Fatura Ödemesi,266.46,ATM,ATM Çekimi,İzmir
+2024,Nisan,2,2024-04-02,Fatura Ödemesi,382.67,Spor,Üyelik,Ankara
+2024,Nisan,7,2024-04-07,Fatura Ödemesi,189.72,Eğitim,Kurs,Ankara
+2024,Nisan,19,2024-04-19,Restoran,323.69,Eğitim,Kitap,İzmir
+2024,Nisan,12,2024-04-12,Eğitim,3128.78,Spor,Ekipman,İzmir
+2024,Nisan,3,2024-04-03,Alışveriş,332.45,Fatura Ödemesi,Su,İstanbul
+2024,Nisan,29,2024-04-29,Spor,291.4,Restoran,Fine Dining,İzmir
+2024,Nisan,27,2024-04-27,Spor,1152.69,Spor,Unusual Expense,İstanbul
+2024,Nisan,10,2024-04-10,Eğitim,68.39,Fatura Ödemesi,Telefon,İstanbul
+2024,Nisan,15,2024-04-15,Restoran,456.76,Restoran,Fine Dining,İzmir
+2024,Nisan,6,2024-04-06,Eğitim,3478.64,Restoran,Cafe,İstanbul
+2024,Nisan,16,2024-04-16,Fatura Ödemesi,67.75,Spor,Üyelik,İzmir
+2024,Nisan,30,2024-04-30,Eğitim,313.69,Eğitim,Unusual Expense,İstanbul
+2024,Nisan,12,2024-04-12,Fatura Ödemesi,224.25,Fatura Ödemesi,Su,İstanbul
+2024,Nisan,22,2024-04-22,Eğitim,4032.88,Spor,Üyelik,İzmir
+2024,Nisan,25,2024-04-25,Spor,92.51,Fatura Ödemesi,Telefon,İzmir
+2024,Nisan,2,2024-04-02,Spor,337.97,Eğitim,Seminer,Ankara
+2024,Nisan,18,2024-04-18,Eğitim,202.23,Spor,Spor Salonu,İstanbul
+2024,Nisan,15,2024-04-15,Restoran,88.02,Eğitim,Kitap,İstanbul
+2024,Nisan,18,2024-04-18,Alışveriş,103.26,Restoran,Fine Dining,Ankara
+2024,Nisan,29,2024-04-29,Restoran,80.74,Fatura Ödemesi,İnternet,İstanbul
+2024,Nisan,28,2024-04-28,Alışveriş,313.9,Spor,Üyelik,İstanbul
+2024,Nisan,10,2024-04-10,Spor,385.52,Spor,Ekipman,Ankara
+2024,Nisan,5,2024-04-05,Restoran,486.85,ATM,ATM Çekimi,İstanbul
+2024,Nisan,3,2024-04-03,Alışveriş,404.61,ATM,ATM Çekimi,İstanbul
+2024,Nisan,8,2024-04-08,Spor,121.14,Spor,Üyelik,Ankara
+2024,Nisan,9,2024-04-09,Alışveriş,123.49,Restoran,Fine Dining,Ankara
+2024,Nisan,2,2024-04-02,Restoran,1350.02,ATM,ATM Çekimi,Ankara
+2024,Nisan,4,2024-04-04,Spor,237.67,Restoran,Fine Dining,Ankara
+2024,Nisan,19,2024-04-19,Fatura Ödemesi,58.31,Eğitim,Kitap,İstanbul
+2024,Nisan,28,2024-04-28,Alışveriş,276.24,Restoran,Fast Food,Ankara
+2024,Nisan,20,2024-04-20,Alışveriş,171.25,Eğitim,Seminer,İstanbul
+2024,Nisan,16,2024-04-16,Fatura Ödemesi,4497.59,Spor,Spor Salonu,İstanbul
+2024,Nisan,9,2024-04-09,Alışveriş,119.07,Spor,Unusual Expense,İstanbul
+2024,Nisan,22,2024-04-22,Eğitim,285.51,Eğitim,Kitap,İzmir
+2024,Nisan,26,2024-04-26,Spor,193.91,Fatura Ödemesi,Unusual Expense,İstanbul
+2024,Nisan,7,2024-04-07,Alışveriş,136.57,Eğitim,Seminer,Ankara
+2024,Nisan,22,2024-04-22,Spor,468.61,Spor,Spor Salonu,Ankara
+2024,Nisan,11,2024-04-11,Alışveriş,423.69,Restoran,Fast Food,Ankara
+2024,Nisan,27,2024-04-27,Restoran,54.78,Spor,Üyelik,Ankara
+2024,Nisan,29,2024-04-29,Spor,178.22,Fatura Ödemesi,Telefon,Ankara
+2024,Nisan,1,2024-04-01,Alışveriş,10.95,Eğitim,Seminer,Ankara
+2024,Nisan,12,2024-04-12,Restoran,1061.49,Eğitim,Kitap,Ankara
+2024,Nisan,19,2024-04-19,Spor,320.22,Eğitim,Kitap,Ankara
+2024,Nisan,29,2024-04-29,Eğitim,390.34,Fatura Ödemesi,İnternet,Ankara
+2024,Nisan,21,2024-04-21,Restoran,82.89,Fatura Ödemesi,Telefon,İstanbul
+2024,Nisan,27,2024-04-27,Restoran,284.29,Spor,Spor Salonu,Ankara
+2024,Nisan,10,2024-04-10,Spor,254.44,Spor,Unusual Expense,Ankara
+2024,Nisan,2,2024-04-02,Restoran,107.76,Fatura Ödemesi,İnternet,Ankara
+2024,Nisan,11,2024-04-11,Fatura Ödemesi,317.83,Spor,Unusual Expense,Ankara
+2024,Nisan,16,2024-04-16,Alışveriş,88.59,Restoran,Fine Dining,Ankara
+2024,Nisan,1,2024-04-01,Fatura Ödemesi,60.42,ATM,ATM Çekimi,İstanbul
+2024,Nisan,1,2024-04-01,Eğitim,282.08,ATM,ATM Çekimi,İstanbul
+2024,Nisan,20,2024-04-20,Fatura Ödemesi,136.02,Restoran,Fast Food,İzmir
+2024,Nisan,1,2024-04-01,Spor,69.45,Eğitim,Seminer,İstanbul
