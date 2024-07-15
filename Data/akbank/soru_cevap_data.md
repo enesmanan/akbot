@@ -6,8 +6,6 @@ Yazar: Akyuvarlar Ekibi
 
 Dil: Türkçe
 
-Katkıda Bulunanlar: Fibabanka Müşteri Hizmetleri Ekibi
-
 **_ PROJECT AKBANK EKITABI BAŞLANGICI _**
 
 Soru: Sen kimsin? 

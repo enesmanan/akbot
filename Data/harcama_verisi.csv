@@ -1,0 +1,2001 @@
+Yıl,Ay,Gün,Tarih,Saat,İşlem Türü,Harcama Kategorisi,Şehir,Tutar
+2022,Kasım,17,2022-11-17,11:32,Ulaşım,Benzin,İstanbul,50.03
+2023,Kasım,14,2023-11-06,14:25,Fatura,Su,İstanbul,52.5
+2024,Şubat,23,2024-02-23,10:02,Giyim,LC Waikiki,İstanbul,126.92
+2023,Eylül,27,2023-09-27,14:47,Restoran,Kebap,Ankara,181.47
+2023,Ağustos,25,2023-08-28,14:49,Fatura,Elektrik,Ankara,105.0
+2023,Haziran,19,2023-06-19,14:03,Ulaşım,Taksi,İstanbul,257.26
+2022,Aralık,5,2022-12-05,13:49,Restoran,Pizza,Ankara,164.45
+2023,Aralık,8,2023-12-08,12:20,Restoran,Pizza,İzmir,46.5
+2022,Mart,8,2022-03-27,20:26,Fatura,Elektrik,İzmir,110.0
+2022,Kasım,13,2022-11-26,05:22,Fatura,Elektrik,İstanbul,110.0
+2024,Şubat,25,2024-02-25,01:29,Ulaşım,Taksi,İstanbul,174.35
+2022,Ağustos,13,2022-08-26,07:41,Fatura,Elektrik,İzmir,110.0
+2022,Aralık,4,2022-12-04,12:40,Giyim,H&M,İzmir,96.48
+2024,Mart,16,2024-03-14,06:34,Fatura,Su,Ankara,50.0
+2023,Temmuz,23,2023-07-23,22:54,Ulaşım,Taksi,İzmir,22.77
+2024,Haziran,24,2024-06-14,02:15,Fatura,Su,Ankara,50.0
+2022,Nisan,8,2022-04-08,12:22,Restoran,Pizza,İstanbul,163.26
+2022,Mayıs,17,2022-05-17,13:20,Restoran,Pizza,İstanbul,96.23
+2024,Nisan,24,2024-04-23,00:55,Fatura,Elektrik,Ankara,100.0
+2022,Eylül,1,2022-09-01,13:56,Restoran,Fast Food,Ankara,140.13
+2024,Nisan,24,2024-04-24,21:15,Fatura,Su,Ankara,50.0
+2024,Mayıs,7,2024-05-27,22:03,Fatura,İnternet,Ankara,80.0
+2022,Ağustos,20,2022-08-20,21:08,Ulaşım,Taksi,Ankara,494.46
+2023,Haziran,22,2023-06-22,12:28,Giyim,LC Waikiki,Ankara,806.28
+2024,Ocak,9,2024-01-09,10:16,Giyim,H&M,İzmir,369.94
+2022,Temmuz,6,2022-07-06,12:33,Restoran,Fast Food,Ankara,178.99
+2022,Aralık,7,2022-12-07,12:26,Restoran,Kebap,İzmir,90.06
+2023,Ekim,20,2023-10-19,16:19,Fatura,Su,Ankara,52.5
+2024,Mart,14,2024-03-14,12:55,Restoran,Kebap,İstanbul,188.48
+2022,Ağustos,17,2022-08-17,16:52,Giyim,Zara,İstanbul,987.57
+2022,Eylül,10,2022-09-12,09:17,Fatura,Elektrik,Ankara,110.0
+2022,Eylül,10,2022-09-17,01:35,Fatura,İnternet,İzmir,88.0
+2024,Temmuz,27,2024-07-27,14:53,Restoran,Pizza,İstanbul,71.35
+2022,Kasım,24,2022-11-24,12:11,Ulaşım,Otobüs,Ankara,441.62
+2024,Mart,14,2024-03-14,12:51,Restoran,Fast Food,Ankara,49.11
+2022,Ağustos,17,2022-08-17,14:34,Ulaşım,Otobüs,Ankara,281.52
+2022,Nisan,5,2022-04-05,12:49,Giyim,H&M,İstanbul,557.18
+2024,Ocak,13,2024-01-13,12:38,Restoran,Kebap,İstanbul,36.23
+2022,Ekim,3,2022-10-03,01:52,Giyim,LC Waikiki,Ankara,277.41
+2023,Aralık,1,2023-12-12,00:18,Fatura,Elektrik,İzmir,105.0
+2024,Mart,3,2024-03-03,19:56,Ulaşım,Taksi,İstanbul,469.98
+2024,Mart,23,2024-03-23,13:54,Restoran,Kebap,Ankara,37.97
+2023,Ekim,20,2023-10-18,11:13,Fatura,İnternet,İstanbul,84.0
+2022,Ekim,6,2022-10-06,13:23,Restoran,Kebap,İstanbul,56.57
+2022,Haziran,1,2022-06-01,07:37,Fatura,Su,İzmir,55.0
+2024,Nisan,24,2024-04-26,18:38,Fatura,Su,İzmir,50.0
+2024,Ocak,5,2024-01-05,14:23,Restoran,Pizza,Ankara,127.07
+2023,Ocak,22,2023-01-22,14:13,Restoran,Fast Food,İstanbul,120.35
+2023,Nisan,5,2023-04-05,15:13,Giyim,Zara,İzmir,258.87
+2024,Ocak,10,2024-01-10,10:38,Ulaşım,Otobüs,Ankara,491.03
+2023,Şubat,23,2023-02-23,17:07,Ulaşım,Otobüs,İstanbul,315.9
+2023,Aralık,1,2023-12-22,10:30,Fatura,Elektrik,Ankara,105.0
+2022,Eylül,11,2022-09-11,16:32,Giyim,LC Waikiki,Ankara,972.05
+2022,Mayıs,14,2022-05-27,04:36,Fatura,Su,Ankara,55.0
+2022,Şubat,8,2022-02-08,02:05,Giyim,H&M,İzmir,473.03
+2022,Eylül,13,2022-09-13,05:40,Giyim,Zara,Ankara,204.69
+2023,Temmuz,8,2023-07-08,09:47,Giyim,LC Waikiki,İzmir,147.78
+2023,Mayıs,10,2023-05-10,01:11,Ulaşım,Otobüs,İzmir,284.5
+2024,Nisan,17,2024-04-17,13:36,Restoran,Fast Food,İstanbul,22.19
+2023,Haziran,10,2023-06-10,13:01,Ulaşım,Benzin,İzmir,243.06
+2022,Temmuz,12,2022-07-07,00:31,Fatura,İnternet,İstanbul,88.0
+2022,Ocak,25,2022-01-02,02:02,Fatura,Su,Ankara,55.0
+2024,Ocak,21,2024-01-21,12:01,Restoran,Fast Food,İstanbul,180.86
+2023,Ocak,9,2023-01-24,22:01,Fatura,Su,İzmir,52.5
+2022,Mart,1,2022-03-01,13:35,Ulaşım,Benzin,Ankara,251.84
+2024,Haziran,2,2024-06-02,16:44,Giyim,H&M,İstanbul,255.37
+2022,Kasım,13,2022-11-03,18:39,Fatura,Su,Ankara,55.0
+2022,Şubat,6,2022-02-11,05:00,Fatura,İnternet,Ankara,88.0
+2022,Ekim,25,2022-10-23,08:27,Fatura,Su,İzmir,55.0
+2024,Nisan,1,2024-04-01,07:33,Giyim,H&M,İstanbul,565.83
+2022,Ocak,17,2022-01-17,13:29,Restoran,Kebap,İzmir,89.62
+2024,Mayıs,7,2024-05-01,08:49,Fatura,İnternet,İstanbul,80.0
+2023,Ekim,11,2023-10-11,11:46,Ulaşım,Benzin,İstanbul,255.93
+2024,Ocak,26,2024-01-26,03:38,Giyim,Zara,Ankara,482.82
+2023,Şubat,17,2023-02-17,13:47,Restoran,Kebap,İzmir,58.27
+2023,Şubat,16,2023-02-16,07:40,Giyim,H&M,Ankara,477.34
+2024,Mayıs,24,2024-05-24,13:41,Ulaşım,Benzin,Ankara,84.47
+2023,Eylül,17,2023-09-17,14:48,Restoran,Kebap,İstanbul,198.92
+2024,Mart,16,2024-03-25,06:52,Fatura,İnternet,İstanbul,80.0
+2022,Ekim,20,2022-10-20,12:28,Ulaşım,Benzin,İstanbul,352.71
+2023,Kasım,11,2023-11-11,13:04,Restoran,Kebap,İstanbul,139.19
+2024,Mart,22,2024-03-22,14:01,Restoran,Kebap,Ankara,31.82
+2024,Temmuz,27,2024-07-27,12:22,Restoran,Fast Food,İstanbul,50.78
+2024,Şubat,9,2024-02-09,16:00,Ulaşım,Otobüs,İstanbul,218.38
+2024,Şubat,3,2024-02-03,13:21,Restoran,Kebap,İzmir,187.52
+2024,Mart,13,2024-03-13,11:00,Ulaşım,Benzin,Ankara,346.6
+2022,Ekim,19,2022-10-19,23:13,Ulaşım,Taksi,Ankara,120.95
+2024,Temmuz,5,2024-07-05,04:39,Ulaşım,Taksi,Ankara,354.96
+2024,Şubat,27,2024-02-20,02:55,Fatura,Elektrik,Ankara,100.0
+2022,Temmuz,22,2022-07-22,10:46,Ulaşım,Otobüs,İzmir,209.02
+2023,Kasım,4,2023-11-04,13:22,Restoran,Kebap,İzmir,109.77
+2023,Haziran,24,2023-06-24,22:10,Giyim,LC Waikiki,İstanbul,852.97
+2022,Mayıs,21,2022-05-21,08:17,Giyim,LC Waikiki,İstanbul,334.57
+2022,Temmuz,12,2022-07-23,17:31,Fatura,İnternet,Ankara,88.0
+2023,Ekim,27,2023-10-27,13:14,Restoran,Fast Food,İzmir,46.71
+2024,Ocak,20,2024-01-20,14:12,Restoran,Pizza,İzmir,23.71
+2022,Temmuz,7,2022-07-07,11:35,Giyim,Zara,İzmir,971.9
+2022,Ocak,25,2022-01-09,18:56,Fatura,Elektrik,İstanbul,110.0
+2022,Ağustos,13,2022-08-13,21:14,Fatura,İnternet,Ankara,88.0
+2024,Ocak,28,2024-01-28,22:47,Ulaşım,Otobüs,İstanbul,112.01
+2024,Mart,8,2024-03-08,02:48,Giyim,LC Waikiki,Ankara,639.31
+2024,Nisan,5,2024-04-05,02:29,Giyim,Zara,İzmir,810.14
+2024,Temmuz,5,2024-07-05,13:17,Restoran,Pizza,Ankara,91.52
+2022,Mart,1,2022-03-01,12:18,Restoran,Fast Food,İzmir,126.83
+2023,Mayıs,7,2023-05-10,04:34,Fatura,Elektrik,İstanbul,105.0
+2022,Ağustos,13,2022-08-18,16:47,Fatura,Elektrik,Ankara,110.0
+2024,Haziran,24,2024-06-11,08:48,Fatura,Elektrik,İzmir,100.0
+2024,Temmuz,7,2024-07-07,13:32,Restoran,Fast Food,İzmir,29.12
+2024,Ocak,2,2024-01-02,12:54,Ulaşım,Benzin,İzmir,469.28
+2023,Temmuz,3,2023-07-03,10:42,Giyim,Zara,İzmir,693.99
+2022,Ağustos,17,2022-08-17,13:11,Ulaşım,Benzin,İstanbul,152.84
+2022,Mart,17,2022-03-17,12:35,Ulaşım,Benzin,Ankara,370.21
+2023,Şubat,14,2023-02-03,22:22,Fatura,İnternet,Ankara,84.0
+2022,Temmuz,12,2022-07-24,23:02,Fatura,İnternet,İstanbul,88.0
+2022,Aralık,13,2022-12-13,14:27,Restoran,Pizza,İstanbul,185.4
+2024,Mayıs,28,2024-05-28,03:55,Giyim,Zara,İzmir,591.93
+2022,Haziran,7,2022-06-07,09:04,Giyim,Zara,Ankara,775.4
+2023,Kasım,4,2023-11-04,14:49,Restoran,Fast Food,İzmir,95.7
+2022,Nisan,18,2022-04-18,08:41,Ulaşım,Otobüs,İstanbul,308.53
+2024,Temmuz,2,2024-07-02,18:19,Ulaşım,Taksi,İstanbul,332.56
+2024,Haziran,15,2024-06-15,13:48,Restoran,Fast Food,Ankara,194.28
+2024,Mart,16,2024-03-04,11:19,Fatura,İnternet,İzmir,80.0
+2023,Mart,25,2023-03-25,07:25,Giyim,Zara,Ankara,508.05
+2022,Ekim,14,2022-10-14,08:17,Giyim,H&M,İzmir,769.32
+2024,Nisan,8,2024-04-08,17:56,Ulaşım,Otobüs,İstanbul,292.5
+2023,Mayıs,7,2023-05-05,10:34,Fatura,Elektrik,Ankara,105.0
+2023,Mayıs,7,2023-05-14,08:43,Fatura,Elektrik,Ankara,105.0
+2023,Mart,11,2023-03-11,01:28,Giyim,H&M,İzmir,402.82
+2022,Kasım,2,2022-11-02,12:27,Restoran,Fast Food,İzmir,24.37
+2024,Şubat,24,2024-02-24,06:22,Ulaşım,Taksi,Ankara,59.71
+2024,Mayıs,17,2024-05-17,13:47,Restoran,Kebap,İzmir,20.73
+2023,Kasım,6,2023-11-06,13:53,Restoran,Pizza,İstanbul,168.75
+2023,Mart,26,2023-03-28,23:27,Fatura,İnternet,Ankara,84.0
+2022,Eylül,10,2022-09-26,01:37,Fatura,Su,Ankara,55.0
+2023,Aralık,6,2023-12-06,03:18,Giyim,H&M,İstanbul,913.7
+2023,Haziran,3,2023-06-03,14:59,Restoran,Pizza,İstanbul,84.45
+2023,Kasım,7,2023-11-07,06:26,Ulaşım,Otobüs,İzmir,16.27
+2024,Nisan,24,2024-04-20,21:19,Fatura,İnternet,İstanbul,80.0
+2023,Haziran,24,2023-06-24,05:12,Giyim,Zara,İstanbul,65.66
+2023,Haziran,20,2023-06-20,23:21,Giyim,Zara,Ankara,288.55
+2022,Aralık,13,2022-12-13,12:31,Restoran,Kebap,Ankara,67.5
+2023,Eylül,20,2023-09-20,14:28,Ulaşım,Otobüs,İstanbul,266.05
+2023,Temmuz,5,2023-07-05,04:42,Ulaşım,Otobüs,İstanbul,449.62
+2024,Şubat,11,2024-02-11,06:03,Ulaşım,Taksi,İzmir,454.45
+2023,Mayıs,12,2023-05-12,12:21,Restoran,Kebap,Ankara,178.12
+2024,Nisan,24,2024-04-20,04:50,Fatura,Elektrik,İstanbul,100.0
+2023,Şubat,18,2023-02-18,13:56,Giyim,LC Waikiki,İstanbul,910.52
+2024,Mayıs,9,2024-05-09,15:40,Giyim,Zara,İstanbul,116.31
+2023,Ekim,4,2023-10-04,08:26,Giyim,LC Waikiki,Ankara,608.47
+2022,Eylül,2,2022-09-02,14:55,Giyim,Zara,Ankara,143.45
+2024,Şubat,27,2024-02-16,17:43,Fatura,İnternet,İstanbul,80.0
+2024,Nisan,21,2024-04-21,06:32,Ulaşım,Taksi,İstanbul,28.73
+2022,Ekim,9,2022-10-09,02:02,Ulaşım,Taksi,Ankara,399.83
+2022,Mart,11,2022-03-11,12:27,Ulaşım,Benzin,İstanbul,355.76
+2022,Nisan,3,2022-04-03,18:02,Giyim,LC Waikiki,Ankara,397.97
+2024,Mayıs,7,2024-05-27,21:10,Fatura,İnternet,İstanbul,80.0
+2023,Ocak,18,2023-01-18,07:01,Giyim,Zara,İzmir,271.33
+2023,Nisan,25,2023-04-26,15:46,Fatura,Su,İstanbul,52.5
+2022,Mart,8,2022-03-08,12:55,Ulaşım,Benzin,İzmir,235.03
+2024,Nisan,24,2024-04-24,17:24,Ulaşım,Taksi,İzmir,319.37
+2024,Şubat,26,2024-02-26,12:02,Ulaşım,Otobüs,Ankara,93.43
+2022,Nisan,11,2022-04-11,13:10,Restoran,Fast Food,İzmir,30.02
+2022,Nisan,9,2022-04-09,12:54,Restoran,Fast Food,İzmir,183.02
+2024,Ocak,9,2024-01-09,14:55,Giyim,Zara,İzmir,847.57
+2024,Temmuz,10,2024-07-10,13:47,Restoran,Kebap,İstanbul,94.96
+2022,Temmuz,12,2022-07-22,20:49,Fatura,Su,Ankara,55.0
+2022,Haziran,14,2022-06-14,11:36,Ulaşım,Benzin,İzmir,327.12
+2023,Mayıs,21,2023-05-21,03:05,Giyim,H&M,İzmir,291.93
+2024,Temmuz,24,2024-07-24,20:48,Ulaşım,Taksi,İzmir,117.35
+2024,Haziran,1,2024-06-01,12:17,Restoran,Pizza,İzmir,180.43
+2023,Nisan,17,2023-04-17,18:50,Giyim,H&M,İstanbul,529.7
+2022,Ocak,25,2022-01-08,17:44,Fatura,Elektrik,İzmir,110.0
+2024,Şubat,21,2024-02-21,12:42,Ulaşım,Benzin,Ankara,152.87
+2022,Ekim,23,2022-10-23,21:48,Giyim,Zara,İzmir,156.8
+2022,Şubat,6,2022-02-18,00:25,Fatura,İnternet,Ankara,88.0
+2024,Haziran,24,2024-06-08,18:01,Fatura,Elektrik,İzmir,100.0
+2023,Eylül,2,2023-09-02,12:50,Restoran,Pizza,İstanbul,163.91
+2022,Eylül,10,2022-09-11,20:21,Fatura,Elektrik,İzmir,110.0
+2023,Aralık,28,2023-12-28,13:25,Ulaşım,Benzin,Ankara,445.95
+2024,Mart,10,2024-03-10,23:43,Ulaşım,Taksi,İstanbul,266.33
+2023,Aralık,1,2023-12-13,05:39,Fatura,Elektrik,İstanbul,105.0
+2023,Eylül,13,2023-09-13,02:06,Giyim,Zara,İzmir,355.47
+2023,Şubat,14,2023-02-22,05:15,Fatura,İnternet,İstanbul,84.0
+2023,Eylül,11,2023-09-15,10:43,Fatura,İnternet,İstanbul,84.0
+2023,Nisan,17,2023-04-17,02:55,Giyim,Zara,Ankara,165.48
+2024,Şubat,28,2024-02-28,16:12,Ulaşım,Otobüs,Ankara,160.0
+2023,Şubat,5,2023-02-05,13:17,Restoran,Kebap,Ankara,91.29
+2023,Eylül,20,2023-09-20,10:47,Giyim,H&M,Ankara,883.6
+2023,Kasım,1,2023-11-01,14:00,Giyim,Zara,İstanbul,291.51
+2023,Ağustos,16,2023-08-16,14:19,Giyim,LC Waikiki,Ankara,196.61
+2024,Şubat,2,2024-02-02,11:40,Ulaşım,Benzin,Ankara,275.52
+2024,Nisan,17,2024-04-17,09:31,Giyim,H&M,Ankara,323.76
+2024,Mart,16,2024-03-12,23:48,Fatura,İnternet,İstanbul,80.0
+2023,Ekim,9,2023-10-09,13:48,Restoran,Pizza,İzmir,197.79
+2022,Haziran,1,2022-06-20,08:19,Fatura,İnternet,İzmir,88.0
+2024,Nisan,15,2024-04-15,12:55,Ulaşım,Otobüs,İstanbul,79.22
+2022,Aralık,6,2022-12-06,07:31,Giyim,H&M,İstanbul,609.95
+2022,Haziran,22,2022-06-22,23:39,Giyim,H&M,İstanbul,309.12
+2023,Şubat,21,2023-02-21,22:50,Ulaşım,Taksi,İzmir,325.98
+2024,Ocak,16,2024-01-16,13:09,Ulaşım,Taksi,Ankara,38.1
+2024,Haziran,19,2024-06-19,09:36,Ulaşım,Otobüs,Ankara,422.93
+2024,Temmuz,8,2024-07-02,06:39,Fatura,Su,İzmir,50.0
+2023,Ocak,9,2023-01-02,18:40,Fatura,İnternet,İzmir,84.0
+2023,Aralık,11,2023-12-11,14:31,Restoran,Kebap,İzmir,179.47
+2022,Şubat,17,2022-02-17,14:03,Restoran,Fast Food,İzmir,26.33
+2024,Haziran,27,2024-06-27,12:52,Restoran,Fast Food,Ankara,53.32
+2023,Haziran,15,2023-06-15,12:30,Restoran,Pizza,İzmir,40.32
+2023,Ekim,20,2023-10-26,21:19,Fatura,İnternet,Ankara,84.0
+2024,Nisan,17,2024-04-17,13:53,Ulaşım,Benzin,İstanbul,189.45
+2022,Kasım,13,2022-11-21,14:32,Fatura,Elektrik,Ankara,110.0
+2022,Haziran,9,2022-06-09,09:19,Ulaşım,Otobüs,Ankara,263.49
+2023,Aralık,2,2023-12-02,19:40,Ulaşım,Otobüs,Ankara,28.55
+2022,Haziran,28,2022-06-28,09:17,Giyim,Zara,Ankara,245.85
+2024,Ocak,21,2024-01-21,17:25,Ulaşım,Taksi,İstanbul,56.9
+2022,Şubat,27,2022-02-27,23:32,Ulaşım,Otobüs,İstanbul,420.75
+2023,Temmuz,13,2023-07-13,14:46,Restoran,Pizza,İstanbul,124.63
+2023,Şubat,4,2023-02-04,12:48,Restoran,Kebap,İzmir,94.29
+2023,Şubat,1,2023-02-01,06:52,Ulaşım,Taksi,İzmir,25.12
+2022,Aralık,19,2022-12-19,13:36,Restoran,Pizza,Ankara,143.85
+2023,Kasım,19,2023-11-19,06:07,Giyim,H&M,Ankara,773.9
+2024,Ocak,13,2024-01-13,13:06,Restoran,Kebap,İstanbul,33.58
+2023,Ekim,28,2023-10-28,14:02,Restoran,Kebap,İzmir,106.7
+2023,Nisan,28,2023-04-28,13:57,Restoran,Fast Food,İzmir,198.53
+2023,Eylül,11,2023-09-18,01:45,Fatura,Su,İzmir,52.5
+2022,Kasım,7,2022-11-07,13:05,Restoran,Pizza,İstanbul,177.07
+2023,Ağustos,20,2023-08-20,02:29,Ulaşım,Otobüs,İstanbul,492.01
+2023,Ocak,8,2023-01-08,13:11,Restoran,Pizza,İzmir,169.52
+2023,Ekim,27,2023-10-27,13:49,Restoran,Fast Food,İstanbul,112.01
+2024,Temmuz,14,2024-07-14,20:15,Ulaşım,Otobüs,Ankara,74.08
+2023,Nisan,3,2023-04-03,04:03,Giyim,LC Waikiki,İstanbul,397.73
+2024,Nisan,10,2024-04-10,12:44,Restoran,Fast Food,Ankara,171.96
+2024,Haziran,2,2024-06-02,12:41,Ulaşım,Benzin,Ankara,293.53
+2023,Nisan,10,2023-04-10,11:10,Ulaşım,Taksi,İzmir,157.52
+2023,Şubat,17,2023-02-17,18:24,Giyim,Zara,Ankara,911.1
+2023,Temmuz,18,2023-07-18,01:56,Ulaşım,Taksi,Ankara,472.07
+2024,Mart,14,2024-03-14,13:07,Restoran,Kebap,İstanbul,99.27
+2023,Nisan,17,2023-04-17,13:01,Giyim,Zara,İzmir,253.43
+2023,Ekim,3,2023-10-03,20:42,Giyim,Zara,Ankara,577.52
+2023,Mayıs,24,2023-05-24,14:57,Restoran,Fast Food,Ankara,165.67
+2024,Şubat,18,2024-02-18,05:58,Giyim,LC Waikiki,İstanbul,359.38
+2022,Nisan,4,2022-04-04,19:34,Giyim,LC Waikiki,İzmir,455.52
+2022,Mart,24,2022-03-24,12:07,Restoran,Fast Food,İzmir,172.24
+2022,Aralık,14,2022-12-14,14:49,Restoran,Pizza,Ankara,40.04
+2024,Ocak,6,2024-01-06,00:40,Giyim,LC Waikiki,İstanbul,733.43
+2024,Temmuz,8,2024-07-25,23:39,Fatura,Elektrik,İstanbul,100.0
+2023,Şubat,14,2023-02-01,18:40,Fatura,İnternet,Ankara,84.0
+2023,Şubat,23,2023-02-23,19:35,Giyim,LC Waikiki,İzmir,245.44
+2022,Eylül,19,2022-09-19,13:39,Ulaşım,Benzin,İzmir,204.06
+2024,Mayıs,7,2024-05-08,17:23,Fatura,Su,Ankara,50.0
+2023,Aralık,1,2023-12-04,08:57,Fatura,İnternet,İzmir,84.0
+2023,Ağustos,8,2023-08-08,04:18,Ulaşım,Taksi,İstanbul,495.38
+2024,Temmuz,8,2024-07-21,19:21,Fatura,İnternet,İstanbul,80.0
+2023,Mayıs,17,2023-05-17,07:16,Giyim,LC Waikiki,Ankara,439.39
+2023,Aralık,1,2023-12-17,09:59,Fatura,Elektrik,İzmir,105.0
+2022,Aralık,16,2022-12-27,08:45,Fatura,Su,İzmir,55.0
+2023,Eylül,11,2023-09-27,14:52,Fatura,Su,İstanbul,52.5
+2022,Şubat,17,2022-02-17,14:58,Restoran,Pizza,Ankara,126.07
+2024,Şubat,27,2024-02-08,08:23,Fatura,İnternet,Ankara,80.0
+2022,Mayıs,2,2022-05-02,22:36,Giyim,H&M,İzmir,193.69
+2024,Mayıs,20,2024-05-20,13:56,Restoran,Fast Food,İstanbul,180.64
+2022,Ocak,3,2022-01-03,13:07,Restoran,Kebap,İzmir,193.54
+2024,Nisan,2,2024-04-02,17:52,Ulaşım,Otobüs,İstanbul,424.4
+2023,Kasım,2,2023-11-02,13:14,Giyim,Zara,İzmir,278.76
+2024,Ocak,11,2024-01-11,12:26,Restoran,Kebap,Ankara,88.89
+2022,Şubat,5,2022-02-05,14:50,Restoran,Pizza,İzmir,31.41
+2022,Şubat,17,2022-02-17,11:25,Ulaşım,Benzin,Ankara,86.84
+2024,Şubat,6,2024-02-06,14:53,Restoran,Kebap,İstanbul,139.23
+2023,Mayıs,9,2023-05-09,18:27,Giyim,Zara,İzmir,960.95
+2022,Kasım,13,2022-11-11,13:57,Fatura,Su,İstanbul,55.0
+2022,Ağustos,11,2022-08-11,00:08,Ulaşım,Taksi,Ankara,108.82
+2023,Şubat,14,2023-02-07,10:25,Fatura,Su,İstanbul,52.5
+2023,Aralık,1,2023-12-23,23:40,Fatura,Elektrik,İstanbul,105.0
+2023,Temmuz,21,2023-07-07,11:57,Fatura,Elektrik,İstanbul,105.0
+2024,Şubat,27,2024-02-25,14:58,Fatura,Elektrik,İstanbul,100.0
+2024,Mayıs,20,2024-05-20,14:48,Restoran,Fast Food,İstanbul,130.18
+2024,Nisan,24,2024-04-08,20:20,Fatura,Elektrik,İzmir,100.0
+2024,Nisan,1,2024-04-01,13:02,Restoran,Pizza,İstanbul,61.47
+2023,Şubat,3,2023-02-03,13:42,Ulaşım,Benzin,Ankara,290.35
+2024,Mayıs,11,2024-05-11,12:53,Restoran,Pizza,Ankara,90.91
+2023,Ocak,7,2023-01-07,05:52,Giyim,H&M,İzmir,739.17
+2024,Şubat,15,2024-02-15,12:55,Restoran,Kebap,Ankara,155.34
+2023,Eylül,18,2023-09-18,01:16,Ulaşım,Taksi,İzmir,56.3
+2022,Ocak,18,2022-01-18,08:03,Giyim,LC Waikiki,Ankara,289.85
+2023,Ocak,25,2023-01-25,11:42,Ulaşım,Benzin,İzmir,75.59
+2023,Ocak,14,2023-01-14,13:57,Restoran,Fast Food,İzmir,103.6
+2022,Ekim,23,2022-10-23,12:47,Restoran,Pizza,İstanbul,155.67
+2023,Ağustos,25,2023-08-21,20:28,Fatura,İnternet,İzmir,84.0
+2024,Temmuz,2,2024-07-02,12:32,Restoran,Pizza,İzmir,51.74
+2022,Ocak,20,2022-01-20,02:08,Ulaşım,Otobüs,Ankara,140.86
+2023,Haziran,15,2023-06-15,16:54,Giyim,H&M,İzmir,406.65
+2022,Mayıs,14,2022-05-19,06:56,Fatura,Su,Ankara,55.0
+2022,Eylül,10,2022-09-14,06:20,Fatura,Su,Ankara,55.0
+2022,Aralık,12,2022-12-12,17:22,Ulaşım,Taksi,İzmir,273.75
+2022,Şubat,6,2022-02-28,23:01,Fatura,İnternet,İzmir,88.0
+2024,Nisan,18,2024-04-18,13:48,Restoran,Kebap,Ankara,87.56
+2023,Nisan,25,2023-04-15,20:23,Fatura,Su,İstanbul,52.5
+2022,Kasım,11,2022-11-11,03:06,Ulaşım,Taksi,Ankara,315.79
+2023,Kasım,21,2023-11-21,13:48,Restoran,Pizza,Ankara,186.36
+2022,Eylül,10,2022-09-14,09:57,Fatura,Elektrik,İstanbul,110.0
+2022,Eylül,22,2022-09-22,20:51,Ulaşım,Otobüs,Ankara,113.56
+2023,Eylül,19,2023-09-19,03:43,Giyim,H&M,İzmir,475.61
+2024,Temmuz,16,2024-07-16,13:16,Restoran,Fast Food,İstanbul,123.36
+2023,Temmuz,18,2023-07-18,13:36,Restoran,Kebap,İzmir,177.12
+2024,Mart,3,2024-03-03,22:21,Giyim,Zara,Ankara,408.31
+2023,Ocak,26,2023-01-26,02:17,Giyim,Zara,Ankara,719.74
+2024,Mart,16,2024-03-15,12:55,Fatura,İnternet,İstanbul,80.0
+2024,Haziran,5,2024-06-05,14:02,Ulaşım,Taksi,İstanbul,393.64
+2023,Nisan,26,2023-04-26,11:05,Ulaşım,Benzin,İstanbul,134.96
+2024,Haziran,9,2024-06-09,14:16,Restoran,Kebap,Ankara,131.19
+2022,Nisan,28,2022-04-20,08:55,Fatura,Su,İstanbul,55.0
+2023,Nisan,25,2023-04-16,22:14,Fatura,İnternet,İzmir,84.0
+2024,Mayıs,15,2024-05-15,12:45,Restoran,Kebap,İstanbul,68.94
+2023,Aralık,3,2023-12-03,11:43,Ulaşım,Taksi,İzmir,390.21
+2023,Nisan,24,2023-04-24,13:36,Ulaşım,Taksi,İstanbul,250.37
+2024,Nisan,9,2024-04-09,12:57,Restoran,Fast Food,Ankara,93.77
+2023,Şubat,3,2023-02-03,06:34,Giyim,Zara,İstanbul,447.37
+2024,Mayıs,9,2024-05-09,23:59,Giyim,LC Waikiki,İzmir,513.78
+2024,Mart,1,2024-03-01,18:12,Giyim,H&M,Ankara,238.04
+2024,Haziran,22,2024-06-22,02:17,Giyim,Zara,İstanbul,838.15
+2022,Kasım,4,2022-11-04,07:56,Giyim,LC Waikiki,İzmir,997.22
+2024,Temmuz,28,2024-07-28,13:07,Restoran,Pizza,İstanbul,78.86
+2023,Nisan,26,2023-04-26,12:28,Restoran,Fast Food,İstanbul,199.15
+2023,Ekim,6,2023-10-06,21:35,Giyim,H&M,İstanbul,413.03
+2023,Kasım,17,2023-11-17,12:27,Restoran,Kebap,İstanbul,157.35
+2023,Mayıs,26,2023-05-26,13:15,Giyim,H&M,İstanbul,883.11
+2023,Mayıs,22,2023-05-22,00:00,Giyim,LC Waikiki,İstanbul,719.15
+2022,Şubat,6,2022-02-18,15:52,Fatura,Elektrik,Ankara,110.0
+2022,Mart,16,2022-03-16,13:19,Ulaşım,Benzin,Ankara,372.04
+2022,Nisan,24,2022-04-24,12:28,Restoran,Fast Food,İstanbul,174.37
+2023,Ağustos,25,2023-08-07,08:01,Fatura,Elektrik,İstanbul,105.0
+2023,Ağustos,22,2023-08-22,14:13,Restoran,Fast Food,İzmir,185.65
+2022,Ağustos,13,2022-08-20,16:34,Fatura,İnternet,İstanbul,88.0
+2024,Mayıs,22,2024-05-22,20:11,Ulaşım,Taksi,İzmir,125.18
+2022,Şubat,7,2022-02-07,14:01,Restoran,Pizza,İstanbul,199.95
+2023,Nisan,15,2023-04-15,11:29,Ulaşım,Benzin,Ankara,22.05
+2022,Nisan,28,2022-04-28,13:43,Giyim,LC Waikiki,Ankara,273.97
+2022,Eylül,14,2022-09-14,12:13,Restoran,Pizza,İstanbul,35.67
+2024,Temmuz,6,2024-07-06,13:55,Restoran,Kebap,İstanbul,66.31
+2022,Mayıs,21,2022-05-21,10:51,Giyim,Zara,İstanbul,687.56
+2022,Ocak,11,2022-01-11,14:47,Restoran,Pizza,Ankara,101.16
+2023,Kasım,23,2023-11-23,13:41,Ulaşım,Benzin,İstanbul,317.06
+2022,Eylül,26,2022-09-26,00:41,Giyim,LC Waikiki,Ankara,221.7
+2022,Haziran,27,2022-06-27,12:16,Ulaşım,Benzin,İstanbul,491.39
+2023,Mayıs,28,2023-05-28,19:01,Ulaşım,Otobüs,Ankara,186.23
+2022,Mart,8,2022-03-24,06:19,Fatura,Su,Ankara,55.0
+2023,Nisan,3,2023-04-03,12:18,Ulaşım,Benzin,Ankara,232.56
+2024,Şubat,27,2024-02-11,05:10,Fatura,İnternet,İstanbul,80.0
+2022,Ağustos,5,2022-08-05,09:02,Ulaşım,Taksi,Ankara,142.42
+2022,Kasım,15,2022-11-15,09:48,Ulaşım,Taksi,İzmir,468.65
+2022,Eylül,10,2022-09-19,02:19,Fatura,İnternet,İstanbul,88.0
+2023,Temmuz,11,2023-07-11,14:28,Restoran,Pizza,İstanbul,50.92
+2022,Aralık,13,2022-12-13,23:03,Giyim,LC Waikiki,İstanbul,887.16
+2022,Ocak,6,2022-01-06,14:25,Restoran,Pizza,Ankara,132.86
+2024,Şubat,21,2024-02-21,14:03,Restoran,Fast Food,İzmir,42.08
+2022,Eylül,10,2022-09-25,21:18,Fatura,Su,İstanbul,55.0
+2024,Nisan,11,2024-04-11,12:05,Restoran,Fast Food,Ankara,171.97
+2023,Aralık,2,2023-12-02,01:00,Ulaşım,Taksi,İstanbul,198.77
+2023,Eylül,27,2023-09-27,03:20,Giyim,H&M,İzmir,653.62
+2022,Ekim,15,2022-10-15,13:44,Restoran,Kebap,İzmir,145.2
+2024,Haziran,3,2024-06-03,06:12,Giyim,LC Waikiki,İzmir,483.81
+2023,Ağustos,25,2023-08-24,04:30,Fatura,İnternet,Ankara,84.0
+2024,Nisan,21,2024-04-21,13:50,Restoran,Kebap,İstanbul,120.56
+2024,Ocak,14,2024-01-14,12:15,Giyim,H&M,İzmir,955.54
+2024,Mart,8,2024-03-08,14:48,Restoran,Pizza,İstanbul,101.03
+2023,Ocak,26,2023-01-26,02:28,Giyim,H&M,İstanbul,263.3
+2024,Ocak,28,2024-01-28,06:21,Ulaşım,Taksi,İstanbul,334.8
+2022,Şubat,15,2022-02-15,21:05,Ulaşım,Otobüs,Ankara,43.2
+2022,Mart,9,2022-03-09,20:38,Giyim,Zara,İstanbul,558.54
+2022,Kasım,13,2022-11-24,21:09,Fatura,İnternet,Ankara,88.0
+2022,Temmuz,3,2022-07-03,21:16,Ulaşım,Otobüs,İstanbul,207.75
+2022,Ağustos,13,2022-08-12,11:25,Fatura,Elektrik,İstanbul,110.0
+2024,Ocak,18,2024-01-18,12:25,Restoran,Pizza,Ankara,41.97
+2024,Mart,3,2024-03-03,13:37,Ulaşım,Benzin,Ankara,272.77
+2022,Haziran,10,2022-06-10,08:20,Ulaşım,Taksi,İzmir,357.96
+2024,Mart,13,2024-03-13,12:16,Restoran,Kebap,İstanbul,170.29
+2022,Aralık,15,2022-12-15,14:22,Restoran,Kebap,İzmir,177.72
+2024,Mayıs,6,2024-05-06,08:05,Ulaşım,Taksi,İzmir,189.27
+2024,Mayıs,7,2024-05-21,20:44,Fatura,Su,Ankara,50.0
+2023,Kasım,25,2023-11-25,06:57,Giyim,H&M,İzmir,347.95
+2023,Nisan,25,2023-04-14,00:58,Fatura,Elektrik,İzmir,105.0
+2024,Ocak,27,2024-01-27,16:30,Giyim,LC Waikiki,Ankara,751.75
+2023,Mart,23,2023-03-23,06:42,Giyim,Zara,İzmir,709.44
+2022,Ağustos,1,2022-08-01,13:52,Restoran,Fast Food,İzmir,128.48
+2023,Ocak,1,2023-01-01,21:06,Ulaşım,Taksi,İstanbul,456.78
+2023,Kasım,21,2023-11-21,12:54,Restoran,Kebap,İstanbul,107.45
+2024,Nisan,24,2024-04-24,22:39,Ulaşım,Otobüs,İstanbul,274.1
+2024,Nisan,1,2024-04-01,12:01,Restoran,Fast Food,İzmir,196.44
+2024,Mart,16,2024-03-11,16:02,Fatura,Elektrik,Ankara,100.0
+2024,Haziran,24,2024-06-13,13:18,Fatura,Su,Ankara,50.0
+2024,Şubat,9,2024-02-09,12:44,Restoran,Kebap,Ankara,173.26
+2022,Aralık,1,2022-12-01,12:19,Restoran,Pizza,İstanbul,65.28
+2022,Ağustos,13,2022-08-06,03:21,Fatura,Elektrik,Ankara,110.0
+2023,Ocak,10,2023-01-10,19:02,Giyim,Zara,İzmir,494.01
+2024,Nisan,12,2024-04-12,14:58,Restoran,Pizza,İzmir,30.22
+2024,Ocak,21,2024-01-11,18:36,Fatura,Elektrik,Ankara,100.0
+2022,Aralık,18,2022-12-18,14:13,Restoran,Kebap,Ankara,34.02
+2023,Mart,4,2023-03-04,09:45,Ulaşım,Taksi,İzmir,163.59
+2023,Temmuz,9,2023-07-09,12:31,Restoran,Fast Food,İstanbul,168.98
+2023,Nisan,23,2023-04-23,07:45,Ulaşım,Taksi,İzmir,381.81
+2023,Ekim,20,2023-10-07,17:30,Fatura,Su,İstanbul,52.5
+2024,Temmuz,9,2024-07-09,02:49,Giyim,H&M,Ankara,353.86
+2023,Temmuz,20,2023-07-20,12:45,Restoran,Pizza,İzmir,100.83
+2022,Ekim,18,2022-10-18,15:30,Giyim,H&M,İstanbul,693.27
+2023,Eylül,13,2023-09-13,20:05,Giyim,H&M,İzmir,241.66
+2023,Mayıs,10,2023-05-10,05:19,Ulaşım,Taksi,İzmir,58.72
+2024,Şubat,1,2024-02-01,12:17,Restoran,Kebap,Ankara,45.27
+2024,Ocak,2,2024-01-02,12:16,Ulaşım,Benzin,İstanbul,434.2
+2022,Eylül,10,2022-09-10,00:50,Ulaşım,Taksi,Ankara,422.75
+2022,Haziran,21,2022-06-21,11:20,Ulaşım,Otobüs,İzmir,232.85
+2022,Nisan,4,2022-04-04,14:57,Ulaşım,Taksi,Ankara,15.76
+2022,Ekim,3,2022-10-03,08:52,Giyim,Zara,İstanbul,757.75
+2022,Ekim,19,2022-10-19,21:26,Ulaşım,Otobüs,İstanbul,157.45
+2023,Aralık,10,2023-12-10,13:47,Restoran,Fast Food,İstanbul,175.51
+2022,Temmuz,12,2022-07-08,09:54,Fatura,Elektrik,İstanbul,110.0
+2024,Mayıs,17,2024-05-17,11:55,Ulaşım,Benzin,İzmir,31.69
+2023,Eylül,10,2023-09-10,00:11,Giyim,LC Waikiki,Ankara,840.82
+2023,Şubat,27,2023-02-27,18:41,Ulaşım,Otobüs,İzmir,259.63
+2022,Nisan,16,2022-04-16,12:41,Ulaşım,Otobüs,İzmir,114.73
+2023,Temmuz,21,2023-07-06,00:54,Fatura,İnternet,İzmir,84.0
+2024,Mayıs,10,2024-05-10,13:40,Ulaşım,Benzin,İzmir,89.98
+2024,Mart,16,2024-03-10,17:32,Fatura,Su,Ankara,50.0
+2023,Ocak,13,2023-01-13,13:18,Ulaşım,Benzin,İstanbul,435.45
+2022,Ocak,6,2022-01-06,13:48,Restoran,Fast Food,İstanbul,146.64
+2023,Ağustos,8,2023-08-08,21:37,Giyim,H&M,İzmir,78.69
+2024,Haziran,3,2024-06-03,14:34,Restoran,Fast Food,İzmir,52.28
+2023,Haziran,19,2023-06-19,12:52,Ulaşım,Benzin,Ankara,11.93
+2022,Ağustos,12,2022-08-12,10:10,Ulaşım,Taksi,Ankara,425.98
+2024,Ocak,21,2024-01-10,16:20,Fatura,Su,İzmir,50.0
+2023,Aralık,12,2023-12-12,12:48,Restoran,Kebap,İzmir,187.39
+2023,Mart,26,2023-03-02,07:33,Fatura,Elektrik,İstanbul,105.0
+2022,Ekim,25,2022-10-09,19:20,Fatura,Elektrik,Ankara,110.0
+2022,Nisan,25,2022-04-25,12:09,Restoran,Fast Food,İzmir,188.48
+2024,Nisan,21,2024-04-21,17:07,Giyim,H&M,Ankara,229.6
+2022,Şubat,6,2022-02-09,01:16,Fatura,İnternet,İstanbul,88.0
+2024,Nisan,4,2024-04-04,23:52,Ulaşım,Otobüs,İstanbul,64.19
+2023,Ocak,5,2023-01-05,13:06,Restoran,Fast Food,İstanbul,85.5
+2022,Şubat,27,2022-02-27,13:14,Restoran,Pizza,İzmir,123.85
+2022,Kasım,13,2022-11-13,10:42,Fatura,Su,İstanbul,55.0
+2022,Ağustos,17,2022-08-17,18:19,Giyim,LC Waikiki,İstanbul,956.29
+2023,Nisan,12,2023-04-12,12:23,Restoran,Kebap,İstanbul,189.94
+2024,Mart,10,2024-03-10,21:57,Ulaşım,Otobüs,İzmir,316.33
+2023,Eylül,11,2023-09-21,23:01,Fatura,İnternet,İzmir,84.0
+2022,Şubat,24,2022-02-24,22:51,Giyim,LC Waikiki,İzmir,317.12
+2024,Mayıs,5,2024-05-05,13:06,Giyim,H&M,Ankara,787.21
+2022,Nisan,4,2022-04-04,00:26,Ulaşım,Otobüs,İstanbul,374.2
+2023,Temmuz,21,2023-07-11,23:38,Fatura,Elektrik,İzmir,105.0
+2022,Ekim,17,2022-10-17,02:20,Giyim,H&M,İzmir,975.5
+2024,Mayıs,25,2024-05-25,23:30,Giyim,LC Waikiki,İstanbul,775.09
+2024,Nisan,12,2024-04-12,12:49,Restoran,Pizza,İstanbul,131.03
+2022,Haziran,15,2022-06-15,13:52,Restoran,Fast Food,Ankara,28.38
+2024,Ocak,12,2024-01-12,14:31,Restoran,Fast Food,İstanbul,86.83
+2023,Nisan,24,2023-04-24,14:25,Restoran,Pizza,İstanbul,103.84
+2023,Ocak,13,2023-01-13,13:27,Restoran,Kebap,İstanbul,135.36
+2022,Aralık,16,2022-12-08,22:51,Fatura,İnternet,Ankara,88.0
+2024,Temmuz,19,2024-07-19,03:45,Ulaşım,Taksi,Ankara,114.37
+2022,Haziran,2,2022-06-02,10:16,Giyim,H&M,İstanbul,745.76
+2022,Ocak,9,2022-01-09,07:28,Ulaşım,Taksi,Ankara,48.41
+2022,Şubat,20,2022-02-20,01:39,Ulaşım,Taksi,İstanbul,266.47
+2023,Temmuz,16,2023-07-16,01:36,Giyim,H&M,İstanbul,620.34
+2022,Şubat,10,2022-02-10,11:46,Giyim,Zara,Ankara,818.94
+2024,Ocak,22,2024-01-22,13:44,Restoran,Kebap,Ankara,136.08
+2022,Eylül,25,2022-09-25,23:20,Giyim,Zara,Ankara,615.45
+2022,Haziran,22,2022-06-22,14:20,Restoran,Kebap,İzmir,138.35
+2023,Mart,26,2023-03-18,09:20,Fatura,İnternet,İstanbul,84.0
+2024,Şubat,25,2024-02-25,13:43,Restoran,Kebap,İzmir,137.82
+2022,Mayıs,27,2022-05-27,13:30,Ulaşım,Benzin,Ankara,199.42
+2024,Mart,16,2024-03-23,08:04,Fatura,Elektrik,İstanbul,100.0
+2022,Ağustos,13,2022-08-16,15:18,Fatura,Su,İstanbul,55.0
+2023,Nisan,6,2023-04-06,23:34,Ulaşım,Otobüs,İstanbul,398.38
+2022,Nisan,24,2022-04-24,12:58,Giyim,H&M,İzmir,245.87
+2024,Mayıs,7,2024-05-04,02:32,Fatura,Elektrik,İstanbul,100.0
+2024,Ocak,21,2024-01-21,20:10,Giyim,LC Waikiki,İstanbul,636.53
+2023,Ocak,15,2023-01-15,14:10,Restoran,Kebap,İzmir,107.36
+2023,Mayıs,20,2023-05-20,14:24,Giyim,H&M,İstanbul,943.26
+2023,Kasım,14,2023-11-20,12:42,Fatura,Elektrik,Ankara,105.0
+2023,Mayıs,5,2023-05-05,12:56,Ulaşım,Benzin,İstanbul,307.86
+2022,Şubat,18,2022-02-18,08:52,Ulaşım,Taksi,İstanbul,216.89
+2023,Kasım,14,2023-11-23,11:07,Fatura,Su,Ankara,52.5
+2022,Aralık,27,2022-12-27,12:06,Restoran,Fast Food,Ankara,126.7
+2023,Mayıs,8,2023-05-08,02:01,Giyim,H&M,İzmir,779.4
+2024,Nisan,5,2024-04-05,03:13,Giyim,Zara,İstanbul,573.14
+2023,Ekim,20,2023-10-02,08:03,Fatura,Su,Ankara,52.5
+2023,Şubat,22,2023-02-22,07:40,Ulaşım,Taksi,İzmir,207.35
+2023,Aralık,27,2023-12-27,17:16,Giyim,LC Waikiki,İzmir,707.69
+2023,Aralık,14,2023-12-14,07:55,Ulaşım,Otobüs,Ankara,120.31
+2022,Aralık,16,2022-12-17,19:05,Fatura,İnternet,Ankara,88.0
+2022,Haziran,4,2022-06-04,13:54,Ulaşım,Benzin,İzmir,416.37
+2024,Ocak,21,2024-01-25,19:31,Fatura,İnternet,İzmir,80.0
+2024,Temmuz,14,2024-07-14,14:06,Restoran,Kebap,İzmir,127.2
+2023,Mayıs,20,2023-05-20,21:35,Ulaşım,Taksi,İstanbul,359.61
+2024,Ocak,20,2024-01-20,21:05,Giyim,Zara,İzmir,490.96
+2023,Ocak,9,2023-01-09,02:31,Ulaşım,Otobüs,Ankara,388.96
+2022,Aralık,16,2022-12-01,06:55,Fatura,İnternet,İzmir,88.0
+2023,Haziran,9,2023-06-12,23:44,Fatura,Elektrik,Ankara,105.0
+2024,Mart,24,2024-03-24,12:29,Ulaşım,Benzin,Ankara,224.0
+2022,Temmuz,24,2022-07-24,02:20,Giyim,LC Waikiki,Ankara,605.55
+2023,Eylül,27,2023-09-27,09:06,Giyim,LC Waikiki,İstanbul,257.03
+2023,Ekim,5,2023-10-05,23:24,Ulaşım,Otobüs,İstanbul,363.33
+2022,Ağustos,19,2022-08-19,12:45,Ulaşım,Benzin,İzmir,313.26
+2024,Şubat,27,2024-02-06,10:08,Fatura,Su,İzmir,50.0
+2023,Şubat,14,2023-02-14,05:15,Giyim,LC Waikiki,İstanbul,689.35
+2023,Eylül,11,2023-09-25,22:56,Fatura,Su,İzmir,52.5
+2023,Şubat,14,2023-02-04,01:52,Fatura,Su,İzmir,52.5
+2022,Ekim,25,2022-10-25,13:19,Restoran,Fast Food,İzmir,23.73
+2024,Mart,27,2024-03-27,09:27,Giyim,H&M,İzmir,311.24
+2024,Mayıs,12,2024-05-12,02:40,Ulaşım,Taksi,İstanbul,457.75
+2023,Mayıs,7,2023-05-18,13:14,Fatura,Su,İzmir,52.5
+2024,Mayıs,7,2024-05-01,21:02,Fatura,Su,İzmir,50.0
+2023,Eylül,8,2023-09-08,18:15,Giyim,LC Waikiki,Ankara,392.94
+2023,Temmuz,25,2023-07-25,10:26,Ulaşım,Taksi,İstanbul,338.7
+2023,Kasım,14,2023-11-21,01:46,Fatura,Su,İstanbul,52.5
+2023,Ağustos,22,2023-08-22,12:52,Ulaşım,Benzin,İzmir,478.14
+2024,Ocak,15,2024-01-15,17:07,Giyim,LC Waikiki,İstanbul,287.98
+2024,Şubat,6,2024-02-06,11:53,Ulaşım,Benzin,Ankara,206.98
+2023,Temmuz,26,2023-07-26,01:43,Ulaşım,Otobüs,İzmir,393.14
+2023,Kasım,14,2023-11-11,15:38,Fatura,Su,İstanbul,52.5
+2022,Mart,8,2022-03-08,13:25,Fatura,Elektrik,İstanbul,110.0
+2023,Nisan,15,2023-04-15,03:54,Ulaşım,Otobüs,İstanbul,207.98
+2023,Ekim,15,2023-10-15,14:34,Restoran,Fast Food,İstanbul,77.17
+2022,Ağustos,7,2022-08-07,00:49,Giyim,Zara,Ankara,442.66
+2022,Ekim,12,2022-10-12,03:34,Ulaşım,Taksi,Ankara,315.0
+2023,Mart,28,2023-03-28,16:25,Giyim,LC Waikiki,İstanbul,815.79
+2024,Nisan,24,2024-04-26,09:12,Fatura,Elektrik,İstanbul,100.0
+2023,Kasım,7,2023-11-07,12:30,Ulaşım,Benzin,İzmir,374.16
+2022,Aralık,16,2022-12-19,22:23,Fatura,İnternet,Ankara,88.0
+2023,Haziran,22,2023-06-22,15:28,Giyim,LC Waikiki,İstanbul,716.17
+2022,Haziran,1,2022-06-01,04:04,Fatura,İnternet,Ankara,88.0
+2024,Haziran,6,2024-06-06,14:46,Giyim,LC Waikiki,İstanbul,429.84
+2022,Ocak,25,2022-01-23,05:41,Fatura,Elektrik,Ankara,110.0
+2024,Temmuz,8,2024-07-26,09:02,Fatura,İnternet,İstanbul,80.0
+2022,Ekim,25,2022-10-25,00:08,Giyim,Zara,İstanbul,186.69
+2022,Mayıs,15,2022-05-15,13:58,Restoran,Kebap,İzmir,199.21
+2022,Ocak,8,2022-01-08,13:01,Ulaşım,Benzin,İstanbul,133.7
+2022,Ağustos,7,2022-08-07,18:08,Ulaşım,Otobüs,İstanbul,475.52
+2023,Kasım,4,2023-11-04,17:00,Ulaşım,Otobüs,İstanbul,229.92
+2024,Ocak,25,2024-01-25,10:44,Ulaşım,Otobüs,İstanbul,203.57
+2023,Mayıs,24,2023-05-24,04:05,Ulaşım,Taksi,İzmir,160.74
+2024,Şubat,4,2024-02-04,18:11,Giyim,LC Waikiki,İzmir,372.03
+2022,Kasım,9,2022-11-09,16:46,Ulaşım,Otobüs,İstanbul,213.93
+2023,Ocak,9,2023-01-12,05:32,Fatura,Elektrik,İzmir,105.0
+2022,Ağustos,18,2022-08-18,13:19,Ulaşım,Otobüs,Ankara,81.34
+2022,Ağustos,14,2022-08-14,10:19,Ulaşım,Taksi,İstanbul,42.97
+2024,Temmuz,21,2024-07-21,13:39,Restoran,Kebap,İstanbul,124.39
+2022,Ekim,27,2022-10-27,06:21,Ulaşım,Otobüs,İzmir,334.4
+2023,Ağustos,7,2023-08-07,20:43,Ulaşım,Taksi,İzmir,244.23
+2022,Şubat,16,2022-02-16,13:20,Restoran,Fast Food,İstanbul,152.58
+2022,Temmuz,9,2022-07-09,13:02,Ulaşım,Otobüs,Ankara,321.31
+2022,Nisan,22,2022-04-22,12:25,Restoran,Pizza,Ankara,130.37
+2022,Haziran,6,2022-06-06,12:14,Ulaşım,Benzin,İstanbul,357.49
+2022,Haziran,12,2022-06-12,18:27,Giyim,H&M,Ankara,361.17
+2024,Şubat,15,2024-02-15,07:24,Ulaşım,Taksi,İstanbul,258.22
+2024,Haziran,28,2024-06-28,02:40,Giyim,H&M,İstanbul,439.79
+2022,Aralık,4,2022-12-04,21:37,Ulaşım,Otobüs,İstanbul,459.73
+2024,Temmuz,8,2024-07-11,15:58,Fatura,İnternet,Ankara,80.0
+2024,Nisan,24,2024-04-25,08:21,Fatura,Su,Ankara,50.0
+2022,Ekim,25,2022-10-23,16:40,Fatura,Su,İstanbul,55.0
+2023,Ocak,14,2023-01-14,19:58,Ulaşım,Taksi,İzmir,300.92
+2023,Şubat,14,2023-02-26,01:40,Fatura,İnternet,Ankara,84.0
+2024,Mart,1,2024-03-01,21:52,Giyim,Zara,İzmir,73.58
+2022,Nisan,28,2022-04-28,22:49,Giyim,Zara,Ankara,479.76
+2022,Aralık,16,2022-12-27,23:43,Fatura,Elektrik,İstanbul,110.0
+2022,Nisan,7,2022-04-07,09:38,Ulaşım,Otobüs,İstanbul,413.01
+2024,Ocak,24,2024-01-24,10:02,Giyim,H&M,İzmir,453.6
+2023,Eylül,6,2023-09-06,02:03,Giyim,H&M,İstanbul,377.2
+2022,Temmuz,2,2022-07-02,12:39,Ulaşım,Otobüs,İstanbul,482.71
+2023,Ekim,27,2023-10-27,12:42,Ulaşım,Benzin,İstanbul,332.46
+2024,Haziran,23,2024-06-23,20:17,Ulaşım,Taksi,Ankara,359.27
+2022,Aralık,7,2022-12-07,16:58,Ulaşım,Otobüs,Ankara,377.97
+2022,Temmuz,12,2022-07-03,19:24,Fatura,Su,Ankara,55.0
+2023,Mart,14,2023-03-14,13:38,Restoran,Kebap,İzmir,113.61
+2023,Temmuz,12,2023-07-12,19:10,Giyim,Zara,İzmir,811.45
+2022,Nisan,5,2022-04-05,15:11,Giyim,Zara,İzmir,244.19
+2022,Mayıs,14,2022-05-20,09:21,Fatura,Elektrik,Ankara,110.0
+2022,Şubat,6,2022-02-28,03:22,Fatura,Su,İstanbul,55.0
+2024,Mayıs,7,2024-05-09,23:48,Fatura,İnternet,İstanbul,80.0
+2022,Kasım,7,2022-11-07,13:16,Restoran,Pizza,Ankara,155.05
+2023,Ekim,4,2023-10-04,12:00,Restoran,Pizza,Ankara,88.83
+2023,Şubat,17,2023-02-17,03:43,Giyim,LC Waikiki,İzmir,104.92
+2023,Nisan,2,2023-04-02,06:55,Giyim,LC Waikiki,İzmir,778.59
+2022,Eylül,24,2022-09-24,14:49,Restoran,Fast Food,İzmir,155.65
+2024,Şubat,19,2024-02-19,12:14,Restoran,Kebap,İstanbul,168.59
+2023,Şubat,2,2023-02-02,12:55,Restoran,Kebap,İzmir,32.69
+2022,Ekim,25,2022-10-09,07:33,Fatura,Su,Ankara,55.0
+2022,Aralık,3,2022-12-03,13:31,Giyim,LC Waikiki,İstanbul,696.31
+2024,Mart,27,2024-03-27,10:09,Giyim,H&M,İzmir,94.49
+2024,Şubat,18,2024-02-18,13:45,Ulaşım,Benzin,Ankara,338.07
+2023,Eylül,24,2023-09-24,14:50,Restoran,Kebap,İzmir,171.7
+2022,Temmuz,7,2022-07-07,13:36,Restoran,Kebap,İstanbul,36.71
+2023,Mart,18,2023-03-18,11:48,Ulaşım,Benzin,İstanbul,477.42
+2024,Temmuz,8,2024-07-08,12:12,Restoran,Pizza,İstanbul,140.36
+2024,Nisan,5,2024-04-05,13:02,Restoran,Pizza,Ankara,112.84
+2024,Haziran,24,2024-06-21,17:34,Fatura,İnternet,İstanbul,80.0
+2023,Mart,2,2023-03-02,02:56,Ulaşım,Taksi,Ankara,163.39
+2022,Ağustos,9,2022-08-09,07:31,Giyim,LC Waikiki,Ankara,345.03
+2022,Temmuz,21,2022-07-21,18:12,Ulaşım,Otobüs,İstanbul,70.04
+2022,Eylül,25,2022-09-25,13:37,Restoran,Fast Food,Ankara,157.74
+2023,Mayıs,7,2023-05-07,12:56,Ulaşım,Taksi,İzmir,378.96
+2024,Temmuz,18,2024-07-18,00:25,Giyim,LC Waikiki,İzmir,465.27
+2023,Ocak,9,2023-01-19,16:47,Fatura,Elektrik,Ankara,105.0
+2024,Ocak,9,2024-01-09,14:56,Restoran,Fast Food,İstanbul,175.51
+2024,Haziran,24,2024-06-01,03:16,Fatura,Su,Ankara,50.0
+2022,Eylül,23,2022-09-23,13:26,Restoran,Pizza,İzmir,131.39
+2022,Aralık,28,2022-12-28,14:16,Restoran,Pizza,İstanbul,59.39
+2023,Mayıs,2,2023-05-02,18:37,Giyim,LC Waikiki,İzmir,829.89
+2023,Haziran,5,2023-06-05,07:47,Ulaşım,Otobüs,İstanbul,414.29
+2023,Kasım,14,2023-11-14,00:56,Giyim,LC Waikiki,İstanbul,705.76
+2024,Şubat,8,2024-02-08,12:40,Ulaşım,Otobüs,İzmir,148.43
+2024,Temmuz,7,2024-07-07,14:35,Restoran,Kebap,İstanbul,144.18
+2022,Mayıs,7,2022-05-07,13:56,Restoran,Pizza,İzmir,110.91
+2022,Eylül,5,2022-09-05,14:54,Restoran,Fast Food,Ankara,28.92
+2022,Nisan,22,2022-04-22,12:05,Restoran,Kebap,İstanbul,154.02
+2024,Mart,8,2024-03-08,14:01,Restoran,Pizza,İzmir,134.62
+2024,Temmuz,8,2024-07-14,18:30,Fatura,İnternet,İstanbul,80.0
+2023,Mayıs,7,2023-05-19,15:44,Fatura,Su,İstanbul,52.5
+2022,Kasım,14,2022-11-14,03:43,Giyim,LC Waikiki,İstanbul,955.31
+2024,Haziran,9,2024-06-09,07:54,Giyim,LC Waikiki,Ankara,509.55
+2022,Kasım,13,2022-11-16,13:40,Fatura,Su,İstanbul,55.0
+2022,Şubat,1,2022-02-01,14:37,Restoran,Kebap,Ankara,178.82
+2024,Mayıs,8,2024-05-08,14:49,Giyim,Zara,Ankara,478.52
+2022,Haziran,1,2022-06-27,05:05,Fatura,Su,Ankara,55.0
+2024,Ocak,22,2024-01-22,00:47,Giyim,Zara,İstanbul,386.84
+2023,Nisan,25,2023-04-17,20:15,Fatura,Su,İstanbul,52.5
+2023,Haziran,16,2023-06-16,11:49,Giyim,H&M,Ankara,230.0
+2024,Ocak,19,2024-01-19,13:07,Restoran,Kebap,İstanbul,168.58
+2022,Mayıs,14,2022-05-11,19:58,Fatura,Elektrik,Ankara,110.0
+2023,Eylül,7,2023-09-07,13:10,Restoran,Kebap,İstanbul,23.19
+2022,Şubat,6,2022-02-22,15:30,Fatura,İnternet,Ankara,88.0
+2023,Temmuz,19,2023-07-19,01:50,Ulaşım,Otobüs,Ankara,288.14
+2022,Ekim,8,2022-10-08,13:37,Restoran,Kebap,İzmir,125.89
+2023,Ekim,20,2023-10-18,05:34,Fatura,Elektrik,İzmir,105.0
+2023,Eylül,24,2023-09-24,13:10,Restoran,Fast Food,İstanbul,175.07
+2024,Haziran,4,2024-06-04,00:17,Ulaşım,Otobüs,İzmir,489.65
+2024,Nisan,24,2024-04-27,19:54,Fatura,İnternet,Ankara,80.0
+2023,Ekim,28,2023-10-28,14:34,Restoran,Fast Food,İzmir,138.26
+2024,Mayıs,14,2024-05-14,12:00,Ulaşım,Otobüs,İzmir,457.82
+2024,Haziran,24,2024-06-24,00:04,Ulaşım,Taksi,Ankara,123.58
+2024,Temmuz,20,2024-07-20,21:12,Giyim,Zara,İstanbul,460.67
+2023,Kasım,21,2023-11-21,13:57,Ulaşım,Benzin,İzmir,266.58
+2022,Haziran,26,2022-06-26,08:16,Ulaşım,Taksi,İstanbul,401.83
+2023,Mayıs,7,2023-05-02,06:17,Fatura,Elektrik,Ankara,105.0
+2023,Aralık,14,2023-12-14,05:35,Giyim,Zara,İstanbul,800.03
+2022,Aralık,27,2022-12-27,03:53,Giyim,Zara,İzmir,202.6
+2024,Temmuz,8,2024-07-13,19:00,Fatura,Su,İzmir,50.0
+2022,Ocak,25,2022-01-18,15:40,Fatura,İnternet,İstanbul,88.0
+2023,Ekim,26,2023-10-26,07:00,Giyim,LC Waikiki,Ankara,376.68
+2023,Mayıs,26,2023-05-26,16:13,Ulaşım,Taksi,İzmir,197.33
+2024,Şubat,27,2024-02-27,01:14,Fatura,Su,Ankara,50.0
+2023,Şubat,24,2023-02-24,09:59,Giyim,H&M,İzmir,971.8
+2023,Nisan,23,2023-04-23,14:16,Restoran,Pizza,İstanbul,106.88
+2024,Mayıs,5,2024-05-05,08:04,Giyim,Zara,Ankara,937.68
+2022,Nisan,6,2022-04-06,03:06,Giyim,LC Waikiki,Ankara,329.57
+2022,Ağustos,7,2022-08-07,04:18,Ulaşım,Taksi,İstanbul,146.88
+2023,Mart,17,2023-03-17,14:35,Restoran,Pizza,Ankara,39.78
+2024,Temmuz,26,2024-07-26,14:12,Restoran,Pizza,İstanbul,124.98
+2024,Mart,16,2024-03-23,02:46,Fatura,Su,İzmir,50.0
+2023,Ekim,20,2023-10-07,09:40,Fatura,İnternet,İzmir,84.0
+2023,Temmuz,24,2023-07-24,03:43,Ulaşım,Taksi,İstanbul,441.92
+2023,Ekim,20,2023-10-27,11:53,Fatura,Su,İstanbul,52.5
+2023,Mayıs,7,2023-05-07,03:03,Fatura,Elektrik,İstanbul,105.0
+2023,Nisan,2,2023-04-02,07:53,Ulaşım,Otobüs,Ankara,447.08
+2022,Ekim,28,2022-10-28,09:23,Giyim,Zara,Ankara,260.7
+2022,Ocak,25,2022-01-12,15:35,Fatura,İnternet,Ankara,88.0
+2024,Mart,11,2024-03-11,12:40,Restoran,Fast Food,İzmir,87.3
+2023,Mayıs,21,2023-05-21,14:43,Restoran,Fast Food,İstanbul,35.79
+2022,Ekim,25,2022-10-14,01:10,Fatura,Su,İstanbul,55.0
+2023,Eylül,9,2023-09-09,11:40,Giyim,LC Waikiki,Ankara,612.25
+2024,Mayıs,7,2024-05-11,16:52,Fatura,Su,İzmir,50.0
+2023,Eylül,19,2023-09-19,11:54,Ulaşım,Benzin,Ankara,62.33
+2023,Nisan,24,2023-04-24,13:18,Restoran,Pizza,Ankara,50.73
+2023,Mart,26,2023-03-19,02:48,Fatura,İnternet,İstanbul,84.0
+2022,Nisan,10,2022-04-10,14:07,Restoran,Kebap,İstanbul,90.87
+2023,Eylül,23,2023-09-23,20:18,Giyim,Zara,Ankara,131.75
+2022,Haziran,20,2022-06-20,21:35,Giyim,Zara,İzmir,185.25
+2022,Eylül,23,2022-09-23,13:36,Restoran,Kebap,İstanbul,31.58
+2022,Nisan,28,2022-04-24,17:15,Fatura,Elektrik,İstanbul,110.0
+2024,Haziran,5,2024-06-05,12:08,Ulaşım,Benzin,İzmir,295.96
+2024,Nisan,9,2024-04-09,06:52,Ulaşım,Taksi,Ankara,19.5
+2022,Ekim,6,2022-10-06,22:01,Giyim,Zara,İstanbul,967.93
+2023,Eylül,9,2023-09-09,09:40,Giyim,LC Waikiki,Ankara,372.57
+2024,Ocak,21,2024-01-23,15:23,Fatura,İnternet,İzmir,80.0
+2022,Aralık,1,2022-12-01,12:47,Restoran,Fast Food,İzmir,91.43
+2023,Eylül,11,2023-09-25,22:57,Fatura,İnternet,İstanbul,84.0
+2022,Eylül,10,2022-09-14,08:14,Fatura,Elektrik,İstanbul,110.0
+2024,Haziran,24,2024-06-14,14:53,Fatura,İnternet,Ankara,80.0
+2023,Kasım,14,2023-11-03,07:53,Fatura,Elektrik,İzmir,105.0
+2023,Şubat,14,2023-02-17,22:36,Fatura,Su,Ankara,52.5
+2024,Şubat,10,2024-02-10,12:44,Giyim,Zara,İstanbul,382.52
+2023,Mart,8,2023-03-08,01:08,Ulaşım,Otobüs,İzmir,225.57
+2023,Mart,11,2023-03-11,14:50,Restoran,Kebap,Ankara,68.25
+2024,Ocak,2,2024-01-02,14:10,Restoran,Fast Food,İzmir,187.51
+2024,Nisan,20,2024-04-20,07:12,Giyim,Zara,İstanbul,691.3
+2024,Şubat,12,2024-02-12,13:33,Restoran,Kebap,Ankara,78.29
+2024,Şubat,26,2024-02-26,20:05,Ulaşım,Taksi,İzmir,184.91
+2022,Ağustos,3,2022-08-03,13:37,Restoran,Pizza,Ankara,28.37
+2022,Şubat,6,2022-02-12,16:02,Fatura,Su,İstanbul,55.0
+2023,Haziran,9,2023-06-24,01:11,Fatura,Su,Ankara,52.5
+2023,Şubat,19,2023-02-19,00:38,Ulaşım,Otobüs,İzmir,260.87
+2023,Ağustos,25,2023-08-14,02:48,Fatura,İnternet,İstanbul,84.0
+2024,Haziran,5,2024-06-05,11:29,Ulaşım,Benzin,Ankara,67.16
+2024,Haziran,16,2024-06-16,14:34,Restoran,Pizza,İstanbul,173.05
+2022,Ocak,24,2022-01-24,12:23,Restoran,Fast Food,Ankara,103.77
+2023,Ocak,26,2023-01-26,23:49,Giyim,Zara,İstanbul,456.13
+2024,Temmuz,16,2024-07-16,14:03,Restoran,Kebap,Ankara,65.05
+2022,Mart,5,2022-03-05,12:09,Ulaşım,Benzin,İstanbul,176.15
+2022,Ocak,25,2022-01-08,14:15,Fatura,Su,İzmir,55.0
+2022,Kasım,13,2022-11-08,06:45,Fatura,İnternet,İzmir,88.0
+2024,Temmuz,8,2024-07-08,23:35,Fatura,Elektrik,İzmir,100.0
+2023,Mayıs,7,2023-05-24,12:04,Fatura,İnternet,İzmir,84.0
+2022,Ocak,20,2022-01-20,01:58,Giyim,H&M,İzmir,493.53
+2023,Temmuz,21,2023-07-04,16:01,Fatura,İnternet,İstanbul,84.0
+2023,Mart,14,2023-03-14,05:37,Giyim,LC Waikiki,Ankara,855.24
+2024,Ocak,21,2024-01-06,18:26,Fatura,Elektrik,Ankara,100.0
+2022,Mart,18,2022-03-18,20:30,Ulaşım,Taksi,İstanbul,200.63
+2022,Ağustos,18,2022-08-18,20:00,Ulaşım,Otobüs,İzmir,110.67
+2023,Nisan,17,2023-04-17,18:29,Ulaşım,Taksi,İzmir,165.12
+2024,Ocak,21,2024-01-06,10:13,Fatura,İnternet,İzmir,80.0
+2023,Ocak,4,2023-01-04,00:28,Ulaşım,Otobüs,İstanbul,117.97
+2024,Nisan,24,2024-04-01,10:52,Fatura,İnternet,Ankara,80.0
+2023,Haziran,28,2023-06-28,06:06,Ulaşım,Otobüs,Ankara,206.62
+2024,Ocak,11,2024-01-11,13:34,Giyim,H&M,Ankara,834.33
+2023,Temmuz,3,2023-07-03,13:11,Restoran,Pizza,İstanbul,46.97
+2024,Haziran,10,2024-06-10,11:20,Ulaşım,Benzin,Ankara,494.17
+2023,Ekim,20,2023-10-16,10:15,Fatura,İnternet,İstanbul,84.0
+2022,Temmuz,26,2022-07-26,16:09,Ulaşım,Taksi,İzmir,466.38
+2024,Mayıs,7,2024-05-27,04:04,Fatura,Elektrik,İzmir,100.0
+2023,Nisan,15,2023-04-15,05:04,Ulaşım,Otobüs,İstanbul,34.47
+2022,Aralık,14,2022-12-14,00:54,Giyim,LC Waikiki,İzmir,321.46
+2022,Kasım,4,2022-11-04,04:39,Giyim,H&M,İzmir,134.74
+2023,Ekim,20,2023-10-10,04:19,Fatura,İnternet,İstanbul,84.0
+2023,Ekim,10,2023-10-10,13:08,Restoran,Pizza,İzmir,185.7
+2024,Temmuz,20,2024-07-20,13:52,Restoran,Kebap,İzmir,101.18
+2023,Ağustos,25,2023-08-25,12:02,Ulaşım,Benzin,İstanbul,394.96
+2024,Ocak,14,2024-01-14,17:23,Ulaşım,Taksi,İzmir,161.17
+2023,Aralık,1,2023-12-06,00:26,Fatura,Elektrik,İzmir,105.0
+2022,Haziran,11,2022-06-11,20:17,Giyim,Zara,İzmir,475.32
+2022,Ocak,3,2022-01-03,14:31,Restoran,Fast Food,İstanbul,58.38
+2023,Ekim,24,2023-10-24,12:57,Restoran,Fast Food,İstanbul,161.62
+2023,Temmuz,19,2023-07-19,12:31,Restoran,Kebap,İstanbul,182.95
+2024,Haziran,20,2024-06-20,14:22,Restoran,Pizza,İzmir,167.56
+2023,Ağustos,2,2023-08-02,12:22,Ulaşım,Benzin,İstanbul,172.15
+2022,Mart,7,2022-03-07,21:22,Giyim,LC Waikiki,İstanbul,98.13
+2024,Nisan,24,2024-04-03,11:59,Fatura,Su,İzmir,50.0
+2024,Ocak,27,2024-01-27,15:30,Ulaşım,Otobüs,İzmir,371.57
+2024,Mayıs,22,2024-05-22,11:37,Ulaşım,Benzin,İstanbul,415.81
+2022,Nisan,24,2022-04-24,12:00,Restoran,Fast Food,Ankara,179.93
+2023,Ağustos,25,2023-08-24,16:35,Fatura,İnternet,Ankara,84.0
+2023,Ekim,12,2023-10-12,13:59,Restoran,Pizza,İzmir,23.04
+2022,Şubat,23,2022-02-23,12:00,Restoran,Fast Food,Ankara,155.81
+2023,Haziran,9,2023-06-07,03:02,Fatura,İnternet,Ankara,84.0
+2022,Eylül,27,2022-09-27,12:45,Ulaşım,Benzin,İstanbul,208.77
+2024,Haziran,21,2024-06-21,10:58,Giyim,LC Waikiki,Ankara,520.17
+2024,Temmuz,4,2024-07-04,08:18,Giyim,LC Waikiki,İzmir,208.09
+2024,Temmuz,28,2024-07-28,18:35,Ulaşım,Otobüs,Ankara,438.59
+2023,Ağustos,25,2023-08-12,08:26,Fatura,Su,İzmir,52.5
+2023,Temmuz,21,2023-07-14,03:36,Fatura,Su,İstanbul,52.5
+2024,Temmuz,24,2024-07-24,22:45,Ulaşım,Taksi,İzmir,245.38
+2022,Haziran,1,2022-06-01,20:12,Giyim,Zara,İstanbul,250.67
+2023,Temmuz,21,2023-07-05,18:44,Fatura,Elektrik,Ankara,105.0
+2023,Şubat,16,2023-02-16,12:37,Restoran,Fast Food,İstanbul,67.99
+2022,Eylül,2,2022-09-02,13:36,Ulaşım,Otobüs,İstanbul,274.53
+2024,Temmuz,20,2024-07-20,12:26,Ulaşım,Benzin,Ankara,153.86
+2024,Ocak,21,2024-01-04,00:32,Fatura,Elektrik,Ankara,100.0
+2024,Nisan,19,2024-04-19,12:44,Restoran,Fast Food,Ankara,20.57
+2023,Eylül,27,2023-09-27,16:53,Ulaşım,Otobüs,İzmir,283.09
+2022,Ocak,25,2022-01-24,21:15,Fatura,Su,İzmir,55.0
+2022,Şubat,1,2022-02-01,12:09,Restoran,Fast Food,İstanbul,134.82
+2023,Mayıs,6,2023-05-06,05:54,Ulaşım,Otobüs,Ankara,232.51
+2024,Nisan,4,2024-04-04,13:43,Ulaşım,Benzin,Ankara,124.53
+2022,Nisan,28,2022-04-03,19:31,Fatura,İnternet,Ankara,88.0
+2024,Ocak,21,2024-01-19,02:45,Fatura,Su,İzmir,50.0
+2023,Haziran,23,2023-06-23,17:06,Giyim,Zara,İstanbul,352.01
+2024,Temmuz,13,2024-07-13,13:15,Restoran,Fast Food,İzmir,105.93
+2022,Mayıs,14,2022-05-24,19:09,Fatura,İnternet,İstanbul,88.0
+2023,Eylül,14,2023-09-14,14:25,Restoran,Fast Food,Ankara,125.62
+2024,Şubat,27,2024-02-05,02:20,Fatura,İnternet,İzmir,80.0
+2024,Haziran,25,2024-06-25,09:29,Ulaşım,Otobüs,Ankara,42.41
+2022,Mayıs,21,2022-05-21,11:01,Giyim,H&M,Ankara,140.8
+2023,Nisan,12,2023-04-12,19:27,Ulaşım,Taksi,Ankara,261.53
+2024,Haziran,25,2024-06-25,08:47,Giyim,H&M,Ankara,206.13
+2023,Eylül,19,2023-09-19,13:22,Ulaşım,Benzin,İzmir,421.52
+2024,Haziran,27,2024-06-27,13:57,Restoran,Pizza,İzmir,184.33
+2023,Haziran,2,2023-06-02,01:52,Ulaşım,Otobüs,İstanbul,127.31
+2024,Ocak,5,2024-01-05,13:09,Restoran,Kebap,İstanbul,128.04
+2023,Ağustos,1,2023-08-01,22:34,Giyim,Zara,Ankara,84.83
+2024,Haziran,13,2024-06-13,13:11,Restoran,Kebap,İzmir,128.79
+2022,Ağustos,13,2022-08-20,11:53,Fatura,İnternet,İzmir,88.0
+2022,Nisan,8,2022-04-08,12:43,Ulaşım,Benzin,İzmir,397.89
+2023,Temmuz,9,2023-07-09,17:58,Giyim,H&M,İzmir,262.8
+2023,Ocak,9,2023-01-02,18:42,Fatura,Su,Ankara,52.5
+2022,Temmuz,24,2022-07-24,01:07,Ulaşım,Taksi,İstanbul,259.17
+2023,Şubat,28,2023-02-28,13:00,Ulaşım,Benzin,İstanbul,120.86
+2024,Temmuz,15,2024-07-15,15:21,Giyim,Zara,İstanbul,70.25
+2023,Eylül,12,2023-09-12,11:36,Ulaşım,Benzin,Ankara,29.01
+2024,Temmuz,22,2024-07-22,13:04,Ulaşım,Benzin,Ankara,338.66
+2024,Ocak,27,2024-01-27,01:55,Giyim,LC Waikiki,İstanbul,88.34
+2022,Şubat,6,2022-02-09,20:37,Fatura,İnternet,İstanbul,88.0
+2023,Nisan,6,2023-04-06,02:56,Giyim,Zara,İzmir,529.72
+2024,Mart,27,2024-03-27,11:30,Giyim,H&M,İzmir,590.3
+2022,Eylül,11,2022-09-11,09:00,Ulaşım,Otobüs,Ankara,494.92
+2024,Haziran,13,2024-06-13,12:42,Ulaşım,Benzin,İzmir,372.23
+2022,Şubat,19,2022-02-19,15:32,Giyim,Zara,İstanbul,474.27
+2024,Mart,28,2024-03-28,14:53,Restoran,Kebap,İzmir,31.64
+2024,Nisan,7,2024-04-07,09:37,Giyim,Zara,İstanbul,701.99
+2024,Temmuz,16,2024-07-16,14:54,Restoran,Kebap,Ankara,179.56
+2023,Mart,10,2023-03-10,14:40,Restoran,Pizza,Ankara,179.97
+2022,Ekim,4,2022-10-04,07:35,Giyim,H&M,Ankara,420.55
+2023,Nisan,25,2023-04-10,19:50,Fatura,Elektrik,İstanbul,105.0
+2022,Temmuz,12,2022-07-16,13:14,Fatura,Elektrik,Ankara,110.0
+2023,Mart,10,2023-03-10,20:04,Giyim,Zara,Ankara,569.16
+2023,Kasım,8,2023-11-08,08:50,Giyim,H&M,İstanbul,690.71
+2022,Eylül,10,2022-09-09,20:42,Fatura,Su,İstanbul,55.0
+2024,Nisan,1,2024-04-01,14:19,Restoran,Pizza,Ankara,78.07
+2024,Haziran,24,2024-06-05,21:17,Fatura,İnternet,İzmir,80.0
+2022,Aralık,13,2022-12-13,14:03,Restoran,Pizza,İzmir,177.76
+2024,Şubat,18,2024-02-18,12:53,Ulaşım,Benzin,Ankara,461.81
+2023,Aralık,21,2023-12-21,14:30,Restoran,Kebap,Ankara,169.89
+2023,Eylül,8,2023-09-08,20:27,Ulaşım,Otobüs,İstanbul,233.96
+2022,Nisan,28,2022-04-08,06:56,Fatura,Su,İstanbul,55.0
+2024,Mart,25,2024-03-25,01:02,Giyim,Zara,İstanbul,684.68
+2022,Kasım,27,2022-11-27,13:27,Restoran,Fast Food,Ankara,100.03
+2024,Temmuz,22,2024-07-22,13:04,Restoran,Pizza,Ankara,156.23
+2024,Nisan,24,2024-04-25,02:29,Fatura,İnternet,İzmir,80.0
+2024,Haziran,11,2024-06-11,22:28,Ulaşım,Taksi,İzmir,125.31
+2024,Ocak,12,2024-01-12,09:10,Giyim,LC Waikiki,İzmir,389.79
+2024,Mayıs,23,2024-05-23,14:21,Restoran,Fast Food,İzmir,94.74
+2023,Ekim,27,2023-10-27,13:48,Ulaşım,Benzin,İstanbul,300.48
+2024,Haziran,18,2024-06-18,12:21,Restoran,Fast Food,İzmir,65.15
+2024,Mart,12,2024-03-12,03:27,Ulaşım,Otobüs,Ankara,168.74
+2022,Nisan,28,2022-04-04,16:10,Fatura,Elektrik,Ankara,110.0
+2023,Kasım,25,2023-11-25,13:58,Restoran,Fast Food,Ankara,62.77
+2024,Ocak,21,2024-01-03,07:07,Fatura,Su,Ankara,50.0
+2023,Temmuz,4,2023-07-04,17:11,Ulaşım,Taksi,İzmir,132.15
+2024,Mart,16,2024-03-25,00:38,Fatura,İnternet,Ankara,80.0
+2024,Şubat,20,2024-02-20,03:48,Ulaşım,Otobüs,İzmir,59.72
+2024,Şubat,27,2024-02-14,11:30,Fatura,Elektrik,Ankara,100.0
+2024,Ocak,21,2024-01-01,17:03,Fatura,Su,İstanbul,50.0
+2022,Nisan,18,2022-04-18,14:09,Restoran,Kebap,İzmir,182.1
+2024,Temmuz,8,2024-07-22,13:15,Fatura,Su,İzmir,50.0
+2023,Şubat,14,2023-02-26,22:15,Fatura,Su,İzmir,52.5
+2022,Mart,26,2022-03-26,09:43,Giyim,LC Waikiki,İstanbul,903.81
+2023,Mayıs,11,2023-05-11,14:00,Ulaşım,Otobüs,İstanbul,238.99
+2022,Aralık,9,2022-12-09,04:30,Giyim,Zara,İzmir,958.33
+2024,Şubat,24,2024-02-24,13:04,Restoran,Pizza,Ankara,32.16
+2024,Ocak,21,2024-01-07,04:02,Fatura,Elektrik,İzmir,100.0
+2024,Ocak,3,2024-01-03,14:50,Restoran,Kebap,İstanbul,36.26
+2023,Ağustos,23,2023-08-23,12:40,Giyim,Zara,İzmir,675.32
+2024,Temmuz,24,2024-07-24,12:59,Restoran,Fast Food,Ankara,169.69
+2024,Mart,21,2024-03-21,20:11,Giyim,LC Waikiki,Ankara,137.98
+2022,Temmuz,23,2022-07-23,14:59,Restoran,Kebap,İstanbul,132.68
+2022,Haziran,11,2022-06-11,12:52,Restoran,Pizza,İzmir,85.2
+2022,Aralık,23,2022-12-23,15:56,Ulaşım,Taksi,İzmir,399.33
+2022,Ağustos,13,2022-08-03,00:14,Fatura,İnternet,İzmir,88.0
+2024,Temmuz,6,2024-07-06,23:05,Giyim,Zara,İstanbul,219.65
+2024,Mayıs,7,2024-05-24,00:41,Fatura,Su,İzmir,50.0
+2022,Mayıs,28,2022-05-28,18:12,Giyim,Zara,İstanbul,850.99
+2022,Kasım,12,2022-11-12,14:32,Restoran,Pizza,İzmir,176.52
+2023,Aralık,2,2023-12-02,19:49,Giyim,LC Waikiki,Ankara,758.55
+2024,Haziran,5,2024-06-05,00:49,Giyim,LC Waikiki,Ankara,845.16
+2022,Mayıs,14,2022-05-27,10:15,Fatura,İnternet,İzmir,88.0
+2022,Nisan,5,2022-04-05,10:03,Ulaşım,Otobüs,İstanbul,305.21
+2024,Mart,19,2024-03-19,14:24,Restoran,Kebap,İzmir,191.24
+2023,Aralık,22,2023-12-22,23:07,Ulaşım,Taksi,İstanbul,356.28
+2024,Temmuz,26,2024-07-26,12:01,Restoran,Kebap,Ankara,63.41
+2022,Mart,25,2022-03-25,20:20,Ulaşım,Taksi,İzmir,159.82
+2024,Haziran,7,2024-06-07,02:58,Ulaşım,Taksi,İstanbul,149.51
+2022,Haziran,1,2022-06-16,10:42,Fatura,Su,İzmir,55.0
+2023,Mart,18,2023-03-18,14:39,Giyim,Zara,Ankara,105.92
+2022,Haziran,1,2022-06-06,18:29,Fatura,İnternet,İstanbul,88.0
+2023,Eylül,7,2023-09-07,01:34,Giyim,Zara,İzmir,299.87
+2023,Kasım,14,2023-11-23,12:50,Fatura,Su,İstanbul,52.5
+2024,Mart,28,2024-03-28,14:30,Restoran,Pizza,Ankara,139.25
+2024,Haziran,20,2024-06-20,13:09,Ulaşım,Benzin,İzmir,285.28
+2023,Şubat,17,2023-02-17,13:05,Restoran,Fast Food,İstanbul,170.66
+2023,Eylül,3,2023-09-03,14:04,Restoran,Kebap,Ankara,188.38
+2024,Şubat,6,2024-02-06,06:34,Giyim,Zara,İstanbul,177.73
+2024,Haziran,24,2024-06-15,08:40,Fatura,Elektrik,İstanbul,100.0
+2023,Mayıs,12,2023-05-12,16:32,Giyim,Zara,İzmir,236.79
+2024,Ocak,8,2024-01-08,13:46,Restoran,Kebap,Ankara,109.98
+2023,Kasım,3,2023-11-03,13:22,Restoran,Pizza,İstanbul,153.92
+2024,Nisan,8,2024-04-08,15:20,Ulaşım,Taksi,Ankara,434.36
+2022,Ekim,15,2022-10-15,12:30,Restoran,Kebap,İstanbul,94.57
+2023,Temmuz,28,2023-07-28,22:28,Giyim,Zara,İzmir,686.99
+2023,Haziran,19,2023-06-19,09:02,Giyim,H&M,İzmir,958.55
+2022,Temmuz,17,2022-07-17,05:41,Giyim,LC Waikiki,Ankara,58.06
+2024,Ocak,21,2024-01-09,16:11,Fatura,İnternet,Ankara,80.0
+2024,Haziran,9,2024-06-09,14:38,Ulaşım,Taksi,İstanbul,302.14
+2024,Nisan,3,2024-04-03,13:39,Ulaşım,Otobüs,Ankara,213.13
+2022,Ocak,27,2022-01-27,14:34,Restoran,Pizza,Ankara,115.99
+2023,Nisan,27,2023-04-27,17:13,Giyim,H&M,İstanbul,971.45
+2024,Temmuz,8,2024-07-26,13:45,Fatura,Su,İzmir,50.0
+2022,Aralık,13,2022-12-13,06:58,Giyim,Zara,Ankara,813.33
+2024,Mayıs,7,2024-05-09,22:18,Fatura,İnternet,İzmir,80.0
+2022,Kasım,13,2022-11-14,22:25,Fatura,Elektrik,İzmir,110.0
+2022,Temmuz,15,2022-07-15,13:24,Restoran,Pizza,İstanbul,172.42
+2023,Kasım,9,2023-11-09,04:03,Giyim,H&M,İzmir,377.07
+2022,Ekim,13,2022-10-13,12:54,Restoran,Pizza,İzmir,25.94
+2022,Ağustos,13,2022-08-01,09:16,Fatura,Elektrik,İzmir,110.0
+2022,Eylül,2,2022-09-02,09:26,Giyim,Zara,Ankara,528.81
+2023,Eylül,25,2023-09-25,13:09,Restoran,Kebap,İzmir,162.02
+2022,Mart,8,2022-03-23,11:13,Fatura,İnternet,İzmir,88.0
+2022,Mart,22,2022-03-22,12:25,Restoran,Kebap,İzmir,80.13
+2024,Mayıs,12,2024-05-12,07:00,Giyim,Zara,Ankara,293.84
+2022,Mart,8,2022-03-27,02:32,Fatura,Elektrik,İstanbul,110.0
+2023,Temmuz,21,2023-07-27,10:08,Fatura,Elektrik,İstanbul,105.0
+2022,Ekim,11,2022-10-11,12:09,Ulaşım,Benzin,İzmir,360.62
+2023,Mart,26,2023-03-06,19:12,Fatura,Su,İzmir,52.5
+2024,Şubat,21,2024-02-21,13:01,Restoran,Pizza,Ankara,178.68
+2023,Ağustos,17,2023-08-17,09:31,Ulaşım,Taksi,Ankara,410.32
+2023,Eylül,11,2023-09-13,16:58,Fatura,Elektrik,Ankara,105.0
+2023,Ağustos,25,2023-08-11,03:56,Fatura,İnternet,İstanbul,84.0
+2022,Eylül,28,2022-09-28,12:51,Ulaşım,Benzin,İzmir,93.81
+2023,Şubat,16,2023-02-16,13:30,Ulaşım,Otobüs,İzmir,76.33
+2024,Nisan,11,2024-04-11,16:54,Giyim,H&M,Ankara,140.37
+2023,Eylül,11,2023-09-11,11:02,Ulaşım,Benzin,İstanbul,271.68
+2022,Kasım,11,2022-11-11,10:32,Giyim,LC Waikiki,İzmir,85.07
+2024,Şubat,5,2024-02-05,13:47,Restoran,Fast Food,İzmir,95.61
+2022,Mart,27,2022-03-27,08:19,Ulaşım,Otobüs,İstanbul,155.72
+2024,Ocak,16,2024-01-16,13:00,Restoran,Kebap,Ankara,161.79
+2023,Temmuz,5,2023-07-05,12:02,Restoran,Kebap,İstanbul,178.7
+2023,Eylül,11,2023-09-11,17:00,Giyim,Zara,Ankara,244.86
+2024,Nisan,24,2024-04-26,01:58,Fatura,İnternet,İzmir,80.0
+2024,Ocak,8,2024-01-08,12:25,Restoran,Kebap,İstanbul,46.55
+2024,Temmuz,1,2024-07-01,00:57,Ulaşım,Taksi,İzmir,84.29
+2023,Ağustos,25,2023-08-11,04:10,Fatura,İnternet,İzmir,84.0
+2024,Temmuz,25,2024-07-25,12:39,Restoran,Kebap,İzmir,53.58
+2023,Mart,26,2023-03-14,19:35,Fatura,İnternet,İstanbul,84.0
+2024,Mart,23,2024-03-23,13:56,Restoran,Fast Food,İstanbul,22.26
+2023,Aralık,12,2023-12-12,06:52,Giyim,H&M,Ankara,950.65
+2023,Ağustos,19,2023-08-19,12:58,Restoran,Fast Food,İzmir,38.97
+2023,Haziran,25,2023-06-25,13:03,Restoran,Fast Food,Ankara,160.31
+2023,Eylül,8,2023-09-08,12:18,Restoran,Fast Food,İstanbul,96.23
+2022,Ağustos,13,2022-08-19,06:50,Fatura,İnternet,Ankara,88.0
+2023,Haziran,9,2023-06-14,09:53,Fatura,Elektrik,Ankara,105.0
+2022,Mart,4,2022-03-04,13:34,Restoran,Kebap,İzmir,92.9
+2023,Temmuz,21,2023-07-19,14:01,Fatura,Su,Ankara,52.5
+2024,Şubat,27,2024-02-27,07:18,Giyim,H&M,Ankara,775.03
+2024,Mart,13,2024-03-13,00:09,Giyim,H&M,İstanbul,547.37
+2023,Haziran,25,2023-06-25,09:26,Giyim,LC Waikiki,İzmir,416.54
+2022,Haziran,17,2022-06-17,22:05,Ulaşım,Otobüs,İstanbul,491.89
+2024,Mart,16,2024-03-21,18:06,Fatura,Su,İstanbul,50.0
+2023,Aralık,1,2023-12-16,14:18,Fatura,Su,Ankara,52.5
+2023,Mayıs,8,2023-05-08,11:51,Ulaşım,Benzin,İzmir,201.49
+2023,Mayıs,26,2023-05-26,20:01,Giyim,LC Waikiki,İzmir,260.52
+2024,Ocak,7,2024-01-07,12:52,Restoran,Fast Food,İstanbul,170.91
+2023,Mart,19,2023-03-19,11:42,Giyim,LC Waikiki,Ankara,560.68
+2023,Aralık,13,2023-12-13,14:39,Restoran,Fast Food,Ankara,103.95
+2024,Şubat,22,2024-02-22,09:28,Ulaşım,Taksi,İzmir,334.25
+2023,Nisan,9,2023-04-09,14:19,Restoran,Kebap,Ankara,159.88
+2024,Mart,7,2024-03-07,14:58,Restoran,Kebap,İzmir,137.58
+2024,Haziran,26,2024-06-26,11:54,Giyim,H&M,İstanbul,408.75
+2023,Nisan,21,2023-04-21,19:26,Ulaşım,Taksi,İzmir,476.77
+2024,Temmuz,23,2024-07-23,12:12,Restoran,Fast Food,İzmir,104.74
+2024,Mayıs,3,2024-05-03,18:57,Ulaşım,Taksi,İzmir,47.33
+2022,Ağustos,20,2022-08-20,20:37,Giyim,LC Waikiki,İzmir,168.45
+2023,Mayıs,7,2023-05-12,17:50,Fatura,Elektrik,Ankara,105.0
+2024,Mart,8,2024-03-08,03:35,Giyim,Zara,İstanbul,907.49
+2023,Aralık,21,2023-12-21,00:37,Giyim,H&M,İzmir,911.21
+2023,Haziran,3,2023-06-03,11:19,Giyim,LC Waikiki,Ankara,881.72
+2024,Mart,8,2024-03-08,12:00,Restoran,Fast Food,İzmir,136.98
+2022,Temmuz,28,2022-07-28,01:28,Giyim,LC Waikiki,İzmir,613.39
+2023,Ağustos,26,2023-08-26,06:52,Giyim,LC Waikiki,İzmir,830.55
+2024,Mayıs,11,2024-05-11,02:26,Ulaşım,Otobüs,İstanbul,146.65
+2023,Şubat,9,2023-02-09,13:50,Restoran,Fast Food,İstanbul,110.39
+2023,Aralık,17,2023-12-17,12:44,Giyim,H&M,Ankara,87.01
+2023,Şubat,13,2023-02-13,02:11,Ulaşım,Taksi,Ankara,405.58
+2022,Mayıs,3,2022-05-03,14:46,Restoran,Kebap,Ankara,153.7
+2024,Mart,27,2024-03-27,12:16,Restoran,Kebap,İstanbul,198.19
+2023,Mart,14,2023-03-14,14:31,Restoran,Pizza,İstanbul,154.58
+2023,Mayıs,7,2023-05-05,11:44,Fatura,İnternet,İstanbul,84.0
+2022,Haziran,1,2022-06-13,22:55,Fatura,Su,Ankara,55.0
+2023,Ağustos,20,2023-08-20,12:09,Restoran,Kebap,Ankara,133.35
+2022,Ağustos,9,2022-08-09,12:24,Ulaşım,Benzin,İzmir,13.96
+2022,Nisan,2,2022-04-02,13:52,Restoran,Pizza,Ankara,104.8
+2024,Şubat,3,2024-02-03,13:41,Restoran,Pizza,İzmir,64.59
+2024,Ocak,6,2024-01-06,19:08,Giyim,H&M,Ankara,580.82
+2024,Haziran,5,2024-06-05,04:29,Ulaşım,Otobüs,Ankara,229.11
+2023,Ağustos,11,2023-08-11,18:41,Giyim,Zara,Ankara,589.07
+2024,Mart,28,2024-03-28,12:23,Restoran,Kebap,İstanbul,24.4
+2022,Haziran,18,2022-06-18,01:58,Giyim,LC Waikiki,İstanbul,88.36
+2022,Nisan,28,2022-04-12,08:10,Fatura,Elektrik,İstanbul,110.0
+2023,Ağustos,6,2023-08-06,23:08,Giyim,H&M,İzmir,490.58
+2022,Mart,3,2022-03-03,14:50,Restoran,Pizza,Ankara,175.49
+2022,Kasım,6,2022-11-06,21:24,Ulaşım,Taksi,İstanbul,287.43
+2024,Nisan,5,2024-04-05,11:48,Giyim,H&M,İzmir,232.39
+2024,Temmuz,10,2024-07-10,08:10,Giyim,H&M,İzmir,572.89
+2024,Mart,15,2024-03-15,05:17,Ulaşım,Taksi,İstanbul,241.26
+2022,Nisan,6,2022-04-06,13:53,Restoran,Fast Food,Ankara,52.67
+2024,Nisan,24,2024-04-10,21:08,Fatura,İnternet,İstanbul,80.0
+2022,Mayıs,9,2022-05-09,12:24,Ulaşım,Benzin,İzmir,495.57
+2022,Mart,18,2022-03-18,12:50,Restoran,Pizza,Ankara,71.17
+2023,Mayıs,8,2023-05-08,12:13,Giyim,Zara,İstanbul,302.02
+2024,Mayıs,28,2024-05-28,14:16,Restoran,Fast Food,Ankara,178.2
+2023,Ağustos,25,2023-08-16,02:51,Fatura,Elektrik,İstanbul,105.0
+2024,Mayıs,13,2024-05-13,02:39,Giyim,H&M,İzmir,968.37
+2024,Temmuz,17,2024-07-17,13:20,Ulaşım,Benzin,İstanbul,420.5
+2024,Nisan,8,2024-04-08,00:59,Giyim,LC Waikiki,İstanbul,266.69
+2022,Temmuz,17,2022-07-17,07:59,Giyim,Zara,İzmir,392.97
+2023,Temmuz,24,2023-07-24,12:38,Restoran,Pizza,Ankara,192.33
+2024,Ocak,14,2024-01-14,11:12,Giyim,LC Waikiki,İzmir,208.12
+2022,Temmuz,15,2022-07-15,09:32,Ulaşım,Taksi,İzmir,231.53
+2022,Aralık,11,2022-12-11,14:42,Restoran,Pizza,Ankara,39.37
+2023,Mart,26,2023-03-25,19:59,Fatura,Elektrik,İzmir,105.0
+2024,Mart,17,2024-03-17,04:21,Ulaşım,Taksi,İstanbul,357.94
+2023,Haziran,14,2023-06-14,14:36,Restoran,Pizza,Ankara,35.84
+2022,Haziran,1,2022-06-19,08:13,Fatura,İnternet,İzmir,88.0
+2022,Eylül,7,2022-09-07,07:49,Giyim,LC Waikiki,İstanbul,812.36
+2023,Temmuz,21,2023-07-22,09:18,Fatura,İnternet,İstanbul,84.0
+2023,Şubat,14,2023-02-28,01:21,Fatura,Elektrik,İzmir,105.0
+2023,Aralık,10,2023-12-10,09:57,Ulaşım,Otobüs,İstanbul,475.74
+2023,Eylül,27,2023-09-27,14:23,Giyim,H&M,İzmir,925.87
+2024,Şubat,27,2024-02-09,11:34,Fatura,Elektrik,Ankara,100.0
+2023,Eylül,5,2023-09-05,22:33,Giyim,LC Waikiki,İzmir,878.34
+2024,Mart,1,2024-03-01,03:27,Giyim,Zara,Ankara,636.17
+2023,Haziran,1,2023-06-01,12:53,Ulaşım,Benzin,Ankara,106.85
+2023,Kasım,8,2023-11-08,20:48,Ulaşım,Taksi,İstanbul,485.18
+2023,Ocak,6,2023-01-06,04:44,Giyim,Zara,Ankara,863.82
+2023,Temmuz,21,2023-07-21,13:49,Restoran,Fast Food,İzmir,198.61
+2024,Mayıs,2,2024-05-02,12:03,Ulaşım,Benzin,İstanbul,263.12
+2023,Kasım,14,2023-11-24,22:07,Fatura,İnternet,İzmir,84.0
+2024,Nisan,21,2024-04-21,14:48,Restoran,Fast Food,İstanbul,170.32
+2023,Ekim,9,2023-10-09,09:47,Ulaşım,Otobüs,Ankara,118.9
+2022,Mart,20,2022-03-20,08:52,Ulaşım,Taksi,Ankara,154.06
+2024,Haziran,12,2024-06-12,19:08,Giyim,LC Waikiki,İstanbul,866.06
+2024,Ocak,21,2024-01-24,23:42,Fatura,Elektrik,İstanbul,100.0
+2023,Eylül,14,2023-09-14,09:12,Giyim,Zara,Ankara,996.72
+2022,Ocak,25,2022-01-15,14:51,Fatura,İnternet,İzmir,88.0
+2024,Ocak,22,2024-01-22,14:41,Restoran,Kebap,Ankara,175.87
+2022,Kasım,13,2022-11-10,02:52,Fatura,Elektrik,İzmir,110.0
+2024,Ocak,4,2024-01-04,01:22,Giyim,LC Waikiki,İstanbul,752.62
+2024,Mart,16,2024-03-17,10:56,Fatura,İnternet,İzmir,80.0
+2023,Ekim,20,2023-10-05,11:09,Fatura,Su,Ankara,52.5
+2022,Ekim,25,2022-10-25,20:05,Ulaşım,Otobüs,İstanbul,12.54
+2024,Nisan,16,2024-04-16,11:37,Ulaşım,Benzin,İzmir,386.88
+2023,Ekim,8,2023-10-08,09:54,Ulaşım,Otobüs,İstanbul,321.71
+2024,Mart,4,2024-03-04,13:20,Restoran,Kebap,Ankara,105.94
+2022,Mayıs,14,2022-05-16,19:39,Fatura,İnternet,İzmir,88.0
+2024,Temmuz,25,2024-07-25,09:37,Giyim,H&M,İzmir,800.19
+2024,Temmuz,12,2024-07-12,11:45,Ulaşım,Benzin,Ankara,173.76
+2023,Nisan,25,2023-04-27,14:34,Fatura,İnternet,Ankara,84.0
+2022,Temmuz,25,2022-07-25,13:16,Giyim,LC Waikiki,Ankara,925.07
+2022,Eylül,10,2022-09-06,06:35,Fatura,Su,İzmir,55.0
+2024,Şubat,4,2024-02-04,15:20,Giyim,H&M,İstanbul,364.64
+2023,Kasım,7,2023-11-07,21:19,Ulaşım,Taksi,İzmir,239.15
+2023,Ocak,8,2023-01-08,14:16,Restoran,Pizza,Ankara,87.11
+2022,Aralık,16,2022-12-21,16:44,Fatura,Elektrik,Ankara,110.0
+2024,Şubat,27,2024-02-14,01:31,Fatura,Su,İstanbul,50.0
+2023,Haziran,9,2023-06-16,16:08,Fatura,Su,Ankara,52.5
+2022,Haziran,14,2022-06-14,15:31,Ulaşım,Taksi,İzmir,160.96
+2024,Ocak,15,2024-01-15,15:01,Ulaşım,Otobüs,İzmir,400.03
+2024,Mart,9,2024-03-09,09:04,Giyim,Zara,İstanbul,647.61
+2022,Ekim,25,2022-10-13,12:26,Fatura,İnternet,İstanbul,88.0
+2022,Nisan,28,2022-04-06,04:56,Fatura,Su,Ankara,55.0
+2023,Ağustos,27,2023-08-27,19:26,Giyim,LC Waikiki,İstanbul,64.64
+2024,Mart,10,2024-03-10,11:18,Ulaşım,Benzin,Ankara,467.43
+2024,Mart,20,2024-03-20,06:34,Giyim,LC Waikiki,İzmir,939.53
+2024,Temmuz,8,2024-07-09,14:14,Fatura,Elektrik,İstanbul,100.0
+2023,Temmuz,4,2023-07-04,07:05,Giyim,H&M,Ankara,816.92
+2022,Eylül,4,2022-09-04,13:02,Ulaşım,Benzin,İstanbul,213.64
+2024,Nisan,24,2024-04-17,22:35,Fatura,İnternet,İzmir,80.0
+2022,Kasım,17,2022-11-17,03:22,Giyim,LC Waikiki,Ankara,307.46
+2024,Mart,15,2024-03-15,12:10,Restoran,Fast Food,İstanbul,93.09
+2024,Şubat,27,2024-02-11,10:40,Fatura,Su,Ankara,50.0
+2022,Ekim,25,2022-10-02,13:21,Fatura,Su,Ankara,55.0
+2024,Nisan,3,2024-04-03,16:06,Giyim,H&M,İzmir,688.24
+2024,Temmuz,8,2024-07-27,07:15,Fatura,Elektrik,İzmir,100.0
+2024,Temmuz,8,2024-07-28,19:46,Fatura,Elektrik,İzmir,100.0
+2024,Mart,26,2024-03-26,19:09,Ulaşım,Taksi,İstanbul,55.86
+2023,Mart,26,2023-03-01,21:11,Fatura,İnternet,İzmir,84.0
+2024,Nisan,27,2024-04-27,09:48,Giyim,H&M,İzmir,577.29
+2024,Ocak,1,2024-01-01,14:41,Restoran,Fast Food,Ankara,185.35
+2023,Ekim,11,2023-10-11,20:01,Giyim,LC Waikiki,İstanbul,564.87
+2023,Ağustos,11,2023-08-11,10:52,Giyim,LC Waikiki,Ankara,418.69
+2023,Mayıs,7,2023-05-12,13:55,Fatura,Elektrik,İstanbul,105.0
+2022,Ağustos,3,2022-08-03,16:56,Giyim,H&M,Ankara,410.84
+2024,Mayıs,27,2024-05-27,06:43,Giyim,LC Waikiki,İzmir,519.74
+2022,Ocak,25,2022-01-16,23:35,Fatura,İnternet,İzmir,88.0
+2022,Kasım,10,2022-11-10,23:27,Giyim,H&M,İstanbul,419.44
+2024,Ocak,8,2024-01-08,12:26,Restoran,Kebap,İzmir,179.0
+2024,Mart,27,2024-03-27,14:18,Restoran,Pizza,Ankara,195.15
+2023,Ocak,22,2023-01-22,22:49,Ulaşım,Otobüs,İstanbul,367.23
+2024,Mayıs,27,2024-05-27,11:40,Ulaşım,Benzin,İzmir,295.97
+2024,Mayıs,14,2024-05-14,01:05,Giyim,H&M,İzmir,934.96
+2022,Nisan,21,2022-04-21,14:28,Ulaşım,Taksi,İzmir,18.53
+2023,Ağustos,28,2023-08-28,19:20,Giyim,Zara,İstanbul,279.11
+2022,Mayıs,26,2022-05-26,13:39,Restoran,Kebap,İstanbul,160.69
+2024,Ocak,27,2024-01-27,14:00,Ulaşım,Taksi,Ankara,78.77
+2023,Ocak,20,2023-01-20,04:24,Giyim,LC Waikiki,İzmir,443.54
+2022,Kasım,10,2022-11-10,08:10,Giyim,H&M,Ankara,678.54
+2022,Nisan,20,2022-04-20,15:38,Giyim,LC Waikiki,İzmir,900.47
+2023,Şubat,25,2023-02-25,14:20,Restoran,Pizza,İstanbul,121.45
+2024,Haziran,12,2024-06-12,11:13,Giyim,Zara,Ankara,254.43
+2024,Temmuz,15,2024-07-15,22:04,Giyim,H&M,Ankara,177.61
+2023,Mart,1,2023-03-01,15:04,Ulaşım,Otobüs,Ankara,300.54
+2022,Şubat,6,2022-02-24,04:34,Fatura,İnternet,İzmir,88.0
+2022,Aralık,15,2022-12-15,15:17,Giyim,H&M,İzmir,750.94
+2024,Şubat,9,2024-02-09,21:30,Ulaşım,Otobüs,İzmir,117.15
+2022,Mart,6,2022-03-06,12:21,Ulaşım,Benzin,İzmir,36.98
+2022,Mayıs,15,2022-05-15,22:42,Ulaşım,Taksi,İzmir,290.07
+2023,Temmuz,15,2023-07-15,13:12,Restoran,Fast Food,İstanbul,98.84
+2023,Kasım,14,2023-11-18,23:56,Fatura,Su,Ankara,52.5
+2023,Nisan,25,2023-04-23,06:03,Fatura,Su,İstanbul,52.5
+2024,Mayıs,27,2024-05-27,22:49,Giyim,LC Waikiki,Ankara,399.89
+2023,Ocak,9,2023-01-12,08:16,Fatura,Su,İstanbul,52.5
+2022,Ekim,26,2022-10-26,15:18,Giyim,H&M,İzmir,82.68
+2024,Haziran,19,2024-06-19,13:38,Ulaşım,Benzin,İstanbul,224.86
+2022,Mart,8,2022-03-22,01:51,Fatura,Su,İzmir,55.0
+2023,Eylül,19,2023-09-19,12:16,Restoran,Pizza,İzmir,70.0
+2024,Haziran,27,2024-06-27,21:39,Ulaşım,Taksi,Ankara,235.34
+2024,Haziran,26,2024-06-26,00:22,Giyim,H&M,İzmir,943.11
+2024,Nisan,24,2024-04-21,19:13,Fatura,Elektrik,Ankara,100.0
+2022,Ekim,13,2022-10-13,14:44,Ulaşım,Taksi,İstanbul,185.63
+2023,Haziran,24,2023-06-24,12:11,Ulaşım,Benzin,İzmir,332.99
+2023,Mayıs,9,2023-05-09,21:19,Ulaşım,Taksi,İzmir,265.03
+2023,Ağustos,26,2023-08-26,17:10,Giyim,Zara,İstanbul,101.52
+2024,Mart,8,2024-03-08,18:24,Ulaşım,Otobüs,İzmir,371.05
+2022,Şubat,13,2022-02-13,13:10,Restoran,Pizza,İzmir,142.55
+2024,Temmuz,14,2024-07-14,21:59,Giyim,H&M,Ankara,732.31
+2022,Haziran,9,2022-06-09,04:49,Ulaşım,Taksi,İzmir,393.6
+2024,Mart,1,2024-03-01,09:36,Giyim,LC Waikiki,Ankara,503.98
+2023,Haziran,14,2023-06-14,17:48,Giyim,Zara,İstanbul,424.1
+2022,Kasım,18,2022-11-18,13:37,Restoran,Kebap,İzmir,175.2
+2023,Ağustos,25,2023-08-16,11:10,Fatura,Elektrik,Ankara,105.0
+2023,Aralık,23,2023-12-23,04:00,Giyim,H&M,Ankara,927.67
+2023,Şubat,4,2023-02-04,12:20,Restoran,Kebap,İzmir,197.86
+2024,Mart,20,2024-03-20,05:39,Giyim,H&M,İzmir,592.28
+2022,Temmuz,21,2022-07-21,14:37,Restoran,Pizza,İstanbul,177.14
+2024,Mayıs,3,2024-05-03,13:07,Ulaşım,Benzin,İstanbul,287.35
+2023,Haziran,3,2023-06-03,12:57,Restoran,Pizza,İzmir,72.07
+2022,Nisan,14,2022-04-14,13:37,Ulaşım,Benzin,İzmir,452.13
+2022,Nisan,7,2022-04-07,15:59,Giyim,Zara,Ankara,399.38
+2022,Ekim,1,2022-10-01,02:00,Giyim,Zara,İstanbul,709.13
+2022,Kasım,13,2022-11-02,06:56,Fatura,İnternet,Ankara,88.0
+2024,Mart,7,2024-03-07,11:26,Ulaşım,Benzin,Ankara,139.34
+2024,Temmuz,27,2024-07-27,13:51,Restoran,Pizza,İzmir,22.02
+2024,Mayıs,7,2024-05-27,01:40,Fatura,Su,İzmir,50.0
+2023,Mayıs,16,2023-05-16,07:59,Ulaşım,Otobüs,İzmir,88.45
+2024,Şubat,11,2024-02-11,12:57,Restoran,Fast Food,İstanbul,73.79
+2023,Nisan,8,2023-04-08,21:29,Giyim,H&M,İzmir,700.16
+2022,Haziran,1,2022-06-06,03:22,Fatura,Su,Ankara,55.0
+2023,Nisan,1,2023-04-01,13:03,Ulaşım,Benzin,İzmir,310.91
+2024,Nisan,4,2024-04-04,11:33,Ulaşım,Taksi,Ankara,74.69
+2022,Nisan,9,2022-04-09,14:07,Restoran,Fast Food,İstanbul,63.7
+2022,Ekim,1,2022-10-01,06:31,Giyim,H&M,İstanbul,360.16
+2022,Kasım,25,2022-11-25,09:12,Giyim,H&M,Ankara,427.28
+2022,Mayıs,20,2022-05-20,06:12,Ulaşım,Otobüs,Ankara,439.09
+2022,Haziran,26,2022-06-26,21:24,Giyim,H&M,Ankara,692.78
+2024,Haziran,25,2024-06-25,13:49,Restoran,Fast Food,İstanbul,191.95
+2024,Mart,9,2024-03-09,19:24,Giyim,Zara,İzmir,675.9
+2022,Ağustos,25,2022-08-25,09:59,Giyim,LC Waikiki,İzmir,455.66
+2022,Aralık,16,2022-12-17,04:15,Fatura,İnternet,Ankara,88.0
+2024,Haziran,24,2024-06-05,18:18,Fatura,Elektrik,Ankara,100.0
+2023,Ocak,14,2023-01-14,02:58,Giyim,LC Waikiki,Ankara,463.36
+2023,Haziran,9,2023-06-11,11:22,Fatura,Elektrik,İzmir,105.0
+2024,Mayıs,7,2024-05-20,15:18,Fatura,İnternet,Ankara,80.0
+2023,Nisan,4,2023-04-04,19:32,Giyim,Zara,İstanbul,249.93
+2024,Şubat,23,2024-02-23,14:26,Ulaşım,Taksi,Ankara,341.96
+2022,Temmuz,12,2022-07-04,17:14,Fatura,İnternet,Ankara,88.0
+2024,Mart,23,2024-03-23,06:25,Giyim,Zara,Ankara,317.42
+2023,Kasım,23,2023-11-23,03:57,Giyim,H&M,İstanbul,219.24
+2023,Mayıs,3,2023-05-03,13:26,Restoran,Fast Food,Ankara,198.79
+2023,Ağustos,6,2023-08-06,12:20,Restoran,Pizza,İstanbul,59.92
+2023,Ocak,15,2023-01-15,08:58,Ulaşım,Otobüs,İzmir,396.02
+2024,Nisan,12,2024-04-12,14:04,Restoran,Fast Food,Ankara,35.74
+2022,Kasım,27,2022-11-27,15:50,Giyim,Zara,İstanbul,263.13
+2023,Şubat,19,2023-02-19,04:54,Ulaşım,Otobüs,Ankara,372.11
+2023,Nisan,25,2023-04-04,17:19,Fatura,Su,Ankara,52.5
+2022,Ekim,13,2022-10-13,13:37,Ulaşım,Otobüs,Ankara,101.86
+2024,Nisan,23,2024-04-23,13:33,Restoran,Pizza,İstanbul,100.54
+2024,Haziran,4,2024-06-04,14:49,Restoran,Kebap,İstanbul,75.99
+2022,Nisan,24,2022-04-24,14:16,Restoran,Fast Food,Ankara,72.34
+2022,Haziran,12,2022-06-12,14:02,Restoran,Fast Food,İstanbul,53.33
+2023,Ağustos,23,2023-08-23,13:46,Restoran,Fast Food,İstanbul,127.64
+2023,Mayıs,19,2023-05-19,13:43,Restoran,Kebap,Ankara,61.17
+2023,Mart,5,2023-03-05,14:34,Restoran,Kebap,Ankara,39.26
+2024,Şubat,26,2024-02-26,09:36,Ulaşım,Otobüs,İzmir,426.01
+2024,Şubat,23,2024-02-23,14:02,Restoran,Pizza,İzmir,162.09
+2023,Eylül,5,2023-09-05,11:06,Ulaşım,Benzin,Ankara,111.95
+2024,Temmuz,8,2024-07-16,07:49,Fatura,Su,Ankara,50.0
+2022,Mayıs,12,2022-05-12,04:37,Ulaşım,Taksi,Ankara,390.87
+2024,Şubat,28,2024-02-28,13:01,Restoran,Fast Food,İstanbul,98.87
+2023,Ağustos,11,2023-08-11,14:12,Giyim,H&M,İstanbul,104.52
+2022,Eylül,15,2022-09-15,13:39,Restoran,Fast Food,Ankara,32.44
+2022,Temmuz,13,2022-07-13,11:09,Giyim,LC Waikiki,İstanbul,174.6
+2022,Ağustos,13,2022-08-01,03:23,Fatura,Elektrik,Ankara,110.0
+2024,Temmuz,25,2024-07-25,21:05,Giyim,H&M,İstanbul,704.57
+2023,Şubat,17,2023-02-17,09:05,Giyim,LC Waikiki,İstanbul,552.92
+2023,Ocak,15,2023-01-15,03:15,Giyim,Zara,İzmir,88.72
+2024,Ocak,17,2024-01-17,10:27,Ulaşım,Otobüs,İstanbul,426.38
+2023,Mayıs,4,2023-05-04,14:15,Restoran,Fast Food,İzmir,108.57
+2024,Haziran,2,2024-06-02,21:14,Ulaşım,Taksi,Ankara,359.49
+2022,Kasım,15,2022-11-15,12:53,Restoran,Fast Food,İzmir,157.69
+2022,Ocak,25,2022-01-20,21:43,Fatura,Elektrik,Ankara,110.0
+2023,Ekim,11,2023-10-11,13:29,Ulaşım,Benzin,İzmir,175.05
+2024,Şubat,3,2024-02-03,14:43,Restoran,Pizza,İstanbul,30.63
+2024,Mart,20,2024-03-20,11:41,Giyim,Zara,İstanbul,755.65
+2022,Mart,8,2022-03-07,01:39,Fatura,Su,İstanbul,55.0
+2022,Ekim,25,2022-10-02,03:18,Fatura,İnternet,İstanbul,88.0
+2022,Kasım,10,2022-11-10,02:55,Giyim,H&M,İzmir,229.05
+2022,Mart,13,2022-03-13,12:33,Restoran,Kebap,İzmir,155.56
+2022,Eylül,20,2022-09-20,13:25,Restoran,Kebap,İzmir,188.81
+2022,Eylül,10,2022-09-15,07:12,Fatura,Su,Ankara,55.0
+2023,Ocak,9,2023-01-17,17:28,Fatura,Su,İstanbul,52.5
+2024,Mart,8,2024-03-08,17:30,Giyim,H&M,Ankara,558.7
+2023,Mart,20,2023-03-20,01:55,Ulaşım,Otobüs,İzmir,486.62
+2023,Aralık,13,2023-12-13,13:40,Restoran,Pizza,İzmir,54.77
+2022,Ağustos,8,2022-08-08,04:57,Giyim,LC Waikiki,İstanbul,989.47
+2022,Aralık,18,2022-12-18,12:37,Restoran,Fast Food,İstanbul,121.29
+2023,Haziran,2,2023-06-02,14:58,Giyim,Zara,İzmir,63.51
+2024,Nisan,28,2024-04-28,16:45,Giyim,LC Waikiki,İstanbul,176.53
+2023,Aralık,17,2023-12-17,11:53,Ulaşım,Benzin,İstanbul,348.41
+2022,Nisan,28,2022-04-11,17:22,Fatura,İnternet,Ankara,88.0
+2022,Temmuz,25,2022-07-25,13:22,Giyim,H&M,İstanbul,129.84
+2022,Haziran,21,2022-06-21,05:18,Giyim,Zara,İstanbul,317.72
+2024,Mart,1,2024-03-01,12:43,Ulaşım,Benzin,Ankara,444.69
+2022,Ekim,25,2022-10-17,17:04,Fatura,Su,İstanbul,55.0
+2022,Haziran,15,2022-06-15,15:30,Giyim,H&M,İzmir,672.87
+2022,Ocak,19,2022-01-19,19:04,Giyim,H&M,Ankara,309.64
+2024,Şubat,24,2024-02-24,14:31,Restoran,Fast Food,İstanbul,155.03
+2022,Aralık,16,2022-12-16,05:38,Giyim,H&M,İstanbul,484.11
+2022,Şubat,24,2022-02-24,12:48,Restoran,Kebap,İstanbul,31.07
+2022,Ocak,25,2022-01-20,01:32,Fatura,Elektrik,Ankara,110.0
+2023,Kasım,2,2023-11-02,11:04,Giyim,H&M,Ankara,315.14
+2024,Mart,7,2024-03-07,04:54,Giyim,LC Waikiki,Ankara,955.26
+2022,Mart,8,2022-03-28,13:29,Fatura,Su,İstanbul,55.0
+2024,Mart,12,2024-03-12,09:29,Giyim,Zara,İzmir,826.11
+2023,Ekim,2,2023-10-02,11:40,Ulaşım,Otobüs,İzmir,125.0
+2023,Nisan,25,2023-04-01,16:00,Fatura,Elektrik,Ankara,105.0
+2022,Temmuz,12,2022-07-07,16:41,Fatura,Su,İzmir,55.0
+2022,Ağustos,13,2022-08-27,02:20,Fatura,Elektrik,İzmir,110.0
+2022,Temmuz,12,2022-07-07,11:02,Fatura,Su,Ankara,55.0
+2024,Şubat,25,2024-02-25,20:36,Giyim,H&M,Ankara,917.9
+2023,Temmuz,13,2023-07-13,12:58,Restoran,Fast Food,Ankara,20.93
+2023,Şubat,13,2023-02-13,12:41,Ulaşım,Benzin,İstanbul,226.86
+2024,Ocak,24,2024-01-24,12:52,Restoran,Pizza,İzmir,53.38
+2023,Temmuz,22,2023-07-22,12:38,Giyim,LC Waikiki,İzmir,298.69
+2024,Nisan,24,2024-04-26,01:51,Fatura,Su,İzmir,50.0
+2024,Nisan,24,2024-04-13,10:54,Fatura,Elektrik,İstanbul,100.0
+2024,Haziran,27,2024-06-27,14:26,Restoran,Fast Food,İstanbul,163.69
+2022,Nisan,26,2022-04-26,05:22,Giyim,Zara,Ankara,687.45
+2024,Şubat,6,2024-02-06,14:36,Restoran,Fast Food,İstanbul,124.67
+2023,Eylül,15,2023-09-15,08:53,Ulaşım,Taksi,Ankara,464.19
+2023,Aralık,13,2023-12-13,14:43,Giyim,Zara,Ankara,95.67
+2023,Mayıs,7,2023-05-10,02:40,Fatura,İnternet,Ankara,84.0
+2022,Nisan,8,2022-04-08,14:16,Restoran,Kebap,İzmir,197.44
+2022,Nisan,10,2022-04-10,12:56,Restoran,Fast Food,İstanbul,42.8
+2022,Ocak,8,2022-01-08,17:02,Ulaşım,Taksi,Ankara,218.0
+2024,Haziran,20,2024-06-20,08:43,Giyim,LC Waikiki,İstanbul,315.02
+2024,Haziran,17,2024-06-17,02:32,Ulaşım,Otobüs,İzmir,189.98
+2024,Ocak,12,2024-01-12,09:39,Giyim,H&M,Ankara,730.81
+2022,Kasım,2,2022-11-02,12:14,Restoran,Pizza,İzmir,94.09
+2024,Temmuz,27,2024-07-27,17:38,Ulaşım,Taksi,Ankara,55.92
+2023,Mayıs,27,2023-05-27,05:36,Ulaşım,Taksi,İstanbul,229.18
+2024,Mayıs,5,2024-05-05,14:57,Restoran,Kebap,Ankara,191.99
+2024,Nisan,24,2024-04-10,14:33,Fatura,İnternet,İzmir,80.0
+2024,Mayıs,4,2024-05-04,13:08,Restoran,Pizza,Ankara,109.95
+2024,Temmuz,6,2024-07-06,12:10,Restoran,Fast Food,Ankara,95.48
+2022,Ekim,17,2022-10-17,14:11,Giyim,Zara,İzmir,360.4
+2022,Temmuz,2,2022-07-02,19:02,Giyim,Zara,İstanbul,813.61
+2024,Mart,21,2024-03-21,07:44,Ulaşım,Taksi,İzmir,347.3
+2023,Mayıs,17,2023-05-17,02:48,Ulaşım,Taksi,İzmir,220.95
+2024,Mayıs,7,2024-05-04,13:30,Fatura,İnternet,İstanbul,80.0
+2024,Temmuz,8,2024-07-10,21:00,Fatura,Su,Ankara,50.0
+2024,Ocak,8,2024-01-08,05:48,Ulaşım,Otobüs,İzmir,169.44
+2022,Eylül,3,2022-09-03,18:39,Ulaşım,Otobüs,İstanbul,382.76
+2022,Şubat,2,2022-02-02,11:40,Ulaşım,Benzin,İstanbul,345.48
+2023,Şubat,6,2023-02-06,05:58,Giyim,LC Waikiki,İzmir,212.14
+2022,Ocak,16,2022-01-16,13:06,Restoran,Kebap,İzmir,165.1
+2022,Ocak,12,2022-01-12,21:42,Giyim,LC Waikiki,Ankara,398.24
+2024,Ocak,21,2024-01-04,14:48,Fatura,Elektrik,İstanbul,100.0
+2022,Mart,8,2022-03-20,03:40,Fatura,İnternet,Ankara,88.0
+2022,Kasım,24,2022-11-24,13:09,Restoran,Kebap,İzmir,91.62
+2024,Mayıs,27,2024-05-27,10:36,Giyim,LC Waikiki,İzmir,871.51
+2024,Mayıs,6,2024-05-06,18:40,Giyim,LC Waikiki,Ankara,261.93
+2022,Aralık,16,2022-12-28,22:34,Fatura,Su,Ankara,55.0
+2024,Haziran,24,2024-06-06,04:10,Fatura,Su,Ankara,50.0
+2023,Aralık,1,2023-12-05,13:13,Fatura,Elektrik,Ankara,105.0
+2024,Temmuz,26,2024-07-26,21:23,Ulaşım,Otobüs,Ankara,351.43
+2024,Mayıs,1,2024-05-01,01:37,Giyim,LC Waikiki,İstanbul,973.06
+2022,Ocak,28,2022-01-28,12:47,Giyim,H&M,İzmir,494.31
+2024,Şubat,20,2024-02-20,20:22,Ulaşım,Taksi,Ankara,160.9
+2023,Ocak,9,2023-01-15,08:46,Fatura,Su,İzmir,52.5
+2023,Kasım,15,2023-11-15,12:48,Restoran,Fast Food,İzmir,71.24
+2022,Mayıs,14,2022-05-20,06:48,Fatura,Su,İstanbul,55.0
+2023,Mayıs,16,2023-05-16,12:17,Restoran,Fast Food,İzmir,158.26
+2022,Ocak,21,2022-01-21,03:07,Ulaşım,Taksi,İstanbul,209.2
+2024,Temmuz,8,2024-07-24,03:52,Fatura,Elektrik,İzmir,100.0
+2023,Nisan,16,2023-04-16,13:22,Restoran,Pizza,Ankara,191.37
+2024,Şubat,18,2024-02-18,12:34,Restoran,Pizza,İstanbul,32.66
+2023,Aralık,9,2023-12-09,12:56,Giyim,H&M,Ankara,494.84
+2022,Nisan,28,2022-04-28,14:35,Restoran,Pizza,İzmir,67.55
+2024,Mart,16,2024-03-27,14:49,Fatura,Su,İstanbul,50.0
+2022,Aralık,16,2022-12-20,12:49,Fatura,Elektrik,Ankara,110.0
+2023,Mart,22,2023-03-22,12:26,Giyim,H&M,İstanbul,144.0
+2024,Şubat,16,2024-02-16,12:23,Ulaşım,Benzin,İzmir,188.23
+2023,Aralık,11,2023-12-11,13:28,Restoran,Kebap,Ankara,25.58
+2024,Temmuz,7,2024-07-07,13:31,Restoran,Kebap,Ankara,90.54
+2024,Mayıs,7,2024-05-08,20:06,Fatura,İnternet,İzmir,80.0
+2024,Şubat,20,2024-02-20,13:06,Restoran,Fast Food,İstanbul,122.39
+2022,Şubat,11,2022-02-11,02:20,Giyim,LC Waikiki,İstanbul,734.59
+2023,Ekim,20,2023-10-03,12:11,Fatura,Su,İstanbul,52.5
+2024,Temmuz,8,2024-07-22,09:42,Fatura,Elektrik,İstanbul,100.0
+2024,Haziran,6,2024-06-06,11:03,Ulaşım,Benzin,İzmir,31.48
+2022,Ağustos,25,2022-08-25,13:49,Restoran,Pizza,İzmir,169.9
+2023,Ağustos,9,2023-08-09,13:52,Restoran,Fast Food,İzmir,90.02
+2022,Mayıs,2,2022-05-02,15:57,Giyim,Zara,İstanbul,954.83
+2022,Haziran,10,2022-06-10,13:40,Restoran,Pizza,İzmir,151.01
+2022,Ekim,2,2022-10-02,00:12,Giyim,LC Waikiki,Ankara,264.83
+2023,Haziran,22,2023-06-22,22:49,Giyim,Zara,İzmir,451.98
+2024,Mart,13,2024-03-13,14:53,Restoran,Pizza,İstanbul,164.1
+2022,Nisan,28,2022-04-19,02:27,Fatura,Su,Ankara,55.0
+2023,Eylül,23,2023-09-23,12:12,Restoran,Pizza,İstanbul,122.5
+2023,Ocak,5,2023-01-05,04:59,Giyim,Zara,İzmir,964.44
+2024,Nisan,24,2024-04-04,13:28,Fatura,Su,İzmir,50.0
+2023,Mayıs,15,2023-05-15,17:27,Ulaşım,Taksi,İzmir,495.33
+2023,Nisan,25,2023-04-20,14:16,Fatura,Su,Ankara,52.5
+2023,Şubat,26,2023-02-26,12:50,Ulaşım,Taksi,İstanbul,105.88
+2023,Şubat,14,2023-02-21,16:28,Fatura,Su,İstanbul,52.5
+2023,Temmuz,20,2023-07-20,13:42,Restoran,Pizza,Ankara,32.54
+2022,Nisan,7,2022-04-07,13:46,Giyim,LC Waikiki,Ankara,873.45
+2023,Şubat,10,2023-02-10,14:47,Restoran,Pizza,İzmir,83.81
+2023,Ekim,20,2023-10-20,10:17,Fatura,Elektrik,İzmir,105.0
+2022,Haziran,1,2022-06-18,11:33,Fatura,İnternet,Ankara,88.0
+2024,Nisan,24,2024-04-02,08:56,Fatura,Elektrik,Ankara,100.0
+2024,Temmuz,17,2024-07-17,06:14,Ulaşım,Taksi,Ankara,79.09
+2022,Nisan,12,2022-04-12,12:37,Giyim,H&M,Ankara,917.47
+2022,Mayıs,24,2022-05-24,12:45,Ulaşım,Benzin,İzmir,449.65
+2022,Eylül,9,2022-09-09,00:44,Ulaşım,Otobüs,Ankara,176.39
+2023,Mart,10,2023-03-10,19:38,Ulaşım,Otobüs,İzmir,28.49
+2022,Eylül,12,2022-09-12,12:00,Restoran,Kebap,İzmir,93.82
+2023,Şubat,11,2023-02-11,13:52,Restoran,Kebap,İstanbul,137.1
+2023,Ağustos,10,2023-08-10,13:30,Restoran,Pizza,İstanbul,180.51
+2023,Mart,15,2023-03-15,01:27,Ulaşım,Taksi,İzmir,71.31
+2023,Ekim,16,2023-10-16,03:29,Giyim,Zara,İstanbul,612.17
+2022,Ocak,18,2022-01-18,17:56,Giyim,LC Waikiki,İstanbul,180.4
+2023,Aralık,16,2023-12-16,05:55,Ulaşım,Taksi,İstanbul,289.17
+2022,Haziran,25,2022-06-25,19:59,Ulaşım,Otobüs,İzmir,293.77
+2024,Mayıs,19,2024-05-19,07:45,Giyim,Zara,İzmir,961.09
+2024,Mart,2,2024-03-02,13:16,Restoran,Kebap,Ankara,191.69
+2024,Nisan,25,2024-04-25,12:01,Restoran,Kebap,İzmir,140.91
+2024,Mayıs,13,2024-05-13,12:22,Restoran,Kebap,Ankara,46.71
+2023,Ekim,13,2023-10-13,01:19,Giyim,LC Waikiki,İzmir,578.05
+2022,Ekim,24,2022-10-24,06:12,Ulaşım,Taksi,İzmir,341.94
+2022,Aralık,27,2022-12-27,01:09,Ulaşım,Otobüs,İstanbul,300.72
+2022,Haziran,1,2022-06-27,15:58,Fatura,İnternet,İzmir,88.0
+2024,Haziran,11,2024-06-11,12:28,Restoran,Fast Food,İstanbul,133.71
+2024,Nisan,12,2024-04-12,00:16,Giyim,Zara,İstanbul,159.74
+2023,Mart,5,2023-03-05,17:00,Giyim,Zara,İstanbul,570.03
+2023,Ocak,9,2023-01-12,14:42,Fatura,Elektrik,Ankara,105.0
+2024,Mayıs,7,2024-05-21,01:39,Fatura,Elektrik,Ankara,100.0
+2023,Aralık,4,2023-12-04,04:37,Giyim,Zara,Ankara,966.51
+2024,Nisan,24,2024-04-27,05:28,Fatura,Su,Ankara,50.0
+2022,Ekim,16,2022-10-16,01:50,Giyim,H&M,İzmir,121.46
+2023,Şubat,21,2023-02-21,11:26,Giyim,H&M,İstanbul,586.12
+2022,Kasım,8,2022-11-08,12:52,Ulaşım,Benzin,İzmir,389.24
+2023,Mayıs,5,2023-05-05,12:15,Restoran,Pizza,İzmir,131.38
+2022,Mart,7,2022-03-07,14:12,Ulaşım,Otobüs,Ankara,295.59
+2023,Ocak,14,2023-01-14,01:00,Giyim,H&M,Ankara,603.08
+2022,Nisan,2,2022-04-02,20:43,Giyim,H&M,Ankara,944.75
+2022,Ekim,18,2022-10-18,12:58,Restoran,Pizza,Ankara,179.51
+2023,Eylül,11,2023-09-09,16:56,Fatura,İnternet,İstanbul,84.0
+2024,Mart,16,2024-03-15,03:46,Fatura,Su,İstanbul,50.0
+2022,Haziran,21,2022-06-21,22:31,Giyim,Zara,Ankara,168.27
+2024,Mayıs,19,2024-05-19,13:16,Restoran,Kebap,İzmir,183.8
+2023,Mart,13,2023-03-13,11:25,Ulaşım,Benzin,İzmir,24.5
+2023,Kasım,23,2023-11-23,05:18,Giyim,Zara,Ankara,64.61
+2023,Kasım,27,2023-11-27,02:48,Giyim,Zara,İzmir,702.75
+2023,Ocak,13,2023-01-13,13:43,Restoran,Pizza,Ankara,129.93
+2024,Ocak,20,2024-01-20,09:36,Giyim,Zara,İstanbul,409.89
+2022,Mart,8,2022-03-28,09:01,Fatura,Elektrik,İstanbul,110.0
+2022,Ağustos,13,2022-08-05,12:43,Fatura,Su,Ankara,55.0
+2023,Ekim,2,2023-10-02,04:05,Ulaşım,Otobüs,İzmir,483.08
+2023,Haziran,28,2023-06-28,11:19,Ulaşım,Benzin,İzmir,222.84
+2024,Temmuz,11,2024-07-11,07:26,Ulaşım,Otobüs,Ankara,203.34
+2022,Eylül,7,2022-09-07,22:02,Giyim,Zara,İzmir,308.7
+2022,Ağustos,13,2022-08-28,03:37,Fatura,İnternet,İzmir,88.0
+2024,Haziran,4,2024-06-04,00:00,Giyim,LC Waikiki,İzmir,758.1
+2022,Mayıs,3,2022-05-03,15:34,Giyim,H&M,Ankara,157.46
+2024,Temmuz,8,2024-07-02,08:46,Fatura,Elektrik,İzmir,100.0
+2023,Mart,21,2023-03-21,12:18,Restoran,Pizza,Ankara,155.4
+2023,Kasım,1,2023-11-01,23:22,Ulaşım,Otobüs,Ankara,480.74
+2022,Nisan,8,2022-04-08,13:06,Restoran,Pizza,Ankara,140.36
+2024,Şubat,1,2024-02-01,13:05,Restoran,Fast Food,İstanbul,73.08
+2023,Ekim,9,2023-10-09,01:46,Giyim,H&M,Ankara,288.62
+2022,Ağustos,13,2022-08-21,03:56,Fatura,İnternet,İzmir,88.0
+2023,Eylül,11,2023-09-07,00:44,Fatura,İnternet,İzmir,84.0
+2024,Mart,16,2024-03-24,22:31,Fatura,Su,İstanbul,50.0
+2022,Nisan,21,2022-04-21,12:01,Restoran,Fast Food,Ankara,22.22
+2022,Kasım,8,2022-11-08,13:32,Ulaşım,Benzin,Ankara,355.64
+2024,Mayıs,7,2024-05-03,19:11,Fatura,Su,İstanbul,50.0
+2023,Aralık,18,2023-12-18,18:10,Giyim,LC Waikiki,İstanbul,227.39
+2022,Aralık,23,2022-12-23,14:44,Restoran,Fast Food,İstanbul,62.82
+2023,Eylül,27,2023-09-27,23:13,Ulaşım,Otobüs,İzmir,343.12
+2024,Şubat,15,2024-02-15,18:04,Ulaşım,Otobüs,Ankara,124.75
+2023,Ağustos,12,2023-08-12,14:17,Ulaşım,Otobüs,İstanbul,183.69
+2023,Haziran,9,2023-06-09,04:38,Giyim,LC Waikiki,İstanbul,87.12
+2024,Nisan,12,2024-04-12,01:02,Giyim,LC Waikiki,Ankara,583.22
+2022,Ocak,13,2022-01-13,04:37,Giyim,LC Waikiki,İzmir,637.03
+2024,Haziran,24,2024-06-19,11:17,Fatura,Su,İzmir,50.0
+2024,Temmuz,23,2024-07-23,13:28,Restoran,Pizza,İstanbul,93.31
+2023,Ekim,3,2023-10-03,00:09,Giyim,LC Waikiki,Ankara,862.92
+2022,Ağustos,9,2022-08-09,07:18,Giyim,H&M,Ankara,341.48
+2024,Ocak,18,2024-01-18,00:25,Giyim,H&M,İzmir,295.75
+2022,Eylül,10,2022-09-24,15:52,Fatura,Elektrik,İzmir,110.0
+2024,Şubat,16,2024-02-16,13:12,Ulaşım,Benzin,Ankara,445.3
+2023,Aralık,10,2023-12-10,12:08,Ulaşım,Taksi,İzmir,242.26
+2024,Haziran,24,2024-06-04,08:49,Fatura,Elektrik,Ankara,100.0
+2022,Nisan,28,2022-04-11,08:13,Fatura,Elektrik,İzmir,110.0
+2024,Haziran,2,2024-06-02,12:52,Restoran,Fast Food,İstanbul,127.46
+2023,Aralık,11,2023-12-11,12:24,Ulaşım,Benzin,Ankara,63.62
+2023,Eylül,11,2023-09-23,22:31,Fatura,Su,Ankara,52.5
+2023,Mayıs,7,2023-05-04,10:03,Fatura,İnternet,Ankara,84.0
+2022,Aralık,17,2022-12-17,03:31,Ulaşım,Otobüs,İstanbul,24.92
+2022,Mart,27,2022-03-27,13:31,Restoran,Fast Food,İstanbul,132.9
+2022,Nisan,2,2022-04-02,11:07,Ulaşım,Benzin,İzmir,236.67
+2024,Şubat,27,2024-02-06,12:47,Fatura,Elektrik,İstanbul,100.0
+2024,Temmuz,24,2024-07-24,11:23,Ulaşım,Benzin,Ankara,131.24
+2022,Kasım,13,2022-11-01,23:31,Fatura,İnternet,Ankara,88.0
+2022,Ağustos,11,2022-08-11,19:33,Ulaşım,Taksi,Ankara,237.91
+2024,Haziran,16,2024-06-16,22:39,Giyim,LC Waikiki,İzmir,729.63
+2022,Aralık,5,2022-12-05,03:22,Ulaşım,Taksi,Ankara,337.53
+2023,Eylül,10,2023-09-10,11:22,Ulaşım,Benzin,İzmir,165.55
+2022,Ekim,25,2022-10-12,04:58,Fatura,İnternet,İstanbul,88.0
+2023,Nisan,1,2023-04-01,05:58,Giyim,Zara,İzmir,814.22
+2022,Kasım,14,2022-11-14,12:04,Restoran,Kebap,İzmir,169.61
+2022,Haziran,28,2022-06-28,13:40,Ulaşım,Otobüs,İstanbul,325.36
+2023,Kasım,13,2023-11-13,15:29,Giyim,Zara,İzmir,121.95
+2022,Kasım,13,2022-11-14,23:55,Fatura,Su,Ankara,55.0
+2022,Ağustos,13,2022-08-19,09:59,Fatura,İnternet,Ankara,88.0
+2024,Temmuz,8,2024-07-04,21:28,Fatura,İnternet,İzmir,80.0
+2023,Kasım,19,2023-11-19,04:06,Giyim,Zara,İstanbul,705.09
+2023,Eylül,9,2023-09-09,12:34,Restoran,Fast Food,İstanbul,174.54
+2023,Ekim,20,2023-10-20,12:59,Restoran,Pizza,İzmir,140.97
+2022,Aralık,13,2022-12-13,12:06,Restoran,Kebap,İzmir,90.04
+2024,Ocak,27,2024-01-27,16:58,Ulaşım,Taksi,İzmir,21.64
+2023,Nisan,25,2023-04-14,01:49,Fatura,İnternet,Ankara,84.0
+2023,Ekim,20,2023-10-20,07:26,Ulaşım,Otobüs,Ankara,90.68
+2022,Şubat,27,2022-02-27,04:39,Ulaşım,Otobüs,Ankara,311.51
+2023,Ağustos,25,2023-08-19,02:18,Fatura,Su,İstanbul,52.5
+2024,Şubat,13,2024-02-13,13:51,Restoran,Kebap,İstanbul,174.06
+2022,Ocak,25,2022-01-20,14:32,Fatura,Su,İzmir,55.0
+2023,Haziran,14,2023-06-14,16:22,Giyim,Zara,İstanbul,359.41
+2022,Şubat,6,2022-02-22,09:24,Fatura,Elektrik,Ankara,110.0
+2024,Şubat,2,2024-02-02,19:12,Giyim,H&M,Ankara,345.41
+2024,Haziran,2,2024-06-02,22:58,Ulaşım,Taksi,İzmir,408.46
+2024,Haziran,24,2024-06-13,13:33,Fatura,İnternet,İstanbul,80.0
+2022,Temmuz,12,2022-07-22,21:39,Fatura,Elektrik,İstanbul,110.0
+2022,Ekim,3,2022-10-03,06:20,Giyim,H&M,Ankara,930.18
+2024,Ocak,1,2024-01-01,18:17,Ulaşım,Otobüs,Ankara,21.38
+2023,Nisan,21,2023-04-21,02:29,Ulaşım,Otobüs,İzmir,470.6
+2024,Mayıs,2,2024-05-02,08:41,Giyim,H&M,İstanbul,560.89
+2022,Mayıs,3,2022-05-03,12:03,Restoran,Pizza,İstanbul,107.16
+2023,Temmuz,4,2023-07-04,12:50,Restoran,Pizza,İstanbul,180.71
+2022,Şubat,16,2022-02-16,12:43,Restoran,Kebap,İstanbul,183.69
+2024,Nisan,24,2024-04-19,14:05,Fatura,Su,İstanbul,50.0
+2022,Ekim,2,2022-10-02,14:23,Restoran,Fast Food,İzmir,190.57
+2022,Eylül,26,2022-09-26,19:29,Giyim,H&M,Ankara,927.28
+2024,Haziran,11,2024-06-11,12:21,Ulaşım,Benzin,İzmir,176.57
+2022,Şubat,6,2022-02-15,15:54,Fatura,Elektrik,Ankara,110.0
+2023,Ağustos,25,2023-08-21,23:00,Fatura,Elektrik,İzmir,105.0
+2024,Mart,27,2024-03-27,17:22,Giyim,H&M,İstanbul,61.86
+2024,Nisan,17,2024-04-17,12:04,Giyim,H&M,İzmir,915.88
+2024,Nisan,7,2024-04-07,09:45,Giyim,H&M,İstanbul,95.14
+2024,Haziran,16,2024-06-16,20:41,Giyim,LC Waikiki,Ankara,921.57
+2023,Aralık,21,2023-12-21,12:12,Ulaşım,Benzin,İstanbul,327.15
+2024,Haziran,8,2024-06-08,12:45,Restoran,Kebap,Ankara,125.65
+2022,Ocak,5,2022-01-05,12:32,Ulaşım,Benzin,İstanbul,394.17
+2022,Haziran,11,2022-06-11,18:06,Ulaşım,Otobüs,İstanbul,377.03
+2023,Nisan,21,2023-04-21,18:39,Ulaşım,Otobüs,İstanbul,217.69
+2024,Ocak,21,2024-01-23,12:49,Fatura,İnternet,İzmir,80.0
+2022,Ağustos,13,2022-08-13,23:24,Giyim,LC Waikiki,İzmir,579.02
+2022,Temmuz,6,2022-07-06,12:33,Restoran,Kebap,Ankara,78.35
+2024,Nisan,8,2024-04-08,12:56,Ulaşım,Otobüs,Ankara,299.57
+2024,Temmuz,8,2024-07-04,04:43,Fatura,Elektrik,İstanbul,100.0
+2022,Kasım,28,2022-11-28,19:28,Giyim,LC Waikiki,Ankara,919.94
+2023,Nisan,25,2023-04-25,02:36,Ulaşım,Taksi,İzmir,300.85
+2022,Eylül,26,2022-09-26,15:36,Giyim,LC Waikiki,Ankara,933.46
+2024,Mayıs,27,2024-05-27,12:48,Giyim,LC Waikiki,İzmir,210.12
+2023,Kasım,14,2023-11-19,19:43,Fatura,Su,İstanbul,52.5
+2024,Haziran,1,2024-06-01,14:58,Restoran,Kebap,İzmir,166.9
+2023,Aralık,7,2023-12-07,02:35,Ulaşım,Taksi,İstanbul,381.34
+2024,Ocak,21,2024-01-28,18:15,Fatura,İnternet,Ankara,80.0
+2022,Ağustos,2,2022-08-02,12:57,Restoran,Kebap,İzmir,47.78
+2023,Mart,26,2023-03-26,21:12,Fatura,Elektrik,Ankara,105.0
+2024,Nisan,13,2024-04-13,00:31,Ulaşım,Otobüs,Ankara,226.32
+2023,Mayıs,8,2023-05-08,09:39,Giyim,Zara,İstanbul,612.17
+2024,Şubat,17,2024-02-17,14:00,Giyim,LC Waikiki,Ankara,103.37
+2022,Şubat,10,2022-02-10,05:47,Giyim,LC Waikiki,İzmir,190.4
+2024,Ocak,14,2024-01-14,21:07,Giyim,LC Waikiki,İzmir,587.85
+2023,Haziran,5,2023-06-05,08:46,Ulaşım,Otobüs,Ankara,403.66
+2022,Kasım,4,2022-11-04,05:24,Giyim,H&M,İzmir,236.32
+2022,Nisan,28,2022-04-03,12:22,Fatura,İnternet,Ankara,88.0
+2022,Aralık,28,2022-12-28,11:59,Ulaşım,Benzin,İstanbul,276.17
+2024,Şubat,5,2024-02-05,12:13,Ulaşım,Otobüs,İstanbul,160.55
+2023,Nisan,25,2023-04-04,13:50,Fatura,Elektrik,İzmir,105.0
+2022,Aralık,1,2022-12-01,11:26,Ulaşım,Taksi,Ankara,344.71
+2022,Mayıs,14,2022-05-27,22:04,Fatura,İnternet,Ankara,88.0
+2024,Haziran,24,2024-06-26,23:14,Fatura,Su,Ankara,50.0
+2024,Nisan,7,2024-04-07,08:43,Giyim,Zara,Ankara,66.83
+2022,Ocak,25,2022-01-05,10:56,Fatura,İnternet,Ankara,88.0
+2022,Aralık,16,2022-12-19,15:18,Fatura,Su,İstanbul,55.0
+2024,Mart,16,2024-03-21,05:44,Fatura,Elektrik,İstanbul,100.0
+2022,Nisan,17,2022-04-17,00:16,Ulaşım,Otobüs,İstanbul,140.59
+2022,Haziran,18,2022-06-18,09:28,Giyim,H&M,İzmir,188.53
+2023,Eylül,11,2023-09-12,22:59,Fatura,Elektrik,Ankara,105.0
+2023,Haziran,9,2023-06-12,17:09,Fatura,İnternet,İzmir,84.0
+2022,Eylül,23,2022-09-23,20:12,Ulaşım,Taksi,İzmir,136.51
+2022,Mart,12,2022-03-12,12:52,Ulaşım,Benzin,İstanbul,261.9
+2024,Şubat,15,2024-02-15,12:40,Restoran,Fast Food,İstanbul,117.9
+2023,Nisan,2,2023-04-02,12:52,Restoran,Fast Food,İstanbul,188.65
+2022,Haziran,7,2022-06-07,11:34,Ulaşım,Taksi,İzmir,247.24
+2024,Temmuz,24,2024-07-24,14:13,Restoran,Pizza,Ankara,80.44
+2023,Kasım,2,2023-11-02,01:49,Giyim,LC Waikiki,İzmir,524.77
+2023,Eylül,3,2023-09-03,15:30,Ulaşım,Otobüs,İstanbul,214.93
+2023,Temmuz,6,2023-07-06,12:55,Ulaşım,Benzin,İstanbul,233.34
+2023,Haziran,15,2023-06-15,12:12,Restoran,Pizza,İzmir,164.13
+2023,Ekim,15,2023-10-15,21:55,Giyim,H&M,Ankara,612.57
+2023,Haziran,1,2023-06-01,20:22,Giyim,Zara,İzmir,464.58
+2023,Temmuz,23,2023-07-23,13:59,Restoran,Pizza,İzmir,166.28
+2024,Nisan,1,2024-04-01,13:20,Restoran,Pizza,Ankara,130.07
+2023,Nisan,20,2023-04-20,12:49,Ulaşım,Benzin,Ankara,351.12
+2022,Ekim,15,2022-10-15,12:07,Ulaşım,Otobüs,İstanbul,140.29
+2022,Mart,4,2022-03-04,08:18,Giyim,Zara,İstanbul,648.09
+2023,Eylül,6,2023-09-06,19:01,Giyim,Zara,Ankara,457.1
+2024,Ocak,21,2024-01-25,22:01,Fatura,Su,Ankara,50.0
+2024,Temmuz,5,2024-07-05,07:04,Giyim,H&M,İstanbul,561.89
+2022,Mayıs,5,2022-05-05,14:33,Restoran,Fast Food,İstanbul,95.7
+2024,Temmuz,8,2024-07-22,06:40,Fatura,İnternet,Ankara,80.0
+2022,Eylül,10,2022-09-10,15:35,Giyim,Zara,İzmir,339.48
+2024,Ocak,27,2024-01-27,20:13,Giyim,H&M,İstanbul,94.41
+2024,Haziran,24,2024-06-24,13:09,Ulaşım,Benzin,İzmir,498.29
+2022,Kasım,27,2022-11-27,12:12,Ulaşım,Benzin,İstanbul,421.11
+2022,Eylül,4,2022-09-04,00:41,Giyim,H&M,Ankara,656.66
+2024,Mayıs,15,2024-05-15,09:09,Ulaşım,Taksi,İzmir,452.51
+2024,Şubat,27,2024-02-24,21:45,Fatura,Su,Ankara,50.0
+2023,Kasım,23,2023-11-23,12:13,Restoran,Pizza,İstanbul,123.97
+2022,Mart,2,2022-03-02,12:36,Ulaşım,Taksi,İzmir,152.14
+2022,Ocak,8,2022-01-08,09:01,Ulaşım,Otobüs,İzmir,374.36
+2023,Nisan,9,2023-04-09,13:32,Restoran,Pizza,İzmir,124.48
+2022,Şubat,21,2022-02-21,12:35,Restoran,Pizza,İstanbul,180.17
+2022,Nisan,10,2022-04-10,19:06,Ulaşım,Taksi,İstanbul,342.51
+2023,Ağustos,25,2023-08-25,15:48,Ulaşım,Taksi,İzmir,262.98
+2022,Nisan,24,2022-04-24,14:29,Restoran,Pizza,İzmir,79.42
+2022,Haziran,9,2022-06-09,08:23,Giyim,Zara,İzmir,387.76
+2022,Mayıs,14,2022-05-12,11:56,Fatura,Elektrik,İzmir,110.0
+2024,Mart,24,2024-03-24,20:25,Giyim,Zara,İzmir,343.38
+2022,Şubat,22,2022-02-22,03:30,Giyim,Zara,İstanbul,416.86
+2024,Mart,16,2024-03-16,14:43,Restoran,Kebap,İstanbul,68.04
+2024,Ocak,13,2024-01-13,18:17,Giyim,Zara,Ankara,950.13
+2022,Ağustos,19,2022-08-19,13:03,Ulaşım,Benzin,İzmir,359.74
+2024,Mayıs,16,2024-05-16,07:34,Giyim,H&M,İstanbul,474.77
+2022,Ağustos,13,2022-08-20,01:35,Fatura,Elektrik,İstanbul,110.0
+2022,Haziran,6,2022-06-06,23:00,Ulaşım,Otobüs,Ankara,77.48
+2022,Mayıs,6,2022-05-06,08:32,Ulaşım,Otobüs,İzmir,425.33
+2024,Mart,11,2024-03-11,02:11,Giyim,H&M,İzmir,87.19
+2023,Mart,23,2023-03-23,23:03,Giyim,Zara,İstanbul,406.34
+2024,Mart,16,2024-03-17,03:42,Fatura,Su,Ankara,50.0
+2023,Aralık,11,2023-12-11,05:36,Ulaşım,Otobüs,Ankara,437.69
+2024,Şubat,23,2024-02-23,02:56,Ulaşım,Otobüs,İzmir,18.05
+2023,Ekim,10,2023-10-10,12:26,Giyim,LC Waikiki,İstanbul,823.27
+2023,Nisan,7,2023-04-07,13:10,Ulaşım,Benzin,İstanbul,203.45
+2022,Aralık,16,2022-12-10,00:17,Fatura,Su,İzmir,55.0
+2022,Aralık,14,2022-12-14,12:46,Restoran,Pizza,Ankara,57.07
+2022,Aralık,20,2022-12-20,13:31,Giyim,LC Waikiki,İstanbul,152.3
+2023,Eylül,20,2023-09-20,12:18,Restoran,Kebap,İstanbul,181.7
+2022,Eylül,10,2022-09-02,13:50,Fatura,Elektrik,İzmir,110.0
+2024,Şubat,27,2024-02-05,18:35,Fatura,Elektrik,İzmir,100.0
+2024,Şubat,19,2024-02-19,12:23,Restoran,Fast Food,Ankara,49.4
+2022,Mayıs,24,2022-05-24,12:00,Restoran,Pizza,İstanbul,47.57
+2022,Haziran,23,2022-06-23,13:05,Restoran,Fast Food,Ankara,182.61
+2023,Ekim,20,2023-10-16,05:42,Fatura,Su,İzmir,52.5
+2024,Nisan,24,2024-04-25,01:18,Fatura,İnternet,Ankara,80.0
+2024,Nisan,23,2024-04-23,14:55,Restoran,Pizza,Ankara,191.11
+2024,Ocak,22,2024-01-22,15:32,Ulaşım,Otobüs,Ankara,401.97
+2024,Haziran,24,2024-06-06,02:36,Fatura,Su,İstanbul,50.0
+2024,Mart,14,2024-03-14,14:40,Giyim,Zara,Ankara,755.04
+2024,Haziran,21,2024-06-21,03:17,Giyim,Zara,İstanbul,730.43
+2024,Haziran,18,2024-06-18,12:36,Restoran,Pizza,Ankara,72.38
+2024,Şubat,27,2024-02-27,17:57,Fatura,Su,Ankara,50.0
+2022,Temmuz,28,2022-07-28,03:32,Ulaşım,Otobüs,Ankara,287.68
+2022,Temmuz,8,2022-07-08,12:51,Giyim,H&M,İzmir,725.87
+2022,Mart,19,2022-03-19,14:01,Restoran,Kebap,Ankara,152.07
+2022,Ekim,12,2022-10-12,20:45,Giyim,H&M,İstanbul,883.18
+2024,Nisan,14,2024-04-14,14:28,Restoran,Fast Food,İstanbul,101.79
+2024,Şubat,15,2024-02-15,12:57,Restoran,Fast Food,İstanbul,198.91
+2022,Ekim,25,2022-10-06,11:41,Fatura,İnternet,İzmir,88.0
+2023,Aralık,1,2023-12-28,21:49,Fatura,Su,İstanbul,52.5
+2024,Haziran,11,2024-06-11,05:00,Ulaşım,Taksi,İzmir,16.68
+2023,Ağustos,11,2023-08-11,12:34,Ulaşım,Taksi,İstanbul,295.42
+2024,Mart,15,2024-03-15,12:30,Restoran,Pizza,İstanbul,160.64
+2023,Temmuz,21,2023-07-06,10:25,Fatura,Elektrik,İstanbul,105.0
+2024,Mayıs,21,2024-05-21,22:04,Ulaşım,Otobüs,İzmir,184.82
+2022,Haziran,1,2022-06-01,10:47,Fatura,İnternet,İstanbul,88.0
+2022,Nisan,27,2022-04-27,12:32,Giyim,LC Waikiki,İzmir,354.24
+2023,Ocak,7,2023-01-07,19:37,Giyim,LC Waikiki,İzmir,820.59
+2023,Nisan,20,2023-04-20,12:24,Restoran,Pizza,İzmir,57.49
+2023,Ağustos,18,2023-08-18,16:09,Giyim,Zara,İzmir,105.41
+2024,Nisan,12,2024-04-12,14:33,Restoran,Fast Food,Ankara,135.17
+2022,Mart,8,2022-03-26,11:04,Fatura,Su,İzmir,55.0
+2024,Nisan,22,2024-04-22,16:31,Ulaşım,Otobüs,İstanbul,246.33
+2023,Mayıs,7,2023-05-20,10:41,Fatura,Elektrik,İstanbul,105.0
+2024,Mayıs,23,2024-05-23,12:19,Giyim,Zara,Ankara,291.43
+2022,Ocak,17,2022-01-17,12:58,Ulaşım,Benzin,İzmir,157.36
+2024,Mayıs,7,2024-05-08,10:15,Fatura,Su,İstanbul,50.0
+2023,Mart,23,2023-03-23,12:57,Ulaşım,Benzin,Ankara,257.09
+2024,Mart,2,2024-03-02,12:10,Restoran,Pizza,İstanbul,138.02
+2023,Nisan,25,2023-04-03,19:23,Fatura,Elektrik,Ankara,105.0
+2022,Temmuz,20,2022-07-20,15:46,Ulaşım,Otobüs,Ankara,243.59
+2024,Ocak,27,2024-01-27,14:14,Restoran,Kebap,Ankara,69.5
+2024,Nisan,26,2024-04-26,06:31,Giyim,LC Waikiki,İzmir,174.41
+2022,Şubat,6,2022-02-08,13:08,Fatura,Elektrik,İstanbul,110.0
+2024,Şubat,10,2024-02-10,14:35,Giyim,LC Waikiki,İzmir,443.87
+2024,Mart,11,2024-03-11,14:28,Restoran,Pizza,Ankara,138.8
+2022,Aralık,16,2022-12-24,09:02,Fatura,Su,İstanbul,55.0
+2023,Eylül,11,2023-09-04,14:18,Fatura,Elektrik,İzmir,105.0
+2024,Temmuz,9,2024-07-09,13:56,Restoran,Pizza,Ankara,47.95
+2023,Ağustos,27,2023-08-27,01:36,Ulaşım,Otobüs,İstanbul,194.28
+2022,Aralık,20,2022-12-20,18:25,Giyim,H&M,Ankara,125.35
+2024,Mart,23,2024-03-23,13:59,Restoran,Kebap,Ankara,127.46
+2024,Temmuz,28,2024-07-28,14:31,Restoran,Kebap,İstanbul,188.06
+2022,Ocak,9,2022-01-09,12:43,Restoran,Pizza,İzmir,100.81
+2024,Mart,14,2024-03-14,14:35,Restoran,Pizza,Ankara,102.55
+2024,Mayıs,13,2024-05-13,12:57,Restoran,Fast Food,İzmir,27.77
+2024,Ocak,22,2024-01-22,12:46,Ulaşım,Benzin,Ankara,303.08
+2024,Mayıs,7,2024-05-07,15:32,Giyim,H&M,İzmir,983.29
+2024,Mart,16,2024-03-16,02:14,Ulaşım,Taksi,İzmir,146.03
+2024,Temmuz,12,2024-07-12,12:25,Restoran,Pizza,İzmir,54.51
+2023,Şubat,16,2023-02-16,11:10,Ulaşım,Benzin,Ankara,385.36
+2023,Nisan,25,2023-04-18,21:55,Fatura,Elektrik,İstanbul,105.0
+2022,Ekim,25,2022-10-14,04:26,Fatura,İnternet,İstanbul,88.0
+2023,Kasım,14,2023-11-07,10:02,Fatura,Elektrik,İstanbul,105.0
+2022,Eylül,1,2022-09-01,19:15,Giyim,H&M,Ankara,557.19
+2022,Ocak,15,2022-01-15,13:30,Ulaşım,Benzin,Ankara,222.17
+2024,Mart,19,2024-03-19,17:27,Giyim,Zara,Ankara,819.41
+2022,Mart,8,2022-03-17,03:48,Fatura,Elektrik,Ankara,110.0
+2024,Mart,11,2024-03-11,13:04,Restoran,Fast Food,Ankara,28.77
+2024,Nisan,24,2024-04-10,09:21,Fatura,Elektrik,Ankara,100.0
+2022,Mayıs,24,2022-05-24,18:30,Giyim,H&M,İzmir,246.29
+2023,Eylül,26,2023-09-26,13:10,Ulaşım,Benzin,Ankara,12.81
+2024,Mayıs,7,2024-05-22,12:09,Fatura,Su,İzmir,50.0
+2023,Kasım,3,2023-11-03,14:20,Restoran,Fast Food,İzmir,181.06
+2022,Mayıs,21,2022-05-21,13:49,Ulaşım,Benzin,İzmir,257.46
+2022,Temmuz,27,2022-07-27,11:17,Ulaşım,Benzin,İzmir,98.45
+2023,Mart,16,2023-03-16,13:24,Restoran,Pizza,Ankara,79.64
+2024,Temmuz,26,2024-07-26,20:09,Giyim,LC Waikiki,İzmir,400.25
+2024,Şubat,5,2024-02-05,19:34,Giyim,Zara,İzmir,330.38
+2023,Temmuz,12,2023-07-12,14:52,Restoran,Pizza,İzmir,124.9
+2024,Nisan,1,2024-04-01,14:56,Restoran,Fast Food,İstanbul,51.49
+2023,Haziran,9,2023-06-09,21:24,Giyim,Zara,İzmir,296.26
+2023,Aralık,22,2023-12-22,12:26,Restoran,Kebap,İzmir,143.33
+2022,Nisan,20,2022-04-20,07:45,Ulaşım,Taksi,İzmir,74.36
+2022,Mayıs,3,2022-05-03,00:20,Giyim,H&M,İzmir,486.73
+2022,Haziran,1,2022-06-19,00:57,Fatura,Elektrik,Ankara,110.0
+2022,Eylül,17,2022-09-17,14:29,Giyim,H&M,İzmir,828.22
+2024,Ocak,17,2024-01-17,12:44,Restoran,Kebap,İstanbul,130.44
+2024,Ocak,25,2024-01-25,03:54,Giyim,LC Waikiki,İzmir,440.55
+2023,Nisan,25,2023-04-18,18:42,Fatura,İnternet,Ankara,84.0
+2022,Nisan,9,2022-04-09,12:18,Restoran,Fast Food,İstanbul,98.48
+2024,Haziran,22,2024-06-22,03:25,Ulaşım,Otobüs,İzmir,96.35
+2022,Ağustos,13,2022-08-13,14:11,Fatura,Elektrik,İstanbul,110.0
+2022,Kasım,5,2022-11-05,13:27,Restoran,Fast Food,İzmir,95.36
+2023,Mart,5,2023-03-05,10:40,Giyim,H&M,İstanbul,515.71
+2022,Ekim,27,2022-10-27,12:33,Restoran,Kebap,İzmir,74.92
+2022,Ağustos,13,2022-08-25,17:58,Fatura,Su,İzmir,55.0
+2024,Ocak,28,2024-01-28,15:33,Giyim,H&M,İzmir,321.61
+2022,Ocak,6,2022-01-06,14:33,Restoran,Kebap,Ankara,169.28
+2024,Mart,16,2024-03-12,09:21,Fatura,İnternet,İstanbul,80.0
+2022,Mart,11,2022-03-11,23:39,Giyim,LC Waikiki,Ankara,515.61
+2024,Nisan,6,2024-04-06,11:06,Ulaşım,Taksi,İzmir,498.07
+2022,Ağustos,10,2022-08-10,19:02,Ulaşım,Taksi,İstanbul,59.6
+2024,Ocak,27,2024-01-27,07:44,Giyim,H&M,İstanbul,920.71
+2024,Haziran,9,2024-06-09,19:37,Giyim,LC Waikiki,İzmir,263.43
+2022,Ağustos,4,2022-08-04,13:43,Restoran,Kebap,İzmir,153.5
+2024,Ocak,19,2024-01-19,14:35,Restoran,Kebap,Ankara,25.61
+2022,Eylül,5,2022-09-05,08:54,Ulaşım,Otobüs,İzmir,48.29
+2023,Ocak,9,2023-01-14,02:42,Fatura,Su,İzmir,52.5
+2023,Ağustos,24,2023-08-24,10:20,Ulaşım,Taksi,İstanbul,469.46
+2022,Nisan,4,2022-04-04,17:41,Giyim,H&M,İstanbul,109.76
+2023,Mart,2,2023-03-02,12:05,Ulaşım,Benzin,Ankara,12.0
+2022,Şubat,24,2022-02-24,14:50,Restoran,Kebap,Ankara,36.86
+2024,Haziran,24,2024-06-21,18:02,Fatura,Elektrik,Ankara,100.0
+2024,Haziran,24,2024-06-27,07:06,Fatura,Elektrik,İzmir,100.0
+2024,Mart,27,2024-03-27,14:36,Restoran,Pizza,İzmir,52.07
+2022,Kasım,28,2022-11-28,22:00,Giyim,Zara,Ankara,532.86
+2023,Ağustos,25,2023-08-05,22:33,Fatura,İnternet,İstanbul,84.0
+2024,Ocak,21,2024-01-21,10:09,Ulaşım,Taksi,İzmir,338.42
+2024,Temmuz,4,2024-07-04,12:50,Restoran,Fast Food,İzmir,20.85
+2024,Haziran,24,2024-06-22,04:20,Fatura,Elektrik,İzmir,100.0
+2023,Mayıs,13,2023-05-13,14:49,Restoran,Fast Food,Ankara,28.53
+2022,Eylül,10,2022-09-25,21:32,Fatura,Elektrik,İstanbul,110.0
+2023,Aralık,16,2023-12-16,14:18,Giyim,LC Waikiki,İzmir,650.17
+2024,Nisan,24,2024-04-11,15:09,Fatura,Elektrik,İstanbul,100.0
+2022,Haziran,11,2022-06-11,12:37,Restoran,Pizza,İstanbul,75.21
+2022,Kasım,13,2022-11-13,20:03,Giyim,LC Waikiki,İstanbul,261.41
+2023,Aralık,24,2023-12-24,03:19,Giyim,LC Waikiki,İzmir,90.78
+2022,Haziran,16,2022-06-16,13:11,Restoran,Pizza,İstanbul,165.58
+2024,Nisan,24,2024-04-23,22:06,Fatura,İnternet,İstanbul,80.0
+2024,Nisan,8,2024-04-08,03:14,Giyim,LC Waikiki,İzmir,724.8
+2023,Mayıs,19,2023-05-19,13:11,Restoran,Kebap,İstanbul,122.77
+2022,Ocak,16,2022-01-16,14:32,Giyim,LC Waikiki,Ankara,436.35
+2024,Haziran,3,2024-06-03,18:48,Giyim,H&M,Ankara,265.82
+2023,Aralık,25,2023-12-25,14:56,Restoran,Pizza,İzmir,36.44
+2022,Ekim,16,2022-10-16,11:36,Ulaşım,Benzin,Ankara,320.01
+2022,Kasım,28,2022-11-28,14:07,Restoran,Kebap,İstanbul,106.93
+2023,Haziran,9,2023-06-15,05:03,Fatura,Elektrik,İzmir,105.0
+2024,Ocak,11,2024-01-11,10:18,Giyim,H&M,Ankara,99.0
+2024,Nisan,11,2024-04-11,13:27,Restoran,Fast Food,Ankara,134.67
+2024,Mayıs,28,2024-05-28,13:14,Restoran,Pizza,İzmir,112.54
+2023,Şubat,6,2023-02-06,12:24,Restoran,Fast Food,Ankara,79.37
+2024,Temmuz,10,2024-07-10,05:15,Giyim,Zara,İstanbul,434.42
+2024,Nisan,28,2024-04-28,14:34,Restoran,Kebap,İzmir,131.71
+2024,Ocak,9,2024-01-09,22:43,Ulaşım,Taksi,İzmir,155.49
+2023,Şubat,26,2023-02-26,13:07,Ulaşım,Benzin,Ankara,448.39
+2024,Mayıs,25,2024-05-25,05:15,Giyim,Zara,İstanbul,822.0
+2023,Mart,12,2023-03-12,15:45,Giyim,Zara,İstanbul,311.64
+2022,Ağustos,12,2022-08-12,14:44,Restoran,Pizza,Ankara,183.8
+2022,Mayıs,14,2022-05-06,13:04,Fatura,Su,İstanbul,55.0
+2023,Kasım,14,2023-11-05,06:38,Fatura,İnternet,İstanbul,84.0
+2024,Mayıs,22,2024-05-22,06:00,Ulaşım,Otobüs,İstanbul,114.52
+2023,Ekim,7,2023-10-07,14:36,Giyim,LC Waikiki,İstanbul,665.0
+2022,Kasım,13,2022-11-10,12:16,Fatura,Elektrik,İstanbul,110.0
+2023,Ağustos,27,2023-08-27,11:32,Ulaşım,Benzin,İstanbul,215.97
+2024,Haziran,24,2024-06-19,14:45,Fatura,Elektrik,Ankara,100.0
+2024,Nisan,5,2024-04-05,13:48,Restoran,Pizza,Ankara,87.0
+2023,Aralık,12,2023-12-12,05:45,Giyim,H&M,İzmir,452.66
+2024,Nisan,24,2024-04-08,06:56,Fatura,Elektrik,İzmir,100.0
+2022,Eylül,18,2022-09-18,14:15,Restoran,Fast Food,İzmir,58.12
+2023,Ağustos,20,2023-08-20,01:39,Giyim,Zara,Ankara,142.72
+2022,Nisan,28,2022-04-04,02:36,Fatura,Su,Ankara,55.0
+2024,Mayıs,16,2024-05-16,12:06,Restoran,Fast Food,İzmir,57.73
+2024,Haziran,18,2024-06-18,13:27,Restoran,Fast Food,Ankara,191.77
+2024,Ocak,21,2024-01-22,10:09,Fatura,Elektrik,Ankara,100.0
+2024,Nisan,17,2024-04-17,12:37,Restoran,Fast Food,Ankara,120.54
+2023,Mayıs,7,2023-05-18,03:02,Fatura,İnternet,İzmir,84.0
+2024,Nisan,13,2024-04-13,14:36,Restoran,Pizza,İstanbul,102.37
+2023,Nisan,5,2023-04-05,08:31,Giyim,Zara,İstanbul,290.32
+2022,Mayıs,1,2022-05-01,23:57,Giyim,Zara,İzmir,164.67
+2023,Haziran,2,2023-06-02,13:47,Restoran,Kebap,İzmir,127.13
+2023,Ocak,1,2023-01-01,18:49,Giyim,LC Waikiki,İzmir,139.73
+2024,Haziran,22,2024-06-22,22:08,Giyim,LC Waikiki,İstanbul,84.09
+2024,Temmuz,8,2024-07-06,14:04,Fatura,İnternet,İzmir,80.0
+2024,Mayıs,7,2024-05-07,12:47,Restoran,Pizza,İzmir,145.98
+2024,Mart,28,2024-03-28,12:02,Restoran,Pizza,İstanbul,109.78
+2023,Ocak,26,2023-01-26,14:21,Restoran,Pizza,İzmir,151.36
+2024,Temmuz,8,2024-07-02,18:04,Fatura,İnternet,İzmir,80.0
+2024,Temmuz,11,2024-07-11,14:31,Restoran,Kebap,Ankara,154.07
+2023,Ekim,20,2023-10-17,23:38,Fatura,Su,Ankara,52.5
+2022,Kasım,3,2022-11-03,14:28,Restoran,Pizza,İzmir,102.25
+2023,Kasım,14,2023-11-06,06:41,Fatura,Elektrik,İzmir,105.0
+2022,Mart,5,2022-03-05,13:03,Ulaşım,Otobüs,İzmir,364.32
+2022,Kasım,28,2022-11-28,17:07,Giyim,Zara,İzmir,232.93
+2023,Nisan,25,2023-04-27,17:01,Fatura,İnternet,İstanbul,84.0
+2024,Şubat,9,2024-02-09,13:25,Restoran,Fast Food,İzmir,127.89
+2023,Ağustos,14,2023-08-14,05:15,Ulaşım,Taksi,İstanbul,66.34
+2023,Ocak,3,2023-01-03,13:37,Giyim,LC Waikiki,Ankara,836.14
+2023,Mayıs,2,2023-05-02,12:48,Restoran,Pizza,İstanbul,59.58
+2024,Mayıs,13,2024-05-13,13:47,Restoran,Kebap,Ankara,36.35
+2024,Şubat,21,2024-02-21,14:39,Restoran,Pizza,İstanbul,168.55
+2023,Temmuz,8,2023-07-08,09:12,Ulaşım,Otobüs,İzmir,230.04
+2022,Kasım,4,2022-11-04,17:04,Ulaşım,Otobüs,Ankara,46.8
+2023,Mart,14,2023-03-14,14:30,Restoran,Pizza,İstanbul,108.21
+2022,Ocak,19,2022-01-19,12:32,Restoran,Kebap,İzmir,82.97
+2024,Temmuz,8,2024-07-17,13:18,Fatura,Su,Ankara,50.0
+2023,Aralık,1,2023-12-23,22:43,Fatura,Elektrik,İstanbul,105.0
+2022,Nisan,24,2022-04-24,08:15,Giyim,Zara,Ankara,917.93
+2023,Mart,26,2023-03-04,05:13,Fatura,İnternet,İstanbul,84.0
+2023,Eylül,14,2023-09-14,13:10,Ulaşım,Benzin,İzmir,117.28
+2022,Ekim,7,2022-10-07,11:46,Ulaşım,Otobüs,Ankara,269.77
+2022,Kasım,15,2022-11-15,12:47,Restoran,Fast Food,İzmir,128.41
+2024,Mart,28,2024-03-28,11:27,Giyim,H&M,İstanbul,114.96
+2024,Mayıs,10,2024-05-10,13:17,Giyim,LC Waikiki,İstanbul,673.01
+2023,Şubat,14,2023-02-14,01:50,Giyim,H&M,İstanbul,661.14
+2024,Nisan,24,2024-04-09,05:17,Fatura,Elektrik,Ankara,100.0
+2023,Kasım,21,2023-11-21,16:44,Giyim,Zara,İzmir,799.6
+2024,Temmuz,2,2024-07-02,11:26,Ulaşım,Benzin,Ankara,48.35
+2022,Aralık,28,2022-12-28,12:16,Restoran,Pizza,İstanbul,46.54
+2024,Mart,27,2024-03-27,14:50,Restoran,Kebap,Ankara,141.52
+2023,Kasım,27,2023-11-27,13:33,Restoran,Pizza,Ankara,25.45
+2024,Mayıs,20,2024-05-20,06:19,Giyim,Zara,İstanbul,711.69
+2022,Nisan,20,2022-04-20,14:13,Giyim,Zara,Ankara,288.26
+2022,Kasım,17,2022-11-17,13:23,Ulaşım,Taksi,İstanbul,432.03
+2022,Nisan,28,2022-04-23,02:51,Fatura,İnternet,Ankara,88.0
+2022,Kasım,13,2022-11-02,23:26,Fatura,Su,İzmir,55.0
+2022,Ağustos,27,2022-08-27,03:51,Ulaşım,Otobüs,İzmir,56.73
+2022,Temmuz,12,2022-07-28,18:06,Fatura,Su,İzmir,55.0
+2024,Temmuz,21,2024-07-21,12:37,Restoran,Pizza,Ankara,37.07
+2022,Temmuz,27,2022-07-27,12:22,Restoran,Fast Food,Ankara,157.74
+2024,Mart,3,2024-03-03,13:28,Ulaşım,Benzin,Ankara,75.28
+2024,Şubat,27,2024-02-04,03:53,Fatura,İnternet,İstanbul,80.0
+2023,Ocak,10,2023-01-10,14:04,Restoran,Kebap,İzmir,130.24
+2023,Aralık,6,2023-12-06,14:44,Restoran,Kebap,İstanbul,96.44
+2022,Ocak,12,2022-01-12,21:25,Giyim,Zara,İzmir,338.55
+2024,Mayıs,7,2024-05-10,02:45,Fatura,İnternet,İstanbul,80.0
+2023,Şubat,7,2023-02-07,11:37,Ulaşım,Taksi,İzmir,172.63
+2022,Mart,3,2022-03-03,13:10,Restoran,Pizza,Ankara,70.77
+2024,Şubat,8,2024-02-08,18:43,Giyim,LC Waikiki,İzmir,345.51
+2023,Nisan,25,2023-04-25,06:01,Giyim,LC Waikiki,Ankara,857.12
+2024,Haziran,27,2024-06-27,19:49,Ulaşım,Taksi,İzmir,72.81
+2023,Şubat,22,2023-02-22,17:08,Ulaşım,Otobüs,İstanbul,402.4
+2023,Ekim,15,2023-10-15,17:28,Giyim,H&M,İstanbul,591.38
+2024,Nisan,24,2024-04-20,17:01,Fatura,Su,Ankara,50.0
+2022,Mayıs,11,2022-05-11,12:31,Ulaşım,Benzin,Ankara,150.48
+2022,Haziran,1,2022-06-11,06:33,Fatura,Su,İzmir,55.0
+2024,Ocak,4,2024-01-04,06:56,Ulaşım,Otobüs,İzmir,416.13
+2023,Haziran,8,2023-06-08,06:00,Ulaşım,Otobüs,İzmir,474.53
+2022,Mayıs,23,2022-05-23,14:46,Restoran,Kebap,Ankara,57.09
+2022,Mart,15,2022-03-15,01:50,Giyim,LC Waikiki,İzmir,646.95
+2023,Haziran,9,2023-06-05,00:15,Fatura,İnternet,İzmir,84.0
+2024,Şubat,8,2024-02-08,10:54,Giyim,Zara,Ankara,180.65
+2024,Temmuz,22,2024-07-22,08:12,Giyim,H&M,İzmir,381.25
+2024,Ocak,2,2024-01-02,12:17,Ulaşım,Benzin,Ankara,12.53
+2024,Mayıs,26,2024-05-26,16:02,Giyim,LC Waikiki,Ankara,406.82
+2024,Temmuz,19,2024-07-19,13:06,Ulaşım,Benzin,İstanbul,133.42
+2023,Aralık,1,2023-12-11,02:25,Fatura,İnternet,İstanbul,84.0
+2022,Kasım,13,2022-11-16,23:35,Fatura,Elektrik,İstanbul,110.0
+2022,Ocak,9,2022-01-09,13:51,Ulaşım,Benzin,İstanbul,90.96
+2024,Haziran,9,2024-06-09,11:12,Ulaşım,Benzin,İstanbul,176.37
+2024,Temmuz,13,2024-07-13,13:26,Restoran,Fast Food,İstanbul,31.76
+2022,Mart,8,2022-03-16,16:01,Fatura,Elektrik,Ankara,110.0
+2024,Temmuz,4,2024-07-04,11:41,Ulaşım,Benzin,Ankara,22.99
+2022,Ocak,25,2022-01-16,17:18,Fatura,Elektrik,Ankara,110.0
+2023,Nisan,8,2023-04-08,01:10,Ulaşım,Otobüs,Ankara,26.76
+2023,Mart,1,2023-03-01,12:46,Ulaşım,Benzin,İstanbul,313.12
+2022,Mayıs,9,2022-05-09,14:33,Restoran,Kebap,İzmir,158.26
+2024,Haziran,21,2024-06-21,06:48,Ulaşım,Taksi,İzmir,20.69
+2023,Temmuz,21,2023-07-04,00:30,Fatura,Elektrik,İstanbul,105.0
+2023,Ocak,5,2023-01-05,19:22,Ulaşım,Taksi,İzmir,393.12
+2022,Ağustos,23,2022-08-23,13:39,Ulaşım,Benzin,İzmir,269.59
+2022,Kasım,13,2022-11-23,15:07,Fatura,İnternet,İstanbul,88.0
+2024,Temmuz,21,2024-07-21,14:48,Restoran,Kebap,Ankara,56.67
+2022,Ocak,20,2022-01-20,20:53,Giyim,H&M,İzmir,383.8
+2023,Eylül,28,2023-09-28,07:33,Giyim,H&M,İzmir,482.37
+2023,Mart,28,2023-03-28,14:28,Restoran,Pizza,İstanbul,186.57
+2022,Eylül,10,2022-09-28,20:22,Fatura,Elektrik,Ankara,110.0
+2023,Aralık,24,2023-12-24,13:40,Ulaşım,Benzin,İstanbul,106.65
+2022,Temmuz,3,2022-07-03,12:57,Ulaşım,Benzin,İstanbul,430.7
+2023,Ağustos,25,2023-08-01,01:01,Fatura,İnternet,İzmir,84.0
+2022,Mayıs,16,2022-05-16,11:27,Ulaşım,Benzin,İzmir,472.63
+2022,Ekim,3,2022-10-03,14:47,Ulaşım,Taksi,İstanbul,170.39
+2024,Nisan,1,2024-04-01,07:23,Ulaşım,Otobüs,İstanbul,428.21
+2022,Temmuz,2,2022-07-02,00:45,Ulaşım,Taksi,Ankara,54.6
+2022,Haziran,1,2022-06-01,13:31,Restoran,Pizza,Ankara,86.95
+2022,Temmuz,11,2022-07-11,10:50,Giyim,LC Waikiki,İstanbul,398.79
+2024,Mayıs,7,2024-05-04,03:22,Fatura,Su,İstanbul,50.0
+2024,Temmuz,9,2024-07-09,13:42,Ulaşım,Benzin,İzmir,333.33
+2022,Ocak,11,2022-01-11,14:38,Restoran,Fast Food,İzmir,91.03
+2024,Temmuz,16,2024-07-16,06:44,Ulaşım,Taksi,İzmir,473.53
+2024,Mayıs,28,2024-05-28,05:55,Giyim,H&M,İzmir,332.41
+2023,Ocak,23,2023-01-23,12:59,Restoran,Pizza,İstanbul,65.38
+2022,Eylül,26,2022-09-26,22:23,Ulaşım,Otobüs,İstanbul,480.91
+2024,Şubat,21,2024-02-21,12:24,Ulaşım,Benzin,İzmir,120.07
+2022,Şubat,28,2022-02-28,15:02,Ulaşım,Otobüs,İstanbul,319.78
+2024,Ocak,21,2024-01-25,10:57,Fatura,İnternet,İstanbul,80.0
+2024,Haziran,24,2024-06-09,08:16,Fatura,Elektrik,Ankara,100.0
+2024,Mart,17,2024-03-17,14:18,Restoran,Kebap,İstanbul,115.08
+2022,Aralık,8,2022-12-08,12:51,Restoran,Pizza,İstanbul,46.51
+2023,Nisan,25,2023-04-09,21:33,Fatura,Elektrik,İzmir,105.0
+2024,Temmuz,9,2024-07-09,08:17,Giyim,LC Waikiki,İzmir,789.46
+2024,Şubat,27,2024-02-23,06:46,Fatura,Su,Ankara,50.0
+2022,Ağustos,4,2022-08-04,13:10,Ulaşım,Otobüs,İstanbul,470.42
+2023,Ekim,20,2023-10-23,02:32,Fatura,İnternet,Ankara,84.0
+2024,Temmuz,1,2024-07-01,13:46,Restoran,Fast Food,İzmir,20.82
+2022,Ocak,25,2022-01-02,15:14,Fatura,İnternet,İzmir,88.0
+2022,Şubat,2,2022-02-02,13:35,Restoran,Pizza,Ankara,190.89
+2023,Şubat,1,2023-02-01,12:51,Ulaşım,Benzin,İzmir,405.99
+2024,Şubat,27,2024-02-27,01:25,Fatura,Elektrik,İstanbul,100.0
+2024,Haziran,23,2024-06-23,11:51,Ulaşım,Otobüs,Ankara,67.5
+2023,Ocak,9,2023-01-02,12:20,Fatura,Su,Ankara,52.5
+2024,Ocak,13,2024-01-13,14:56,Giyim,H&M,Ankara,403.4
+2023,Aralık,4,2023-12-04,01:17,Giyim,H&M,İstanbul,717.34
+2022,Şubat,25,2022-02-25,12:46,Ulaşım,Otobüs,Ankara,335.86
+2023,Eylül,14,2023-09-14,17:15,Ulaşım,Taksi,İzmir,239.5
+2022,Eylül,26,2022-09-26,14:39,Restoran,Kebap,Ankara,104.89
+2024,Temmuz,24,2024-07-24,22:36,Ulaşım,Otobüs,Ankara,459.4
+2022,Ekim,9,2022-10-09,13:04,Giyim,LC Waikiki,İstanbul,393.88
+2024,Mart,5,2024-03-05,02:06,Ulaşım,Otobüs,İstanbul,73.84
+2022,Nisan,5,2022-04-05,04:27,Giyim,Zara,İstanbul,238.93
+2023,Temmuz,24,2023-07-24,05:27,Ulaşım,Otobüs,İstanbul,469.95
+2024,Mart,9,2024-03-09,03:19,Ulaşım,Taksi,İstanbul,378.87
+2024,Mart,19,2024-03-19,05:36,Giyim,LC Waikiki,İstanbul,595.18
+2024,Haziran,22,2024-06-22,12:37,Giyim,H&M,Ankara,692.64
+2024,Mart,2,2024-03-02,23:12,Giyim,LC Waikiki,Ankara,734.15
+2023,Kasım,5,2023-11-05,13:09,Restoran,Fast Food,İzmir,69.92
+2024,Ocak,23,2024-01-23,12:48,Ulaşım,Benzin,İstanbul,129.61
+2022,Ocak,25,2022-01-22,04:13,Fatura,Su,İstanbul,55.0
+2022,Ekim,6,2022-10-06,14:53,Restoran,Kebap,Ankara,115.34
+2022,Ağustos,4,2022-08-04,18:42,Ulaşım,Taksi,İstanbul,498.31
+2024,Nisan,19,2024-04-19,13:47,Restoran,Fast Food,Ankara,143.89
+2022,Nisan,10,2022-04-10,04:47,Ulaşım,Otobüs,Ankara,65.54
+2023,Mayıs,15,2023-05-15,02:57,Ulaşım,Taksi,Ankara,476.46
+2022,Aralık,20,2022-12-20,22:52,Ulaşım,Taksi,Ankara,293.59
+2022,Haziran,1,2022-06-17,09:21,Fatura,Su,Ankara,55.0
+2023,Eylül,19,2023-09-19,23:48,Ulaşım,Otobüs,İstanbul,189.57
+2022,Mart,26,2022-03-26,08:52,Giyim,H&M,İstanbul,982.6
+2023,Ekim,20,2023-10-20,15:58,Giyim,LC Waikiki,İstanbul,592.94
+2023,Eylül,5,2023-09-05,08:19,Giyim,LC Waikiki,Ankara,981.7
+2023,Kasım,26,2023-11-26,21:19,Giyim,H&M,Ankara,161.91
+2023,Temmuz,25,2023-07-25,13:11,Restoran,Kebap,Ankara,80.46
+2023,Mart,20,2023-03-20,13:34,Restoran,Kebap,İstanbul,176.83
+2022,Haziran,22,2022-06-22,13:00,Restoran,Pizza,Ankara,100.56
+2024,Ocak,21,2024-01-26,22:25,Fatura,Elektrik,İzmir,100.0
+2022,Nisan,21,2022-04-21,12:18,Ulaşım,Benzin,İstanbul,443.01
+2022,Kasım,15,2022-11-15,04:24,Ulaşım,Otobüs,İstanbul,421.0
+2023,Temmuz,6,2023-07-06,11:00,Ulaşım,Taksi,İstanbul,237.72
+2023,Kasım,21,2023-11-21,06:06,Giyim,LC Waikiki,İzmir,404.15
+2022,Ağustos,13,2022-08-03,07:44,Fatura,Elektrik,İstanbul,110.0
+2022,Mart,8,2022-03-18,02:12,Fatura,İnternet,İstanbul,88.0
+2022,Kasım,4,2022-11-04,10:52,Giyim,H&M,İzmir,483.19
+2022,Ağustos,2,2022-08-02,14:44,Restoran,Kebap,İzmir,197.86
+2024,Mayıs,8,2024-05-08,00:57,Ulaşım,Otobüs,İzmir,430.11
+2024,Temmuz,8,2024-07-15,20:54,Fatura,İnternet,İzmir,80.0
+2023,Eylül,12,2023-09-12,11:55,Giyim,H&M,Ankara,898.88
+2023,Ocak,1,2023-01-01,02:42,Ulaşım,Otobüs,Ankara,429.21
+2024,Ocak,13,2024-01-13,13:21,Restoran,Fast Food,İzmir,29.34
+2024,Mart,10,2024-03-10,13:43,Ulaşım,Benzin,İstanbul,17.84
+2022,Temmuz,1,2022-07-01,14:49,Restoran,Fast Food,İzmir,132.01
+2024,Şubat,9,2024-02-09,19:57,Giyim,LC Waikiki,İstanbul,133.2
+2022,Şubat,6,2022-02-06,01:32,Giyim,Zara,Ankara,994.91
+2024,Ocak,12,2024-01-12,13:03,Ulaşım,Benzin,İzmir,238.3
+2024,Nisan,24,2024-04-21,00:31,Fatura,Su,İzmir,50.0
+2022,Nisan,14,2022-04-14,10:51,Giyim,H&M,Ankara,81.84
+2022,Haziran,16,2022-06-16,13:49,Restoran,Pizza,Ankara,58.58
+2022,Aralık,16,2022-12-26,23:56,Fatura,Elektrik,İstanbul,110.0
+2023,Ekim,7,2023-10-07,12:04,Ulaşım,Benzin,Ankara,66.41
+2023,Temmuz,2,2023-07-02,23:13,Giyim,H&M,İzmir,546.11
+2023,Aralık,24,2023-12-24,06:02,Ulaşım,Otobüs,İzmir,450.96
+2024,Mayıs,7,2024-05-17,05:27,Fatura,İnternet,İstanbul,80.0
+2023,Ekim,21,2023-10-21,17:13,Giyim,Zara,İzmir,643.4
+2024,Mart,16,2024-03-18,10:08,Fatura,Elektrik,İzmir,100.0
+2023,Mayıs,3,2023-05-03,14:17,Restoran,Kebap,İzmir,186.05
+2023,Ağustos,27,2023-08-27,05:14,Ulaşım,Taksi,İstanbul,364.34
+2023,Şubat,14,2023-02-21,16:01,Fatura,İnternet,Ankara,84.0
+2022,Mart,7,2022-03-07,07:07,Giyim,Zara,Ankara,963.02
+2024,Temmuz,26,2024-07-26,12:41,Restoran,Fast Food,Ankara,130.15
+2023,Şubat,22,2023-02-22,12:16,Restoran,Pizza,İstanbul,130.58
+2024,Mart,12,2024-03-12,12:11,Restoran,Kebap,İzmir,85.54
+2024,Haziran,24,2024-06-15,04:09,Fatura,İnternet,İzmir,80.0
+2023,Nisan,22,2023-04-22,12:51,Restoran,Pizza,İzmir,31.61
+2023,Ekim,26,2023-10-26,13:59,Restoran,Kebap,İzmir,86.57
+2023,Ağustos,27,2023-08-27,13:11,Restoran,Fast Food,İzmir,47.19
+2024,Ocak,12,2024-01-12,14:44,Restoran,Kebap,İzmir,110.18
+2024,Mayıs,2,2024-05-02,16:59,Ulaşım,Taksi,Ankara,352.6
+2023,Kasım,5,2023-11-05,14:17,Giyim,Zara,İstanbul,303.87
+2024,Şubat,6,2024-02-06,01:27,Giyim,Zara,İstanbul,712.54
+2024,Nisan,24,2024-04-27,05:58,Fatura,Su,İstanbul,50.0
+2024,Temmuz,3,2024-07-03,12:40,Restoran,Fast Food,İzmir,153.34
+2023,Ocak,9,2023-01-21,09:18,Fatura,Su,İzmir,52.5
+2024,Ocak,2,2024-01-02,07:32,Giyim,LC Waikiki,İstanbul,548.75
+2022,Ağustos,13,2022-08-04,10:17,Fatura,İnternet,Ankara,88.0
+2022,Mart,8,2022-03-21,04:57,Fatura,İnternet,İstanbul,88.0
+2024,Ocak,19,2024-01-19,22:42,Ulaşım,Taksi,İzmir,409.94
+2022,Eylül,2,2022-09-02,07:55,Giyim,H&M,Ankara,512.91
+2023,Mart,26,2023-03-06,13:51,Fatura,İnternet,Ankara,84.0
+2022,Nisan,27,2022-04-27,12:20,Ulaşım,Otobüs,İstanbul,79.66
+2023,Nisan,3,2023-04-03,17:10,Giyim,H&M,İstanbul,693.66
+2024,Mart,16,2024-03-12,10:08,Fatura,İnternet,İzmir,80.0
+2023,Haziran,15,2023-06-15,14:17,Restoran,Pizza,Ankara,49.04
+2022,Kasım,13,2022-11-07,17:20,Fatura,İnternet,İstanbul,88.0
+2024,Şubat,12,2024-02-12,06:52,Ulaşım,Otobüs,İstanbul,318.56
+2024,Nisan,24,2024-04-11,19:12,Fatura,Elektrik,İstanbul,100.0
+2024,Şubat,14,2024-02-14,13:48,Restoran,Kebap,İzmir,89.89
+2024,Nisan,24,2024-04-18,19:35,Fatura,Elektrik,İzmir,100.0
+2022,Nisan,14,2022-04-14,16:56,Ulaşım,Taksi,İstanbul,228.81
+2022,Ağustos,4,2022-08-04,17:12,Giyim,Zara,İstanbul,288.03
+2022,Ağustos,8,2022-08-08,22:01,Giyim,Zara,İzmir,812.78
+2024,Mayıs,7,2024-05-22,05:43,Fatura,Elektrik,Ankara,100.0
+2022,Temmuz,20,2022-07-20,17:22,Giyim,Zara,İstanbul,125.57
+2024,Mayıs,21,2024-05-21,04:19,Giyim,LC Waikiki,Ankara,346.91
+2024,Şubat,18,2024-02-18,12:36,Restoran,Pizza,İzmir,40.76
+2024,Ocak,12,2024-01-12,03:02,Ulaşım,Taksi,İstanbul,350.1
+2023,Ekim,19,2023-10-19,23:03,Giyim,H&M,Ankara,86.87
+2023,Eylül,20,2023-09-20,14:39,Ulaşım,Taksi,Ankara,388.26
+2024,Temmuz,8,2024-07-27,06:58,Fatura,İnternet,İstanbul,80.0
+2023,Nisan,26,2023-04-26,02:35,Giyim,Zara,İstanbul,232.04
+2023,Aralık,23,2023-12-23,14:46,Giyim,H&M,İstanbul,252.79
+2024,Nisan,10,2024-04-10,13:47,Restoran,Fast Food,İstanbul,89.79
+2024,Ocak,21,2024-01-08,19:08,Fatura,Su,İzmir,50.0
+2024,Ocak,25,2024-01-25,07:43,Ulaşım,Otobüs,Ankara,357.7
+2022,Ağustos,13,2022-08-10,21:53,Fatura,Su,İstanbul,55.0
+2023,Ekim,20,2023-10-13,17:04,Fatura,İnternet,İstanbul,84.0
+2022,Kasım,16,2022-11-16,13:24,Restoran,Fast Food,İstanbul,186.55
+2022,Mayıs,27,2022-05-27,18:57,Ulaşım,Otobüs,Ankara,469.58
+2022,Ağustos,7,2022-08-07,09:19,Ulaşım,Taksi,İzmir,315.14
+2023,Eylül,1,2023-09-01,13:38,Ulaşım,Otobüs,Ankara,220.52
+2023,Eylül,11,2023-09-27,00:17,Fatura,İnternet,Ankara,84.0
+2024,Haziran,7,2024-06-07,12:02,Restoran,Kebap,Ankara,45.2
+2023,Temmuz,27,2023-07-27,12:29,Ulaşım,Benzin,İzmir,157.76
+2022,Şubat,21,2022-02-21,14:25,Restoran,Pizza,İstanbul,45.08
+2024,Mart,16,2024-03-08,21:08,Fatura,İnternet,İzmir,80.0
+2022,Şubat,6,2022-02-13,13:01,Fatura,Elektrik,İzmir,110.0
+2024,Mayıs,19,2024-05-19,13:16,Restoran,Pizza,İzmir,69.48
+2022,Ekim,25,2022-10-03,21:47,Fatura,İnternet,İzmir,88.0
+2024,Mayıs,7,2024-05-12,09:27,Fatura,İnternet,Ankara,80.0
+2022,Ağustos,13,2022-08-19,10:12,Fatura,Su,İstanbul,55.0
+2023,Ağustos,18,2023-08-18,12:40,Ulaşım,Benzin,Ankara,122.86
+2022,Şubat,12,2022-02-12,01:28,Giyim,LC Waikiki,İzmir,216.97
+2023,Ağustos,25,2023-08-22,08:19,Fatura,İnternet,Ankara,84.0
+2022,Ocak,12,2022-01-12,13:28,Restoran,Kebap,İstanbul,60.25
+2022,Nisan,20,2022-04-20,12:48,Restoran,Kebap,İstanbul,64.24
+2022,Eylül,8,2022-09-08,12:12,Ulaşım,Benzin,Ankara,318.87
+2024,Mayıs,4,2024-05-04,05:09,Ulaşım,Taksi,İstanbul,104.73
