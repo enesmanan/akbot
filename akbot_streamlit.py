@@ -13,6 +13,8 @@ from streamlit_extras.colored_header import colored_header
 from langchain_community.vectorstores import Chroma
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
+#from rulebased_campaign import handle_campaign_query_rule
+from genai_campaign import handle_campaign_query
 
 warnings.filterwarnings('ignore')
 os.environ['G_ENABLE_DIAGNOSTIC'] = '0'
@@ -28,18 +30,22 @@ CHROMA_PATH = "chroma"
 
 # Chat Prompt Template
 PROMPT_TEMPLATE = """
-Soruyu yalnızca aşağıdaki bağlama dayanarak cevapla:
+Soruyu yalnızca aşağıdaki Akbank ile ilgili bağlama dayanarak cevapla:
 
 {context}
 
 Yukarıdaki bağlama dayanarak soruyu cevapla: {question}
-"""
 
+Cevabı Türkçe olarak, samimi ve ikna edici bir dille yaz.
+
+"""
 
 # Initialize PandasAI and SmartDataframe
 llm = OpenAI(api_token=os.environ['OPENAI_API_KEY'])
 
-data = pd.read_csv('Data/harcama_gecmisi.csv')
+#/home/enes/Desktop/Akbot/harcama_verisi.csv
+data = pd.read_csv('harcama_verisi.csv')
+#data = pd.read_csv('Data/harcama_gecmisi.csv')
 
 
 field_descriptions = {
@@ -47,11 +53,13 @@ field_descriptions = {
     'Ay': 'Harcamanın yapıldığı ay. (Örneğin: Ocak)',
     'Gün': 'Harcamanın yapıldığı gün. (Örneğin: 15)',
     'Tarih': 'Harcamanın yapıldığı tarih. (Örneğin: 2024-01-15)',
-    'İşlem Türü': 'Harcamanın türü. Bu, harcamanın hangi kategoriye girdiğini belirtir. (Örneğin: Alışveriş, Fatura Ödemesi, ATM Çekimi, Restoran, Ulaşım)',
-    'Tutar': 'Harcamanın parasal değeri. (Örneğin: 150.75)',
-    'Harcama Kategorisi': 'Harcamanın yapıldığı genel kategori. (Örneğin: Market, Elektrik, Su, İnternet, ATM, Restoran, Ulaşım)',
-    'Açıklama': 'Harcama hakkında daha spesifik bilgi veren açıklama. Genellikle mağaza adı veya fatura türü gibi detaylar içerir. (Örneğin: Migros, Kebapçı, Otobüs)',
+    'Saat': 'Harcamanın yapıldığı saat. (Örneğin: 15:30)',
+    'İşlem Türü': 'Harcamanın türü. Bu, harcamanın hangi kategoriye girdiğini belirtir. (Örneğin: Giyim, Ulaşım, Fatura, Restoran)',
+    'Harcama Kategorisi': 'Harcamanın yapıldığı genel kategori. (Örneğin: Zara, Benzin, Elektrik, Kebapçı)',
+    'Şehir': 'Harcamanın yapıldığı şehir. (Örneğin: İstanbul, Ankara, İzmir)',
+    'Tutar': 'Harcamanın parasal değeri. (Örneğin: 150.75)'        
 }
+
 
 config = {
     'llm': llm,
@@ -88,13 +96,16 @@ def tr_promts(df, prompt):
     response = df.chat(full_prompt)
     return response
 
-# Function to handle user input starting with '/'
-def handle_pandas_ai_query(query_text):
+
+def handle_query(query_text):
     if query_text.startswith('/'):
         # Process query using PandasAI
-        response = tr_promts(df, query_text[1:])  # Remove the '/' and pass the rest as prompt
+        response = tr_promts(df, query_text[1:])
     else:
-        # Handle regular queries using the default bot functionality
+        # campagin check
+        campaign_response = handle_campaign_query(data, query_text)
+        if campaign_response:
+            return campaign_response
         response = generate_response(query_text)
     
     return response
@@ -172,7 +183,7 @@ user_input = st.text_input("Mesaj yazın: ", "", key="input")
 
 with response_container:
     if user_input:
-        response = handle_pandas_ai_query(user_input)
+        response = handle_query(user_input)
         st.session_state.user_responses.append(user_input)
         st.session_state.bot_responses.append(response)
 
