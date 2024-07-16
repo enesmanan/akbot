@@ -4,6 +4,7 @@ import openai
 import warnings  
 import pandas as pd
 import streamlit as st   
+from datetime import datetime
 from dotenv import load_dotenv
 from streamlit_chat import message
 from pandasai.llm import OpenAI
@@ -15,6 +16,7 @@ from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 #from rulebased_campaign import handle_campaign_query_rule
 from genai_campaign import handle_campaign_query
+from model import load_model, predict_next_month, visualize_results, load_and_preprocess_data, engineer_features
 
 warnings.filterwarnings('ignore')
 os.environ['G_ENABLE_DIAGNOSTIC'] = '0'
@@ -43,10 +45,7 @@ Cevabı Türkçe olarak, samimi ve ikna edici bir dille yaz.
 # Initialize PandasAI and SmartDataframe
 llm = OpenAI(api_token=os.environ['OPENAI_API_KEY'])
 
-#/home/enes/Desktop/Akbot/harcama_verisi.csv
 data = pd.read_csv('harcama_verisi.csv')
-#data = pd.read_csv('Data/harcama_gecmisi.csv')
-
 
 field_descriptions = {
     'Yıl': 'Harcamanın yapıldığı yıl. (Örneğin: 2024)',
@@ -79,36 +78,62 @@ df = SmartDataframe(connector,
     config=config
     )
 
+# Load the trained model
+model = load_model("model.pkl")
 
-def get_latest_chart_file():
-    charts_dir = 'exports/charts/'
-    list_of_files = glob.glob(os.path.join(charts_dir, '*.png'))
+def get_latest_chart_file(directory):
+    list_of_files = glob.glob(os.path.join(directory, '*.png'))
     if not list_of_files:
         return None
     
     latest_file = max(list_of_files, key=os.path.getctime)  
     return latest_file
 
-
 def tr_promts(df, prompt):
     tr_promt = " Cevabı Türkçe olarak 1 kez döndür. Eğer grafik istiyorsam sadece 1 kez grafiği çiz."
     full_prompt = prompt + tr_promt
-    response = df.chat(full_prompt)
-    return response
+    response = df.chat(full_prompt)    
+    latest_chart = get_latest_chart_file('exports/charts')
+    return response, latest_chart
+
+def handle_next_month_prediction():
+    next_month = datetime.now().month + 1
+    next_year = datetime.now().year
+    if next_month > 12:
+        next_month = 1
+        next_year += 1
+
+    df = load_and_preprocess_data('harcama_verisi.csv')
+    df = engineer_features(df)
+    
+    predictions = predict_next_month(model, df, next_year, next_month)
+    save_path = f"exports/model_charts/next_month_spending.png"
+    chart_path, category_totals, total_spending = visualize_results(predictions, save_path)
+
+    response = f"Gelecek ay (Ay: {next_month}, Yıl: {next_year}) için harcama tahminlerinizi hazırladım.\n\n"
+    response += f"Toplam tahmini harcama: {total_spending:,.2f} TL\n\n"
+    response += "Harcama kategorilerine göre dağılım:\n"
+    for category, total in category_totals.items():
+        response += f"{category}: {total:,.2f} TL\n"
+    
+    return response, chart_path
 
 
 def handle_query(query_text):
-    if query_text.startswith('/'):
+    if query_text.lower() == "gelecek ay harcamalarım ne olur":
+        response, chart_path = handle_next_month_prediction()
+        return response, chart_path, "model"
+    elif query_text.startswith('/'):
         # Process query using PandasAI
-        response = tr_promts(df, query_text[1:])
+        response, chart_path = tr_promts(df, query_text[1:])
+        return response, chart_path, "pandasai"
     else:
-        # campagin check
+        # campaign check
         campaign_response = handle_campaign_query(data, query_text)
         if campaign_response:
-            return campaign_response
+            return campaign_response, None, None
         response = generate_response(query_text)
-    
-    return response
+        return response, None, None
 
 def generate_response(query_text):
     # Handle regular queries as before
@@ -174,6 +199,10 @@ if 'user_responses' not in st.session_state:
     st.session_state['user_responses'] = ["Merhaba"]
 if 'bot_responses' not in st.session_state:
     st.session_state['bot_responses'] = ["Merhaba, ben akıl küpü chat asistanınız Akbot. Size nasıl yardımcı olabilirim?"]
+if 'chart_paths' not in st.session_state:
+    st.session_state['chart_paths'] = [None]
+if 'chart_types' not in st.session_state:
+    st.session_state['chart_types'] = [None]
 
 input_container = st.container()
 response_container = st.container()
@@ -183,9 +212,11 @@ user_input = st.text_input("Mesaj yazın: ", "", key="input")
 
 with response_container:
     if user_input:
-        response = handle_query(user_input)
+        response, chart_path, chart_type = handle_query(user_input)
         st.session_state.user_responses.append(user_input)
         st.session_state.bot_responses.append(response)
+        st.session_state.chart_paths.append(chart_path)
+        st.session_state.chart_types.append(chart_type)
 
     if st.session_state['bot_responses']:
         for i in range(len(st.session_state['bot_responses'])):
@@ -195,10 +226,14 @@ with response_container:
                 st.image("images/logo.png", width=50, use_column_width=True, clamp=True, output_format='auto')
             with col2:
                 bot_response = st.session_state["bot_responses"][i]
-                if ".png" in bot_response:
-                    st.image(bot_response, use_column_width=True)
-                else:
-                    st.markdown(f'<div class="bot-message">{bot_response}</div>', unsafe_allow_html=True)
+                st.markdown(f'<div class="bot-message">{bot_response}</div>', unsafe_allow_html=True)
+                if st.session_state['chart_paths'][i]:
+                    if st.session_state['chart_types'][i] == "pandasai":
+                        # PandasAI 
+                        st.image(st.session_state['chart_paths'][i], use_column_width=True)
+                    elif st.session_state['chart_types'][i] == "model":
+                        # model.py 
+                        st.image(st.session_state['chart_paths'][i], use_column_width=True)
 
 
 with input_container:
