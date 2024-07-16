@@ -1,12 +1,12 @@
 # AkBot
 
-This project was developed as the final project for the 7-week Bootcamp jointly organized by Akbank and Patika.
+This project was developed as the final project for the 7-week Bootcamp jointly organized by Akbank and Patika. 
 
 ## Technologies Used
 
 - [LangChain](https://python.langchain.com/v0.2/docs/introduction/) - LangChain version: 0.2.5
-- [PandasAI](https://docs.pandas-ai.com/intro) - PandasAI version: 2.1.1 
-- [Flask]()
+- [PandasAI](https://docs.pandas-ai.com/intro) - PandasAI version: 2.2.10 
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/) - Flask version: 
 
 
 ## Architecture
@@ -17,7 +17,7 @@ This project was developed as the final project for the 7-week Bootcamp jointly 
 
 ### Environment
 
-Ensure that your Python version is set to `3.10.12` (pip version is `24.0`):
+Ensure that your Python version is set to `3.10.12` (pip version is `24.1.2`):
 
 ```bash
 python --version
@@ -58,6 +58,12 @@ cd <project-directory>
 
 ```bash
 python3 create_database.py
+```
+
+### Create ML Model
+
+```bash
+python3 model.py
 ```
 
 ### Run
