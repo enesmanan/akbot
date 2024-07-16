@@ -33,7 +33,7 @@ def generate_campaign_suggestion(total_spending, category_spending, top_categori
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
-            {"role": "system", "content": "Sen bir banka müşteri temsilcisisin. Müşterilere özel kampanya ve kredi önerileri sunuyorsun."},
+            {"role": "system", "content": "Sen Akbank'ın cana yakın chatbotu Akbot'sun. Müşteriye özel kampanya ve kredi önerisi sunuyorsun."},
             {"role": "user", "content": prompt}
         ],
         max_tokens=500,

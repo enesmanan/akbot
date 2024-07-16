@@ -22,7 +22,8 @@ warnings.filterwarnings('ignore')
 os.environ['G_ENABLE_DIAGNOSTIC'] = '0'
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
-st.set_page_config(page_title="AkBot", page_icon=":red_square:")
+st.set_page_config(page_title="AkBot", page_icon="")
+
 
 # OpenAI API key and Chroma DB path
 load_dotenv()
@@ -157,6 +158,9 @@ def generate_response(query_text):
 # Streamlit UI setup
 st.markdown("<h1 style='color: red;'>AkBot</h1>", unsafe_allow_html=True)
 
+#colored_header(label='', description='', color_name='red-70')
+
+
 # Custom CSS for the background and message colors
 st.markdown(
     """
@@ -175,11 +179,11 @@ st.markdown(
         max-width: 80%;
     }
     .bot-message {
-        background-color: #fc5e52;
+        background-color: #DC1410;
         border-radius: 8px;
         padding: 10px;
         margin: 5px 0;
-        color: black;
+        color: white;
         width: fit-content;
         max-width: 80%;
     }
@@ -221,9 +225,9 @@ with response_container:
     if st.session_state['bot_responses']:
         for i in range(len(st.session_state['bot_responses'])):
             st.markdown(f'<div class="user-message">{st.session_state["user_responses"][i]}</div>', unsafe_allow_html=True)
-            col1, col2 = st.columns([1, 10])
+            col1, col2 = st.columns([1, 8])
             with col1:
-                st.image("images/logo.png", width=50, use_column_width=True, clamp=True, output_format='auto')
+                st.image("images/logo2.png", width=50, use_column_width=True, clamp=True, output_format='auto')
             with col2:
                 bot_response = st.session_state["bot_responses"][i]
                 st.markdown(f'<div class="bot-message">{bot_response}</div>', unsafe_allow_html=True)
