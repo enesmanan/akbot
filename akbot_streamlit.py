@@ -156,7 +156,7 @@ def generate_response(query_text):
     return response_text.content
 
 # Streamlit UI setup
-st.markdown("<h1 style='color: red;'>AkBot</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='color: red; border-bottom: 2px solid red;'>AkBot</h1>", unsafe_allow_html=True)
 
 #colored_header(label='', description='', color_name='red-70')
 
@@ -188,10 +188,16 @@ st.markdown(
         max-width: 80%;
     }
     .bot-message img {
-    position: absolute;
-    bottom: 10px;
-    left: -60px; 
-    width: 50px;
+        position: absolute;
+        bottom: 10px;
+        left: -60px; 
+        width: 50px;
+    }
+    header, .css-18ni7ap, .css-1q8dd3e, .css-1cpxqw2, .css-1d391kg {
+        display: none !important;
+    }
+    .st-emotion-cache-13ln4jf{
+    padding:0;
     }
     </style>
     """,
