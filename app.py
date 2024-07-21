@@ -45,8 +45,6 @@ def add_expense():
     if not user:
         return jsonify({"error": "User not found"}), 404
 
-    if user.balance < total_amount:
-        return jsonify({"error": "Insufficient balance"}), 400
 
     user.balance -= total_amount
 
@@ -54,7 +52,7 @@ def add_expense():
     db.session.add(new_expense)
     db.session.commit()
 
-    return jsonify({"message": "Expense added to log", "remaining_balance": user.balance}), 201
+    return jsonify({"message": "Siparişiniz başarıyla alınmıştır. Size özel kampanyalarımızı incelemek için Akbank web sitesini ziyaret etmeyi unutmayın!"}), 201
 
 @app.route('/expenses', methods=['GET'])
 def get_expenses():

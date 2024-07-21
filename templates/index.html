@@ -11,28 +11,88 @@
     <!-- styles  -->
     <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/style.css') }}">
 </head>
+<style>
+   .modal {
+        display: none;
+        position: fixed;
+        z-index: 1;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        justify-content: center;
+        align-items: center;
+    }
+
+    /* Modal Content */
+    .modal-content {
+        background-color: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        text-align: center;
+        width: 80%;
+        max-width: 400px;
+    }
+
+    /* Close Button */
+    .close {
+        color: #aaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+
+    .close:hover,
+    .close:focus {
+        color: black;
+    }
+
+    /* Modal Text */
+    .modal-content p {
+        margin: 20px 0;
+        font-size: 18px;
+    }
+
+    /* Campaign Button */
+    .campaign-button {
+        background-color: #28a745;
+        color: white;
+        border: none;
+        padding: 15px 20px;
+        font-size: 18px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .campaign-button:hover {
+        background-color: #218838;
+    }
+</style>
 <body>
     <!-- HEADER  -->
     <header>
         <!-- NAV  -->
         <div class="nav container">
             <a href="#" class="logo">
-                <img src="{{ url_for('static', filename='assets/img/akbank.png') }}" alt="Akbank Logo" width="40" height="30">
+                <img src="{{ url_for('static', filename='assets/img/akbank.png') }}" alt="Akbank Logo" width="20" height="30">
             </a>
             <!-- CART ICON  -->
             <i class='bx bx-shopping-bag' id="cart-icon"></i>
             <!-- CART  -->
             <div class="cart">
-                <h2 class="cart-title">Your Cart</h2>
+                <h2 class="cart-title">Sepet</h2>
                 <!-- CONTENT  -->
                 <div class="cart-content"></div>
                 <!-- TOTAL   -->
                 <div class="total">
-                    <div class="total-title">Total</div>
+                    <div class="total-title">Toplam</div>
                     <div class="total-price">$0</div>
                 </div>
                 <!-- BUY BUTTON  -->
-                <button type="button" class="btn-buy">Buy Now</button>
+                <button type="button" class="btn-buy">Akbank İle Satın Al</button>
                 <!-- CART CLOSE  -->
                 <i class='bx bx-x' id="cart-close"></i>
             </div>
@@ -40,66 +100,75 @@
     </header>
     <!-- SHOP SECTION  -->
     <section class="shop container">
-        <h2 class="section-title">Akbank İle Hayatınızı Kolaylaştırın</h2>
+        <h2 class="section-title">Akbank, Her Yerde Sizinle</h2>
         <!-- CONTENT  -->
         <div class="shop-content">
             <!-- BOX 1 -->
             <div class="product-box" data-product-id="1">
-                <img src="{{ url_for('static', filename='assets/img/product1.png') }}" alt="" class="product-img">
-                <h2 class="product-title">Kredi Kartı</h2>
+                <img src="{{ url_for('static', filename='assets/img/3.jpg') }}" alt="" class="product-img">
+                <h2 class="product-title">Akbank Mavi T-Shirt</h2>
                 <span class="product-price">$79.5</span>
                 <i class='bx bx-shopping-bag add-cart'></i>
             </div>
             <!-- BOX 2 -->
             <div class="product-box" data-product-id="2">
-                <img src="{{ url_for('static', filename='assets/img/product2.jpg') }}" alt="" class="product-img">
-                <h2 class="product-title">Konut Kredisi</h2>
+                <img src="{{ url_for('static', filename='assets/img/ayakkabi.jpg') }}" alt="" class="product-img">
+                <h2 class="product-title">Akbank Ayakkabı</h2>
                 <span class="product-price">$59.5</span>
                 <i class='bx bx-shopping-bag add-cart'></i>
             </div>
             <!-- BOX 3 -->
             <div class="product-box" data-product-id="3">
-                <img src="{{ url_for('static', filename='assets/img/product3.jpg') }}" alt="" class="product-img">
-                <h2 class="product-title">Bireysel Kredi</h2>
+                <img src="{{ url_for('static', filename='assets/img/2.jpg') }}" alt="" class="product-img">
+                <h2 class="product-title">Akbank Yeşil T-Shirt</h2>
                 <span class="product-price">$29.5</span>
                 <i class='bx bx-shopping-bag add-cart'></i>
             </div>
             <!-- BOX 4 -->
             <div class="product-box" data-product-id="4">
-                <img src="{{ url_for('static', filename='assets/img/product4.jpg') }}" alt="" class="product-img">
-                <h2 class="product-title">İşletme Kredisi</h2>
+                <img src="{{ url_for('static', filename='assets/img/4.jpg') }}" alt="" class="product-img">
+                <h2 class="product-title">Akbank Kırmızısı T-Shirt</h2>
                 <span class="product-price">$105</span>
                 <i class='bx bx-shopping-bag add-cart'></i>
             </div>
             <!-- BOX 5 -->
             <div class="product-box" data-product-id="5">
-                <img src="{{ url_for('static', filename='assets/img/product5.jpg') }}" alt="" class="product-img">
-                <h2 class="product-title">Hisse Senedi</h2>
+                <img src="{{ url_for('static', filename='assets/img/5.jpg') }}" alt="" class="product-img">
+                <h2 class="product-title">Akbank Kırmızısı Şapka</h2>
                 <span class="product-price">$95</span>
                 <i class='bx bx-shopping-bag add-cart'></i>
             </div>
             <!-- BOX 6 -->
             <div class="product-box" data-product-id="6">
-                <img src="{{ url_for('static', filename='assets/img/product6.jpg') }}" alt="" class="product-img">
-                <h2 class="product-title">Banka Hesabı</h2>
+                <img src="{{ url_for('static', filename='assets/img/6.jpg') }}" alt="" class="product-img">
+                <h2 class="product-title">Akbank Kırmızısı Şort</h2>
                 <span class="product-price">$1400</span>
                 <i class='bx bx-shopping-bag add-cart'></i>
             </div>
             <!-- BOX 7 -->
             <div class="product-box" data-product-id="7">
-                <img src="{{ url_for('static', filename='assets/img/product7.jpg') }}" alt="" class="product-img">
-                <h2 class="product-title">Emeklilik planları ve sigortalar</h2>
+                <img src="{{ url_for('static', filename='assets/img/sapka.jpg') }}" alt="" class="product-img">
+                <h2 class="product-title">Akbank Beyaz Şapka</h2>
                 <span class="product-price">$1700</span>
                 <i class='bx bx-shopping-bag add-cart'></i>
             </div>
             <!-- BOX 8 -->
             <div class="product-box" data-product-id="8">
-                <img src="{{ url_for('static', filename='assets/img/product8.jpg') }}" alt="" class="product-img">
-                <h2 class="product-title">Finansal Danışmanlık</h2>
+                <img src="{{ url_for('static', filename='assets/img/1.jpg') }}" alt="" class="product-img">
+                <h2 class="product-title">Akbank Siyah Şort</h2>
                 <span class="product-price">$110.5</span>
                 <i class='bx bx-shopping-bag add-cart'></i>
             </div>
         </div>
+        <div id="myModal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <p>Siparişiniz başarıyla alınmıştır. Size özel kampanyalarımızı incelemek için Akbank web sitesini ziyaret etmeyi unutmayın!</p>
+                <button id="campaignButton" class="campaign-button">Kampanyaları Gör</button>
+            </div>
+        </div>
+        
+        
     </section>
     <!-- link js  -->
     <script src="{{ url_for('static', filename='assets/js/main.js') }}"></script>

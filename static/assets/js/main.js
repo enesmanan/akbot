@@ -110,11 +110,30 @@ function handle_changeItemQuantity() {
 
   update();
 }
+function openModal() {
+  var modal = document.getElementById("myModal");
+  modal.style.display = "flex";
+}
 
+// Modal'ı kapatma işlevi
+function closeModal() {
+  var modal = document.getElementById("myModal");
+  modal.style.display = "none";
+}
+
+// Modal'daki kapatma butonuna tıklama işlevi
+document.getElementsByClassName("close")[0].onclick = function() {
+  closeModal();
+}
+
+// Kampanyaları gör butonuna tıklama işlevi
+document.getElementById('campaignButton').addEventListener('click', function() {
+  window.location.href = 'https://www.akbank.com/kampanyalar';
+});
 function handle_buyOrder() {
   if (itemsAdded.length <= 0) {
-    alert("There is No Order to Place Yet! \nPlease Make an Order first.");
-    return;
+      alert("There is No Order to Place Yet! \nPlease Make an Order first.");
+      return;
   }
   const cartContent = cart.querySelector(".cart-content");
   const totalElement = cart.querySelector(".total-price");
@@ -125,31 +144,29 @@ function handle_buyOrder() {
   let category = "Teknology"; // Örnek kategori
 
   fetch('/add-expense', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json'
-    },
-    body: JSON.stringify({
-      user_id: userId,
-      products_id: productIDs,
-      total_amount: totalAmount,
-      category: category
-    })
+      method: 'POST',
+      headers: {
+          'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+          user_id: userId,
+          products_id: productIDs,
+          total_amount: totalAmount,
+          category: category
+      })
   })
   .then(response => response.json())
   .then(data => {
-    if (data.error) {
-      alert(data.error);
-    } else {
-      alert(`Your Order is Placed Successfully! Remaining Balance: $${data.remaining_balance}`);
-      cartContent.innerHTML = "";
-      itemsAdded = [];
-      update();
-    }
+      if (data.error) {
+          alert(data.error);
+      } else {
+          openModal();
+          itemsAdded = [];
+          update();
+      }
   })
   .catch(error => console.error('Error:', error));
 }
-
 // =========== UPDATE & RERENDER FUNCTIONS =========
 function updateTotal() {
   let cartBoxes = document.querySelectorAll(".cart-box");
