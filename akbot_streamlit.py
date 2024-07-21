@@ -46,7 +46,7 @@ Cevabı Türkçe olarak, samimi ve ikna edici bir dille yaz.
 # Initialize PandasAI and SmartDataframe
 llm = OpenAI(api_token=os.environ['OPENAI_API_KEY'])
 
-data = pd.read_csv('harcama_verisi.csv')
+data = pd.read_csv('Data/harcama_verisi.csv')
 
 field_descriptions = {
     'Yıl': 'Harcamanın yapıldığı yıl. (Örneğin: 2024)',
@@ -104,7 +104,7 @@ def handle_next_month_prediction():
         next_month = 1
         next_year += 1
 
-    df = load_and_preprocess_data('harcama_verisi.csv')
+    df = load_and_preprocess_data('Data/harcama_verisi.csv')
     df = engineer_features(df)
     
     predictions = predict_next_month(model, df, next_year, next_month)
@@ -156,7 +156,7 @@ def generate_response(query_text):
     return response_text.content
 
 # Streamlit UI setup
-st.markdown("<h1 style='color: red;'>AkBot</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='color: red; border-bottom: 2px solid red;'>AKbot</h1>", unsafe_allow_html=True)
 
 #colored_header(label='', description='', color_name='red-70')
 
