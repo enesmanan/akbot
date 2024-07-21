@@ -118,7 +118,7 @@ def visualize_results(predictions, save_path):
     return save_path, category_totals, total_spending
 
 def main():
-    file_path = "harcama_verisi.csv"
+    file_path = "Data/harcama_verisi.csv"
     df = load_and_preprocess_data(file_path)
     df = engineer_features(df)
 
