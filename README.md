@@ -1,15 +1,16 @@
-# AkBot
+# AKbot
 
 This project was developed as the final project for the 7-week Bootcamp jointly organized by Akbank and Patika. 
 
 ## Technologies Used
 
 - [LangChain](https://python.langchain.com/v0.2/docs/introduction/) - LangChain version: 0.2.5
-- [PandasAI](https://docs.pandas-ai.com/intro) - PandasAI version: 2.2.10 
-- [Flask](https://flask.palletsprojects.com/en/3.0.x/) - Flask version: 
+- [PandasAI](https://docs.pandas-ai.com/intro) - PandasAI version: 2.2.12
+- [Streamlit](https://streamlit.io/) - Streamlit version: 1.36.0
 
 
 ## Architecture
+![akbank_patika_mimari](https://github.com/user-attachments/assets/0b12fd25-6a71-4a7b-9e2e-6dc77b717e79)
 
 ---
 
