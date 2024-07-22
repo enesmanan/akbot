@@ -22,7 +22,7 @@ warnings.filterwarnings('ignore')
 os.environ['G_ENABLE_DIAGNOSTIC'] = '0'
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
-st.set_page_config(page_title="AkBot", page_icon="")
+st.set_page_config(page_title="AKbot", page_icon="🔴")
 
 
 # OpenAI API key and Chroma DB path
@@ -188,10 +188,16 @@ st.markdown(
         max-width: 80%;
     }
     .bot-message img {
-    position: absolute;
-    bottom: 10px;
-    left: -60px; 
-    width: 50px;
+        position: absolute;
+        bottom: 10px;
+        left: -60px; 
+        width: 50px;
+    }
+    header, .css-18ni7ap, .css-1q8dd3e, .css-1cpxqw2, .css-1d391kg {
+        display: none !important;
+    }
+    .st-emotion-cache-13ln4jf{
+    padding:0;
     }
     </style>
     """,
@@ -202,7 +208,7 @@ st.markdown(
 if 'user_responses' not in st.session_state:
     st.session_state['user_responses'] = ["Merhaba"]
 if 'bot_responses' not in st.session_state:
-    st.session_state['bot_responses'] = ["Merhaba, ben akıl küpü chat asistanınız Akbot. Size nasıl yardımcı olabilirim?"]
+    st.session_state['bot_responses'] = ["Merhaba, pratik asistanınız AKbot, her sorununuzun çözümü burada!. Size nasıl yardımcı olabilirim?"]
 if 'chart_paths' not in st.session_state:
     st.session_state['chart_paths'] = [None]
 if 'chart_types' not in st.session_state:

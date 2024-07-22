@@ -548,5 +548,293 @@ Cevap: ​Swap, aktif getiri oranını yükseltmek, kaynak kullanım maliyetleri
 Soru: Swap işlemi avantajları nelerdir?
 Cevap: ​Piyasa hareketlerinden faydalanarak geleneksel yatırım ürünlerinden daha fazla getiri elde etme imkanı sağlar. Piyasa hareketlerinin getirdiği risklerden korunma imkanı sağlar.
 
+Soru: Market alışverişlerinde önerebileceğin kampanyalar nelerdir?
+Cevap: 3 Temmuz – 3 Ağustos 2024 tarihleri arasında “ 1027A101INDIRIM500 ” davet kodu ile Akbank Mobil’den ilk kez Akbanklı olanlar anında 500 TL değerinde A101 Ekstra indirim kodu kazanıyor.
+Faydalanmak için “ 1027A101INDIRIM500 ” davet kodu ile hemen Akbank Mobil’den Akbanklı olun 500 TL değerinde A101 Ekstra indirimiyle alışverişin keyfini çıkarın.
+Kampanya Koşulları
+Kampanya kapsamında “ 1027A101INDIRIM500 ” davet kodunu kullanarak Akbank Mobil uygulaması üzerinden 3 Temmuz – 3 Ağustos 2024 tarihleri arasında ilk kez Akbanklı olanlar 500 TL değerinde A101 ekstra web sitesinde ve mobil uygulamasında geçerli indirim kodu kazanacaktır.
+Kampanyadan belirtilen tarihler arasında davet kodunu kullanarak Akbank Mobil üzerinden ilgili tüm sözleşme ve formları onaylarak müşteri edinim sürecini tamamlayıp ilk kez Akbanklı olanlar yararlanabilecektir.
+Kampanya sadece Akbank Mobil uygulaması üzerinden “ 1027A101INDIRIM500 ” davet kodunu kullanarak yapılan başvurular için geçerlidir.
+Kampanya 3 Temmuz – 3 Ağustos 2024 tarihleri arasında geçerlidir.
+Müşteriler kampanyadan sadece bir kere yararlanılabilecektir.
+Kampanya kapsamında kazanılan 500 TL tutarındaki A101 ekstra indirim kodu sadece www.a101.com.tr/ekstra web sitesinde ve A101 mobil ekstra satış kanalından yapılacak en az 501 TL tutarındaki alışverişlerde geçerlidir.
+Mobil üzerinden Akbanklı olmak ve kampanyadan yararlanabilmek için Akbank Mobil uygulamasını indirip, “müşteri olmak istiyorum” butonuna tıklanması ve davet kodu alanına “ 1027A101INDIRIM500 “ kodunu yazarak ilerlenip müşteri olunması önemlidir.
+Kampanyadan “ 1027A101INDIRIM500 “ davet koduyla ilk kez Akbank Mobil uygulaması üzerinden Akbanklı olanlar yararlanabilecektir. “ 1027A101INDIRIM500 “ davet kodu girilmeden ilerlenen Akbanklı olma süreçlerinde kampanyadan yararlanılamayacaktır.
+Kampanya kapsamında kazanılan 500 TL değerindeki A101 ekstra indirim kodu, müşterinin Akbanklı olma süreci tamamlandıktan sonra Akbank tarafından SMS ile Müşteriye gönderilecektir.
+Kampanya kapsamında kazanılan 500 TL değerindeki A101 ekstra indirim kodunun kullanım süresi 31 Ağustos 2024 tarih ve saat 23:59’da sona erecektir. Bu tarihten sonra kodlar geçersiz sayılacak ve kullanılamayacaktır.
+
+Soru: Otomatik fatura ödeme yapmak istiyorum, önerebileceğin bir kampanya var mı?
+Cevap: Axess ile vereceğiniz Enerjisa Otomatik Fatura Ödeme talimatlarınıza 250 TL’ye varan chip-para kazanabilirsiniz! Temmuz ayında vereceğiniz Enerjisa fatura talimatlarınız için, FATURAC yazıp 4566’ya gönderin. 1 yeni fatura için 50 TL, 2 yeni fatura için 100 TL, 3 yeni fatura için 150 TL, 4 yeni fatura için 200 TL, 5 yeni fatura için 250 TL chip-para kazanma fırsatı yakalayın!
+Talimatlarınızı Akbank Mobil ve Akbank İnternet, 444 25 25 Akbank Müşteri İletişim Merkezi veya Akbank Şubelerinden verebilirsiniz.
+Kampanya Detayları
+Axess, Axess Öğrenci ve Free asıl kartınız ile bu kampanyadan 1-31 Temmuz 2024 tarihleri arasında yararlanabilirsiniz.
+Kampanya kapsamında birden fazla kartınız varsa minimum bir talimatın Axess veya Free kartınızda olması gerekmektedir.
+Kampanya kapsamında Axess, Axess Öğrenci ve Free kartlarınız ile otomatik ödeme talimatı vereceğiniz 1 yeni fatura için 50 TL,2 yeni fatura için 100 TL, 3 yeni fatura için 150 TL, 4 yeni fatura için 200 TL, 5 yeni fatura için 250 TL chip-para kazanabilirsiniz.
+Kampanya müşteri bazındadır. Temmuz ayı boyunca kampanyaya dahil olan kartlarınızla vereceğiniz tüm fatura ödeme talimatlarından en fazla 250 TL chip-para kazanırsınız.
+Kampanya kapsamında kazanacağınız ödül tutarı 2 Ağustos 2024’de kartınıza chip-para olarak yüklenecektir.
+Ödül, sadece yeni vereceğiniz talimatlar için geçerlidir. Kredi kartınızdan verilen otomatik fatura ödeme talimatlarınızı iptal edip yeniden verirseniz veya banka hesabına tanımlı olan fatura ödeme talimatlarınızı iptal edip kredi kartınızdan verirseniz kampanyadan yararlanamazsınız.
+Hesaptan verilen talimatlar kampanyaya dahil değildir.
+Kampanyadan ödül kazanmanız durumunda, ödül yükleme tarihinden itibaren 6 ay içerisinde ilgili otomatik ödeme talimatlarını iptal etmemeniz ve Otomatik Ödeme talimatı verdiğiniz faturaların tahsilatının yukarıda belirtilen kredi kartlarından yapılmış olması gerekmektedir. Aksi takdirde chip-para taahhüt sonunda geri çekilecektir.
+Talimat kapsamında kredi kartından yapılacak fatura ödemelerinde bankanın belirlediği otomatik fatura ödeme faizi uygulanır. Ekstre asgari borcunun son ödeme tarihine kadar hiç ödenmemesi veya kısmi ödenmesi durumunda, faturanın ödenme tarihinden son ödeme tarihine kadar fatura faiz oranı, son ödeme tarihinden borç kapanana kadar ödenmemiş asgari üzerinden fatura (nakit) gecikme faiz oranı ve asgari tutarı aşan kısım üzerinden fatura faiz oranı işletilir.
+Kampanyadan faydalanmaya başlamak için 31 Temmuz 2024'e kadar KAMPANYAYA KATIL butonuna tıklamanız veya FATURAC yazıp 4566’ya SMS göndermeniz yeterli. Kampanya katılımınız, kısa mesajın Akbank sistemine ulaşmasından ve Akbank tarafından kayıt olduğunuz bilgisinin verilmesinden sonra sağlanır.
+Ödül, Akbank müşterilerine Akbank tarafından sağlanan bir faydadır. Enerjisa faturalarından indirim teşkil etmez.
+Katılım için gönderilen SMS’ler; operatörlerin kendi tarifeleri üzerinden ücretlendirilir.
+Bir ay içinde sadece bir fatura kampanyasına dahil olabilirsiniz.
+Akbank T.A.Ş ve Enerjisa kampanyayı durdurma ve değiştirme hakkını saklı tutar.
+
+Soru: Evimin dekorasyonu için mobilya bakıyorum. Önerebileceğin kampanya var mı?
+Cevap: Akbank Vivense Kampanyası
+1 Şubat – 31 Mart 2024 tarihleri arasında "1037VIVENSE4000" davet koduyla Akbank Mobil’den ilk kez Akbanklı olanlar 30 Nisan 2024’e kadar,
+Akbank Kredi Kartlarıyla toplam 15.000 TL ve üzeri Vivense harcamalarına 1.500 TL nakit iade
+Akbank Kredi Kartlarıyla toplam 25.000 TL ve üzeri Vivense harcamalarına 2.500 TL nakit iade
+Akbank Kredi Kartlarıyla toplam 40.000 TL ve üzeri Vivense harcamalarına 4.000 TL nakit iade kazanabiliyor.
+Kampanyadan faydalanmak için "1037VIVENSE4000" davet kodu ile hemen Akbank Mobil’den Akbanklı olun, Vivense harcamalarında 4.000 TL’ye varan nakit iade keyfini çıkarın. "1037VIVENSE4000" davet koduyla Mobilden Akbanklı olmak için hemen tıklayın.
+Kampanya Koşulları
+Kampanya kapsamında 1 Şubat – 31 Mart 2024 tarihleri arasında "1037VIVENSE4000" davet kodu ile Akbank Mobil’den ilk kez Akbanklı olan müşteriler, 1 Şubat – 30 Nisan 2024 tarihleri arasında Akbank Kredi Kartlarıyla Vivense.com ve Vivense Mağazaları’ndan yapacakları toplam 15.000 TL ve üzeri Vivense harcamalarına 1.500 TL nakit iade, toplam 25.000 TL ve üzeri Vivense harcamalarına 2.500 TL nakit iade ve toplam 40.000 TL ve üzeri Vivense harcamalarına 4.000 TL nakit iade kazanacaktır.
+Kampanya sadece Akbank Mobil üzerinden "1037VIVENSE4000" davet kodunu kullanarak yapılan başvurular için geçerlidir.
+Kampanya 1 Şubat – 31 Mart 2024 tarihleri arasında geçerlidir.
+Kampanya kapsamında hak kazanılan nakit iade tutarı Mayıs 2024 ayı içerisinde hak eden müşterinin harcama yaptığı Akbank kredi kartına nakit iade olarak tanımlanacaktır.
+Kampanyadan sadece Akbank Mobil üzerinden ilk kez Akbanklı olanlar yararlanabilir.
+Kampanyadan "1037VIVENSE4000" davet koduyla ilk kez Mobil üzerinden Akbanklı olan herkes yararlanabilecektir. "1037VIVENSE4000" davet kodu girilmeden ilerlenen Akbanklı olma süreçlerinde kampanyaya katılım yapılamayacaktır.
+Mobil üzerinden Akbanklı olmak ve kampanyadan yararlanabilmek için Akbank Mobil uygulamasını indirip, "müşteri olmak istiyorum" butonuna tıklanması ve davet kodu alanına “ 1037VIVENSE4000 ” kodunu yazarak ilerlenip müşteri olunması önemlidir.
+Kampanya sadece bireysel müşterilere özeldir.
+Kampanya farklı bir kampanya ile birleştirilemez.
+Kampanyadan sadece bir kere yararlanılabilir.
+Akbank T.A.Ş. ve Vivense Teknoloji Hizmetleri ve Ticaret A.Ş. her zaman, tek taraflı olarak kampanyayı sürekli veya geçici olarak durdurma, uzatma, Kampanya Koşullarında herhangi bir uyarı olmaksızın değişiklik yapma hakkını saklı tutar.
+
+Soru: Arkadaşım Akbanklı olmak istiyor, bu durumda benim yararlanabileceğim bir kampanya var mı?
+Cevap: Evet, sizin yararlanabileceğiniz bir kampanya mevcut. Kampanyamızın adı Davet Et Kazan. Davet Et Kazan Programında; 3 Haziran – 31 Temmuz 2024 tarihlerinde Akbanklılar kendileri için özel oluşturacakları davet kodunu yakınlarıyla paylaşmaları ve yakınlarının bu davet koduyla mobilden Akbanklı olduktan sonra Kredi Kartı harcaması yapmaları durumunda chip-para kazanacaklar.
+Akbanklılar, 3 Haziran – 31 Temmuz 2024 tarihlerinde oluşturdukları davet kodunu sınırsız sayıda yakınıyla paylaşabilir, bununla beraber kodu kullanarak Akbank Mobil’den Akbanklı olma sürecini başarıyla tamamlayan yakınlarından 300 TL, kredi kartını kullanmaya başlayan yakınlarından 700 TL kazanarak en fazla 10.000 TL chip-para kazanabilir.
+Kampanya Koşulları
+Davet Et Kazan ile davet kodunu yakınları ile paylaşan Akbanklılar, davet koduyla ilk kez Akbank Mobil’den Akbanklı olan yakınları sayesinde chip-paraya hak kazanacaktır.
+Kampanya 3 Haziran – 31 Temmuz 2024 tarihlerinde geçerlidir.
+Akbanklılar davet kodlarına, Akbank Mobil Kampanyalar menüsü, Davet Et Kazan altından ulaşabilirler. Her kod kişiye özeldir, ödül hak kazanımı bu kodlar üzerinden takip edilerek, ödül yüklemeleri yapılır.
+Akbanklılar, kampanyanın geçerli olduğu tarih aralıklarında, davet ettikleri yakınlarının ilk kez Akbanklı olması ile her bir yakınından 300 TL, kredi kartı kullanması ile her bir yakınından 700 TL, toplam 10.000 TL chip-para kazanabilir. Kredi kartı kullanımının ardından verilecek kişi başı 700 TL chip-para davet eden Akbanklının kartına davet edilen kişinin Akbanklı olma sürecini tamamladıktan sonra Akbank Kredi Kartını aktif kullanmaya başlaması akabinde yüklenir.
+Davet kodunu paylaşan Akbanklılar, 10.000 TL’ye varan chip-para kazanımı için, davet ettikleri yakınlarını müşteri olduktan sonra kredi kartını kullanma konusunda bilgilendirmekle yükümlüdür.
+Davet kodunu alan Akbanklılar diledikleri kadar yakınlarıyla davet kodlarını paylaşabilir. En fazla 10.000 TL chip-para kazanabilir.
+Davet kodu ile mobilden Akbanklı olma sürecine başlayan kişiler, süreçlerinin kesilmesi durumunda şubeden veya yarım kalan süreç ile Akbank Mobil üzerinden yeniden Akbanklı Olmak İstiyorum’a girerek müşteri olma sürecini tamamlayabilirler. Bu durumda davet eden Akbanklının ödül hakkı kaybolmaz.
+Davet kodu ile mobilden ilk kez Akbanklı olan yeni müşteriler de Akbank Mobil ‘e giriş yaparak kendi davet kodlarını alabilir, yakınlarını Akbank’a davet ederek 10.000 TL ‘ye varan chip-paradan yararlanabilirler.
+Kampanya kapsamında kazanılan chip-paralar müşterilerin aktif olarak kullandıkları Akbank Kartına ya da Axess veya Wings Kredi Kartına yüklenecektir. Kampanya kapsamında chip-para kazanıldığı anda eğer Kampanyalı Müşteri’nin aktif Akbank Kart, Axess veya Wings Kredi Kartı yoksa chip-para yüklemesi gerçekleşemez.
+Kampanya kodu oluşturabilmek için müşterinin mevcutta aktif Akbank Kart, Axess veya Wings Kredi Kartı olması gerekir. Henüz kartı olmayan ve kampanyaya katılarak kod oluşturmak isteyen müşteri, yeni kart edindikten bir gün sonra kampanya kodu oluşturabilir.
+Kampanya kapsamında davet kodunu paylaşan müşterilerin kazandığı müşteri kazanımı özelindeki 300 TL chip-para, davet koduyla Akbanklı olan müşteri süreci bitirdiği anda davet edenin kartına yüklenecektir.
+Kampanya kapsamında davet kodunu paylaşan müşterilerin kazandığı kredi kartı özelindeki 700 TL chip-para, davet koduyla Akbanklı olan müşterinin kredi kartını ilk kez kullanmasının ardından yüklenecektir. Kazanımına ilişkin Kampanyalı Müşteri’mize sms ile bilgi verilecektir.
+Kampanya kapsamında yüklenen chip-paralar kaybolmayan chip-paradır. Fraud ve Kampanyadan haksız kazanç sağlanması halleri hariç olmak üzere, chip-paranın yüklenmesi ardından geri çekimi olmayacaktır.
+Kampanyadan sadece Akbank personeli olmayan bireysel Akbank müşterileri yararlanabilir. Şahıs firmaları, tüzel müşteriler kampanyadan yararlanamaz.
+Davet Kodunu alanın Akbank Mobil’den müşteri olma başvurusu yapması sonrasında, sürecin Akbank Mobil’den değil, kurye süreci ile tamamlanması halinde, Davet Et Kazan kampanyasından yararlanan müşterinin chip-para yüklemesi, davet kodunu alanın Akbanklı olma sürecini kurye ile başarılı bir şekilde tamamlanması sonrasında gerçekleşir. Kurye ile müşteri olma süreci kampanya tarihlerinin içerisinde tamamlanmayan müşteriler kampanyadan yararlanamaz.
+Akbank Mobil’den müşteri olma hizmeti 18-80 yaş arasındaki kişiler için geçerlidir. Dolayısıyla, kampanyadan faydalanan müşterinin chip para kazanabilmesi için davet ettiği kişinin 18-80 yaş arasında olması gerekmektedir.
+Davet Kodunu alanın kodu 31 Temmuz 2024 tarihine kadar kullanması gerekmektedir. Bu süre geçtikten sonra Davet Kodunu alan kişi, ilgili kod ile Akbank Mobil’den Akbanklı olsa da, Davet Et Kazan kampanyasından yararlanan müşteriye ödül kazandıramaz. Davet Et Kazan kampanyasından yararlanan müşteri, kodun kullanım süresinin 31 Temmuz 2024’e kadar olduğu hususunda davet kodunu alan kişiyi bilgilendirmekle yükümlüdür.
+31 Temmuz 2024 tarihine kadar davet kodu ile Akbanklı olanlar, ödül kazanımının gerçekleşmesi için 20 Ağustos 2024’e kadar Akbank kredi kartlarını kullanmaları gerekmektedir.
+Temmuz ayında davet koduyla mobilden Akbanklı olup kredi kartını Ağustos ayında kullananlar için yüklenecek chip-paralar otomatik olarak yüklenmez. Ağustos ayı sonunda kontrol edilerek yükleme Ağustos ayının son haftası gerçekleştirilir.
+Akbank T.A.Ş. Davet Et Kazan kampanya programı koşul ve şartlarında sunulacağını bildirdiği faydalarda değişiklik yapma ve iptal etme hakkını saklı tutar.
+
+Soru: Davet Kazan kampanyasında Davet Kodu nasıl alınır?
+Cevap: Akbank Mobil > Kampanyalar menüsü altından, Davet Et Kazan kampanyasına girerek kampanya ekranından kişiye özel davet kodunu oluşturabilir.
+
+Soru: Önceki aylarda Davet Et Kazan kampanyasında alınan kodlar geçerli midir?
+Cevap: Yeni kurgumuzla birlikte, tüm müşterilerimizin Akbank Mobil’den yeni kampanya davet kodu alması gerekir.
+
+Soru: Davet Kazan kampanyasındaki davet kodlarıyla arkadaşımı veya yakınımı Akbank Mobil üzerinden Akbanklı olmaları için nasıl davet ederek 10.000 TL’ye varan chip-para kazanabilirim?
+Cevap: Davet kodunu arkadaşınla veya yakınınla paylaştıktan sonra,
+Öncelikle davet edilen kişiler mobilden Akbanklı olma akışında Davet Kodu alanına, davet kodunu girmeli ve müşteri olma sürecinde sözleşme onayına kadar ilerleyip veya şubeden müşteri olma sürecini tamamlamalıdırlar.
+Davet eden müşterilerimiz, davet ettikleri yakını davet koduyla mobilden müşteri olma sürecine başlayıp mobilden veya şubeden Akbanklı olma sürecini tamamladığında 300 TL chip-para kazanır.
+Davet eden müşterilerimiz, davet ettikleri yakını davet koduyla mobilden müşteri olma sürecine başlayıp Akbank müşterisi olduktan sonra kampanya süresinde Akbank kredi kartını aktif kullanmaya başladığında, her bir yakını için 700 TL chip-para daha kazanabilir.
+Davet eden müşterilerimiz, kampanyadan toplamda 10.000 TL’ye varan chip-para ödül kazanabilir.
+Davet kodunu alan kişinin, Mobilden kodla Akbanklı olma sürecini başlattıktan sonra 30 gün içinde Akbanklı olma sürecini tamamlaması kritiktir.
+Soru: Getir kullananlara bir kampanyanız var mı?
+Cevap: Evet, kampanyamız mevcut. Kampanyamızın adı, Mobilden Akbanklı olanlara Getir’de 400 TL indirim!
+1047GETIR davet koduyla mobilden Akbanklı olun, Getir'de geçerli 400 TL indirim kodu kazanın. "1047GETIR" davet kodu ile 28 Haziran – 27 Temmuz 2024 tarihlerinde Akbank Mobil’den ilk kez Akbanklı olanlar 400 TL değerinde Getir indirim kodu kazanıyor. Faydalanmak için "1047GETIR" davet kodu ile hemen Akbank Mobil’den Akbanklı olun, 400 TL değerinde Getir indiriminin keyfini çıkarın.
+Kampanya Koşulları
+Kampanya kapsamında "1047GETIR" davet kodunu kullanarak Akbank Mobil uygulaması üzerinden ilk kez Akbanklı olanlar 400 TL değerinde Getir indirim kodu kazanacaktır.
+Kampanya 28 Haziran – 27 Temmuz 2024 tarihleri arasında geçerlidir.
+Kampanya kapsamında kazanılan 400 TL değerinde Getir indirim kodu sadece www.getir.com web sitesinde ve Getir mobil satış kanalından yapılacak en az minimum 400 TL’lik harcamalarda geçerlidir.
+Kampanyadan Akbank Mobil üzerinden ilk kez Akbanklı olanlar yararlanabilecektir.
+Kampanya sadece Akbank Mobil uygulaması üzerinden "1047GETIR" davet kodunu kullanarak yapılan başvurular için geçerlidir.
+Müşteriler kampanyadan sadece bir kere yararlanılabilecektir.
+Mobil üzerinden Akbanklı olmak ve kampanyadan yararlanabilmek için Akbank Mobil uygulamasını indirip, "müşteri olmak istiyorum" butonuna tıklanması ve davet kodu alanına "1047GETIR" kodunu yazarak ilerlenip müşteri olunması önemlidir. Detaylı bilgi için tıklayın(Bu sayfa yeni pencerede açılacaktır)
+Kampanya kapsamında kazanılan 400 TL değerindeki Getir indirim kodunun kullanım süresi 15 Ağustos 2024 tarih ve saat 23:59’da sona erecektir. Bu tarihten sonra kodlar geçersiz sayılacak ve kullanılamayacaktır.
+Kampanya kapsamında kazanılan 400 TL değerindeki Getir indirim kodu, müşterinin "1047GETIR" davet kodu ile Akbanklı olma süreci tamamlandıktan sonra Akbank tarafından SMS ile Müşteriye gönderilecektir.
+Mobilden müşteri olma aşamasında kurye aracılığı ile işlemlerini tamamlayacak olan müşterilerimiz, 27 Temmuz 2024’e kadar belge işlemleri tamamlanıp evraklar bankaya geldikten sonra kampanyadan yararlanabilecektir. 27 Temmuz 2024’ten sonra belgeleri bankaya ulaşan müşterilerimiz kampanyadan yararlanamayacaktır.
+Getir indirim kodu tek kullanımlıktır, bölünemez.
+Kampanya başka bir kampanya ile birleştirilemez.
+İndirim tutarı karşılığında para iadesi yapılamaz.
+Kampanya kapsamında verilen siparişlerin iptal edilmesi durumunda kampanya geçerlilik süresinin devam etmesi koşuluyla indirim kodu kullanıldığı tarihten itibaren en geç 24 saat içerisinde tekrar kullanılabilecektir.
+Akbank T.A.Ş. ve Getir A.Ş. kampanyayı durdurma, sonlandırma ve kampanya şartlarında değişiklik yapma hakkını saklı tutar.
+Kampanya koşulları ile ilgili konularda Akbank A.Ş. ve Getir A.Ş. kayıtları esas alınacaktır.
+
+
+Soru: Yakın zamanda evlilik planlarım var. Akbank’ın halihazırda mevcut kampanyası var mı?
+Cevap: Elbette, olmaz olur mu. Gençler birbirini sevdiyse çeyizleri Akbank Mobil'de!
+Çekilişle 100.000 TL'lik Teknosa hediye çeki, Philips Airfryer, Xiaomi akıllı robot süpürge ve Dyson kablosuz süpürge kazanma şansı yakalayın. Üstelik mobilden Akbanklı olanlara 5 çekiliş hakkı daha hediye.
+İşlem yaptıkça çekilişle hediye kazanma şansı Akbank Mobil’de!
+Akbank Mobil'den kampanyaya katılın, birbirinden değerli hediyelerden birini kazanma şansını yakalayın. Yapmanız gereken tek şey 13 Haziran 2024 – 31 Temmuz 2024 tarihleri arasında Akbank Mobil’de Senin için menüsünde yer alan Kampanyalar ve Fırsatlar alanından “Akbank Mobil Çeyiz Çekilişi” kampanyasına katılmak ve aşağıdaki koşulları yerine getirerek çekiliş hakkı kazanmak. Daha çok işlem yaparak şansınızı artırabilirsiniz.
+Kampanya Detayları
+Kampanya dönemi sonunda noter huzurunda yapılacak çekilişle 10 Adet 100.000 TL değerinde Teknosa Hediye Kart, 10 Adet Dyson Gen5detect Kablosuz Süpürge, 10 adet Xiaomi Mi Robot Vacuum Mop 2 Ultra Akıllı Siyah Robot Süpürge, 10 adet Philips HD9870/20 Premium Airfryer XXL Beyaz Sıcak Hava Fritözü ödülü verilecektir.
+Kampanya 13 Haziran 2024 – 31 Temmuz 2024 tarihleri arasında geçerlidir.
+Kampanyaya Akbank Mobil’den kayıt olma ana koşulu vardır. Kampanyanın diğer koşulları sağlanmış dahi olsa kampanya katılımı yapılmadan çekiliş hakkı kazanılamaz.
+Kampanyaya katılım mevcut Akbank müşterileri için 5; Akbank müşterisi olmayıp Akbank Mobil’den Akbanklı olan müşteriler için 10 çekiliş hakkı ile sınırlıdır.
+Akbanklı değilseniz;
+Mobilden müşterimiz olup Akbank Mobil’de kampanya detay sayfasında yer alan çekilişe katıl butonuna tıklayarak 5 çekiliş hakkı,
+Akbank Mobil’e giriş yaptıktan sonra ilgili çekiliş kampanyasının detay sayfasında bulunan kampanyaya katıl butonunu tıkladıktan sonra;
+Akbank müşteri numarası ve şifresi ile Akbank Mobil bankacılık uygulamasına giriş yapan bireysel müşterilere 1 çekiliş hakkı,
+Akbank ATM’lerinden QR kod ile para çekme işlemine 1 çekiliş hakkı,
+Akbank Mobil üzerinden yeni Otomatik Fatura Ödeme Talimatı veren bireysel müşterilere 1 çekiliş hakkı,
+Akbank Mobil üzerinden GSM paket yüklemesi gerçekleştiren bireysel müşterilere 1 çekiliş hakkı,
+QR üretebilen POS cihazlarından Akbank QR kod ile ödeme yapan bireysel müşterilere 1 çekiliş hakkı verilecektir.
+Dijitalden müşteri olma süreci ile gelen bir müşteri en fazla 10 çekiliş hakkı kazanabilecektir.
+Akbanklıysanız;
+Akbank Mobil’e giriş yaptıktan sonra ilgili çekiliş kampanyasının detay sayfasında bulunan kampanyaya katıl butonunu tıkladıktan sonra;
+Akbank müşteri numarası ve şifresi ile Akbank Mobil bankacılık uygulamasına giriş yapan bireysel müşterilere 1 çekiliş hakkı,
+Akbank ATM’lerinden QR kod ile para çekme işlemine 1 çekiliş hakkı,
+Akbank Mobil üzerinden yeni Otomatik Fatura Ödeme Talimatı veren bireysel müşterilere 1 çekiliş hakkı,
+Akbank Mobil üzerinden GSM paket yüklemesi gerçekleştiren bireysel müşterilere 1 çekiliş hakkı,
+QR üretebilen POS cihazlarından Akbank QR kod ile ödeme yapan bireysel müşterilere 1 çekiliş hakkı verilecektir.
+Mevcut Akbank müşterilerimizde kampanyaya katılım maksimum 5 çekiliş hakkı ile sınırlıdır.
+Akbank Mobil içinden yapılacak tüm kampanya katılımlarında, kampanyaya katılan müşterilerimizin bankamızda cep telefon numarası ve Ad-Soyad bilgilerinden herhangi birinin eksik olması halinde çekiliş hakkı verilmeyecektir.
+Akbank A.Ş kampanya koşullarında değişiklik yapma hakkını saklı tutar.
+Kampanyaya Akbank personeli dahil değildir.
+Bu kampanya Milli Piyango İdaresi'nin 11.06.2024 tarih ve E-58259698-255.01.02-57615 sayılı izni ile Akbank T. A. Ş. tarafından düzenlenmektedir.
+
+Soru: Araç kiralamam lazım, Akbank’ın bana önerebileceği bir kampanya var mı?
+Cevap: Evet, size önerebileceğimiz bir kampanya şu anda mevcut. Mobilden Akbanklı olanlara TikTak’ta 400 TL hediye puan ve Zorlu PSM’de seçili etkinliklerde %25 bilet indirimi fırsatı!
+"1030TIKTAK400" davet koduyla mobilden Akbanklı olun, anında TikTak’ta geçerli 400 TL hediye puan kodu ve Zorlu PSM’deki seçili etkinliklerde geçerli %25 indirim kazanın. Kampanyamız 5 Haziran – 31 Temmuz 2024 tarihleri arasında geçerlidir.
+"1030TIKTAK400" davet koduyla Mobilden Akbanklı olmak için hemen tıklayın.
+Kampanya Koşulları
+Kampanyadan "1030TIKTAK400" davet kodunu kullanarak Akbank Mobil uygulaması üzerinden ilk kez Akbanklı olanlar faydalanabilecektir.
+Kampanya 05 Haziran – 31 Temmuz 2024 tarihleri arasında "1030TIKTAK400" davet kodu ile mobilden ilgili tüm sözleşme ve formları onaylayarak müşteri edinim sürecini tamamlayıp ilk kez Akbanklı olan müşterilerimiz için geçerlidir.
+Kampanyadan yararlanmaya hak kazanan kişilerin, 05 Haziran – 31 Temmuz 2024 tarihleri arasında mobilden "1030TIKTAK400" kodu ile Akbank müşterisi olduktan sonra 400 TL TikTak hediye puan kodu Akbank T.A.Ş tarafında SMS olarak iletilecektir.
+Mobil üzerinden Akbanklı olmak ve kampanyadan yararlanabilmek için Akbank Mobil uygulamasını indirip, “müşteri olmak istiyorum” butonuna tıklanması ve davet kodu alanına "1030TIKTAK400" kodunu yazarak ilerlenip müşteri olunması önemlidir.
+Davet kodu ile mobilden müşteri olma sürecine başlayan kişilerin, kampanyadan yararlanabilmesi için Bireysel Bankacılık Hizmet Sözleşmesini mobilden veya Şubeden tamamlanması zorunludur.
+Mobilden Akbanklı olma adımında kuryeli sürece dahil olan müşteriler Bireysel Bankacılık Hizmet Sözleşmesi sürecini kampanya tarihleri içerisinde tamamlamazsa kampanyadan kazanım sağlayamaz.
+Kampanya kapsamında kazanılan 400 TL değerindeki TikTak hediye puan kodunun kullanım süresi 31 Ağustos 2024 tarih ve saat 23:59’da sona erecektir. Bu tarihten sonra kodlar geçersiz sayılacak ve kullanılamayacaktır.
+TikTak hediye puan kodu tek kullanımlıktır.
+Müşteriler kampanyadan sadece bir kere yararlanılabilecektir.
+TikTak puan hediye kodu sadece 15 dk ve üstü kiralamalar için geçerlidir.
+Kiralama başlatılırken provizyon ekranında kampanya kodu alanına özel hediye puan kodunu yazıp uygula butonuna basılması gerekmektedir.
+TikTak hediye puan kodu dakikalık ve günlük yapılan kiralamalarda geçerlidir, km paketlerinde, saatlik paket ve TikTak Neo Paketi ile yapılan kiralamalarda geçerli değildir.
+Kazanılan TikTak puan kiralama sonrası puan hesabına otomatik olarak yatırılır. Bu puan başkasına devredilemez, nakde çevrilemez ya da başka bir ürün veya hizmet satın alımında kullanılamaz.
+Bu kampanya, diğer puan veya indirim kampanyalarıyla birleştirilemez.
+Kiralama başlatma ve bitirme işlemleri sadece İstanbul hizmet bölgesi sınırları içerisinde geçerlidir.
+TikTak, üyelik başvurularını kendi kriterlerine göre değerlendirme hakkına sahiptir.
+Kampanya avantajları TikTak ve Akbank T.A.Ş ile karşılıklı iş birliği çerçevesinde sağlanmıştır.
+Akbank T.A.Ş. ve TikTak kampanyayı durdurma, sonlandırma ve kampanya şartlarında değişiklik yapma hakkını saklı tutar.
+Kampanya koşulları ile ilgili konularda Akbank T.A.Ş. ve TikTak kayıtları esas alınacaktır.
+Kampanya koşullarının sağlanması durumunda aşağıda belirtilen Zorlu PSM etkinliklerinde geçerli %25 indirim kodu 72 saat içerisinde TikTak tarafından SMS ile gönderilecektir.
+SMS ile gönderilen kodlar PASSO uygulaması üzerinden aşağıda belirtilen etkinliklere bilet satın alımlarda geçerlidir.
+SMS ile gönderilen kodlar bilet alımı esnasında “TikTak’lılara Özel İndirim” kampanya tipinde geçerlidir.
+SMS ile gönderilen Zorlu PSM etkinliklerinde geçerli %25 indirim kodu tek kullanımlıktır.
+Kampanya kodları sadece seçili etkinliklerde geçerlidir.
+Kampanya sadece aşağıda belirtilen tarihlerdeki etkinliklerde geçerlidir.
+Soru: Arabam için DASK yapmak istiyorum. Akbank’ın önerebileceği kampanya(lar) nelerdir?
+Cevap: DASK’ını Akbank mobilden al, 500 TL’ye varan chip-para kazan!
+15 Temmuz- 15 Ağustos tarihleri arasında Akbank Mobil’den zorunlu deprem sigortası alarak evini depreme karşı güvence altına alırken, ödediğin primin yarısı kadar chip-para kazanma şansını yakala!
+Kampanya Koşulları
+Kampanyadan Akbank mobilden 15 Temmuz 2024 -15 Ağustos 2024 tarihleri DASK sigortası alan müşteriler faydalanabilir.
+DASK sigortası prim tutarının Akbank bireysel kredi kartı ile ödenmesi gereklidir.
+Yeni ve yenileme poliçeler kampanyaya dahildir.
+Kampanyadan sigorta ettiren sıfatı ile prim ödemesini gerçekleştiren kişi faydalanmaya hak kazanır.
+Ödül tutarı, ödenen prim tutarının %50’si kadardır. Bir müşteri kampanya kapsamında en fazla 500 TL ödül kazanabilir.
+Zorunlu deprem sigortası Aksigorta A.Ş. tarafından sunulmaktadır.
+Akbank T.A.Ş. bu kampanyayı değiştirme ve durdurma hakkına sahiptir.
+Ödül yüklemesi Haziran ayının ilk haftasında yapılacaktır.
+Ödül yükleme tarihinde poliçenin aktif olması gereklidir.
+Kampanyaya bireysel kredi kartları dahildir.
+
+Soru: HGS ödemelerimi Akbank ile yapmak istiyorum, bana önerebileceğiniz bir kampanya var mıdır?
+Cevap: Elbette, 1e1 Ayrıcalıklar Dünyası’nda HGS ödemelerinde indirim fırsatı sizi bekliyor.
+Akbank kartları ile yapılan HGS ödemelerinde %50 indirim. 
+
+Kampanya Detayları
+Müşterinin kampanyadan faydalanabilmesi için Akbank Mobil'de yer alan Kampanyalar menüsündeki "1e1 Ayrıcalıklar Dünyası" programı altındaki "HGS Ödemelerinde %50 İndirim" kampanyasına tıklayıp Programa Katıl demesi gerekir. Programa katılım sağlamayan müşteriler kampanyadan faydalanamaz.
+Kampanya 31 Aralık 2024 tarihine kadar geçerlidir.
+Kampanya kapsamında tüm Akbank kartları ile Akbank tarafından alınmış etiketlere yapılacak tüm HGS yüklemelerinden %50 indirim kazanılır.
+İşlem başına en fazla 250 TL indirim kazanılabilir.
+İndirim aylık olarak 250 TL ile sınırlıdır.
+Kampanya tüm Akbank kartlarında geçerlidir.
+Yalnızca HGS yüklemelerinde geçerlidir.
+Aynı gün yapılan tüm işlemler geçerlidir.
+Akbank T.A.Ş kampanya koşullarında, süresinde ve kapsamında değişim yapma hakkına sahiptir.
+
+Soru: Akbank'ın şu anda giyim kategorisinde geçerli bir kampanyası var mı?
+Cevap: Mobilden Akbanklı Olanlara Özel 2.000 TL Boyner İndirimi! kampanyamızı sizler için başlattık. Akbank’tan 2.000 TL Hediye! 1044BOYNER2 kodu ile mobilden Akbanklı olanlara ilk alışverişin %50'si 2.000 TL'ye kadar hediye.
+Kampanya Koşulları
+Kampanyadan 1 Temmuz - 31 Temmuz 2024 tarihleri arasında Akbank Mobil uygulamasını indirip "1044BOYNER2" kodunu kullanarak “Akbanklı olmak istiyorum”* butonu üzerinden ilerleyerek ilk kez mobilden Akbanklı olanlar yararlanabilir.
+“1044BOYNER2” davet kodu ile ilk kez Akbanklı olanlar, Akbank kredi kartları (Axess ve Wings kredi kartları) ile Boyner mağazalarında veya Boyner Online alışverişlerinde yapacakları ilk alışverişlerinin %50’sini toplam 2.000 TL’ye kadar iade alabilirler.
+İlk alışveriş tutarının 4.000 TL ve üzerinde olması durumunda en fazla 2.000 TL, alışveriş tutarının 4.000 TL’nin altında kalması durumunda, harcama yapılan tutarın yarısı kadar iade gerçekleşecektir.
+Kampanyadan sadece 1 Temmuz - 31 Temmuz 2024 tarihlerinde Akbank Mobil uygulaması üzerinden "1044BOYNER2" davet kodunu kullanarak mobilden ilk kez Akbanklı olanlar yararlanabilecektir.
+Kampanya kapsamında kazanılacak olan iade, müşterinin Akbank kredi kartı ile yapacağı Boyner harcamalarının gerçekleştiği ayı takip eden ayın en geç 5. (beşinci) iş gününde müşterilerin harcamayı gerçekleştirdiği karta iade edilecektir.
+Kampanya sadece Akbank kredi kartları ile yapılacak ilk Boyner harcamaları için geçerlidir.
+Müşteriler kampanya kapsamında toplamda en fazla 2.000 TL iade kazanabilir.
+Mobilden müşteri olma aşamasında kurye aracılığı ile işlemlerini tamamlayacak olan müşterilerimiz, müşteri edinimi için gereken belgelerin 31 Temmuz 2024’e kadar tamamlanması ve bankaya ulaştırılmasından sonra kampanyadan yararlanabilecektir. 31 Temmuz 2024’ten sonra belgeleri tamamlanan veya belgeleri bankaya ulaşan müşterilerimiz kampanyadan yararlanamayacaktır.
+Davet kodu ile mobilden müşteri olma sürecine başlayan kişilerin, kampanyadan yararlanabilmesi için Bireysel Bankacılık Hizmet Sözleşmesini [müşteri edinimi sürecinde BBHS haricinde başka bir dokümanın tamamlanması gerekiyorsa burada belirtilmesi uygun olur] kampanya tarihleri içerisinde mobilden veya Şubeden onaylaması / imzalaması zorunludur.
+Belirtilen tarihler arasında mobilden Akbanklı olma sürecine giren ve süreci eksiksiz tamamlayarak ilk kez Akbanklı olan müşterilerimiz veya süreç içerisinde hata almış / şubeye yönlendirilmiş müşterilerimizden, yine belirtilen tarihler arasında şubeden müşteri olma sürecini tamamlayarak ilk kez Akbanklı olan müşterilerimiz yararlanabilir.
+Akbank T.A.Ş. tarafından gerçekleştirilmiş önceki kampanyalarda haksız ödül kullanımları tespit edilenlere Akbank T.A.Ş.’nin kampanyayı uygulamama, bunlarla sınırlı olmaksızın Akbank T.A.Ş.’nin genel olarak kampanyayı durdurma, sona erdirme ve kampanyanın şartlarında değişiklik yapma hakkı saklıdır.
+Kampanya koşulları ile ilgili konularda Akbank T.A.Ş. kayıtları esas alınacaktır.
+Kampanya ile ilgili konularda sorularınız için Akbank T.A.Ş. ile iletişime geçebilirsiniz.
+Daha detaylı bilgi için Akbank’ın websitesini incelemenizi isteriz.
+
+Soru: Bilgisayarımın modelini değiştirmek istiyorum, Akbank’ın bana önerebileceği bir kampanya mevcut mudur?
+Cevap: Akbank’ın tam size göre bir kampanyası mevcut. Mobilden Akbanklı olanlara Teknosa harcamalarında 4.000 TL’ye varan iade!
+"1008TEKNOSA4" davet koduyla mobilden Akbanklı olanlar 31 Ağustos 2024'e kadar Teknosa harcamalarında 4.000 TL'ye varan nakit iade kazanabiliyor.
+6 Haziran – 31 Temmuz 2024 tarihleri arasında “ 1008TEKNOSA4 ” davet kodu ile Akbank Mobil’den ilk kez Akbanklı olanlar 31 Ağustos 2024’e kadar
+Akbank Kredi Kartlarıyla toplam 5.000 TL ve üzeri Teknosa harcamalarına 500 TL nakit iade,
+Akbank Kredi Kartlarıyla toplam 10.000 TL ve üzeri Teknosa harcamalarına 1.000 TL nakit iade,
+Akbank Kredi Kartlarıyla toplam 25.000 TL ve üzeri Teknosa harcamalarına 4.000 TL nakit iade kazanabiliyor.
+Kampanyadan faydalanmak için "1008TEKNOSA4" davet kodu ile hemen Akbank Mobil’den Akbanklı olun, Teknosa harcamalarında 4.000 TL’ye varan nakit iade keyfini çıkarın.
+Kampanya Koşulları
+Kampanya kapsamında 06 Haziran – 31 Temmuz 2024 tarihleri arasında "1008TEKNOSA4" davet kodu ile Akbank Mobil’den ilk kez Akbanklı olan müşteriler, 06 Haziran – 31 Ağustos 2024 tarihleri arasında Akbank Kredi Kartlarıyla Teknosa.com ve Teknosa Mağazaları’ndan yapacakları;
+Toplam 5.000 TL – 9.999,99 TL arası Teknosa harcamaya 500 TL nakit iade,
+Toplam 10.000 TL – 24.999,99 TL arası harcamaya 1.000 TL nakit iade
+Toplam 25.000 TL ve üzeri Teknosa harcamaya 4.000 TL nakit iade kazanacaktır.
+Kampanya sadece Akbank Mobil üzerinden "1008TEKNOSA4" davet kodunu kullanarak yapılan başvurular için geçerlidir.
+Kampanya 06 Haziran – 31 Temmuz 2024 tarihleri arasında geçerlidir.
+Kampanya kapsamında hak kazanılan nakit iade tutarı Eylül ayı içerisinde hak eden müşterinin harcama yaptığı Akbank kredi kartına nakit iade olarak tanımlanacaktır.
+Kampanyadan sadece Akbank Mobil üzerinden ilk kez Akbanklı olanlar yararlanabilir.
+Kampanyadan "1008TEKNOSA4" davet koduyla ilk kez Mobil üzerinden Akbanklı olan herkes yararlanabilecektir. "1008TEKNOSA4" davet kodu girilmeden ilerlenen Akbanklı olma süreçlerinde kampanyaya katılım yapılamayacaktır.
+Mobil üzerinden Akbanklı olmak ve kampanyadan yararlanabilmek için Akbank Mobil uygulamasını indirip, "müşteri olmak istiyorum" butonuna tıklanması ve davet kodu alanına "1008TEKNOSA4" kodunu yazarak ilerlenip müşteri olunması önemlidir.
+Kampanya sadece bireysel müşterilere özeldir.
+Kampanya farklı bir kampanya ile birleştirilemez.
+Kampanyadan sadece bir kere yararlanılabilir.
+Tüketicilerin, bu koşulların herhangi birine veya sürelere uymaması, eksik bilgi ve belge ibraz etmesi, Teknosa indirim kodlarını kaybetmesi halinde başvuru geçersiz sayılır.
+İndirim kodlarının kaybedilmesi halinde Akbank ve Teknosa A.Ş.’nin hiçbir sorumluluğu yoktur.
+Detaylı bilgi için: teknosa.com, akbank.com, 0850 222 55 99, 444 25 25.
+Akbank ve Teknosa İç ve Dış Tic A.Ş. her zaman, tek taraflı olarak kampanyayı sürekli veya geçici olarak durdurma, uzatma, Kampanya Koşullarında herhangi bir uyarı olmaksızın değişiklik yapma hakkını saklı tutar.
+
+Soru: Akbank’ın İstanbulkartlılara bir kampanyası var mı?
+Cevap: Mobilden Akbanklı Olanların İstanbulkart Harcamaları Akbank’tan!
+“1048ISTANBUL” davet kodu ile 1-31 Temmuz 2024 tarihlerinde Akbank Mobil’den ilk kez Akbanklı olanlar yıl sonuna kadar her ay 250 TL değerinde iade kazanıyor. Faydalanmak için “1048ISTANBUL” davet kodu ile hemen Akbank Mobil’den Akbanklı olun, İstanbulkart harcamalarınızı dert etmeyin.
+Kampanya Koşulları
+Kampanyadan 1 - 31 Temmuz 2024 tarihleri arasında "1048ISTANBUL" kodunu kullanarak Akbank Mobil uygulamasını indirip “Akbanklı olmak istiyorum” butonu üzerinden ilerleyerek ilk kez Akbanklı olanlar, 31.12.2024’e kadar Akbank banka ya da Axess, Wings kredi kartları ile online olarak İstanbulkart, Akbank ve Juzdan mobil uygulamalarından yapacakları (Fiziki yöntemlerle gerçekleştirilen para yüklemeleri kampanya kapsamında değildir. Bu yüklemeler için iade gerçekleştirilmeyecektir.) İstanbulkart para yükleme işlemlerinin tamamını, aylık en fazla 250 TL, toplamda 1500 TL iade kazanıyor.
+Kampanyadan sadece 1 - 31 Temmuz 2024 tarihleri arasında Akbank Mobil uygulaması üzerinden "1048ISTANBUL" davet kodunu kullanarak ilk kez Akbanklı olanlar yararlanabilecektir.
+Kampanya kapsamında kazanılacak olan iade, en geç müşterinin Akbank banka ya da Axess, Wings kredi kartları ile yapacağı İstanbulkart para yüklemesinin gerçekleştiği ayı takip eden ayın ilk 10 (on) iş gününde müşterilerin harcamayı gerçekleştirdiği karta iade edilecektir.
+Kampanya sadece İstanbulkart mobil, Akbank Mobil ve Juzdan uygulamalarından Akbank banka ya da Axess, Wings kredi kartları ile yapılacak İstanbulkart para yüklemeleri için geçerlidir.
+İstanbulkart mobil uygulamasından bakiye yüklemek için, “TL yükle” veya “Abonman yükle” butonuna tıklayıp Akbank kartlarından birini ekleyerek para yükleme işlemi gerçekleştirilebilir.
+Müşteriler kampanya kapsamında aylık en fazla 250 TL, toplam en fazla 1.500 TL iade kazanabilir.
+Kampanya kapsamında yapılacak iadeler, en geç para yükleme işlemini takip eden ayın ilk 10 iş günü müşterinin harcama gerçekleştirdiği kartına yapılacaktır.
+Mobilden müşteri olma aşamasında kurye aracılığı ile işlemlerini tamamlayacak olan müşterilerimiz, 31 Temmuz 2024’e kadar belge işlemleri tamamlanıp evraklar bankaya geldikten sonra kampanyadan yararlanabilecektir. 31 Temmuz 2024’ten sonra belgeleri bankaya ulaşan müşterilerimiz kampanyadan yararlanamayacaktır.
+Davet kodu ile mobilden müşteri olma sürecine başlayan kişilerin, kampanyadan yararlanabilmesi için Bireysel Bankacılık Hizmet Sözleşmesini kampanya tarihleri içerisinde mobilden veya Şubeden onaylaması/tamamlanması zorunludur.
+Akbank T.A.Ş. kampanyayı durdurma, sonlandırma ve kampanya şartlarında değişiklik yapma hakkını saklı tutar.
+Kampanya koşulları ile ilgili konularda Akbank T.A.Ş. kayıtları esas alınacaktır.
+Kampanya ile ilgili konularda sorularınız için Akbank T.A.Ş. ile iletişime geçebilirsiniz.
+* Her ay abonman ücreti veya 250 TL'ye kadar yapılacak bakiye yüklemesi iade edilecektir.
+
+Soru: Araç kiralamam lazım, Akbank’ın bana önerebileceği bir kampanya var mı?
+Cevap: Enterprise’da Akbank Mobil’e Özel %30 İndirim Fırsatı! 
+Araç kiralamada %30 indirim kodun Akbank Mobil'de
+Akbank ve Enterprise iş birliği ile araç kiralamalarında %30 indirim kodu Akbank Mobil’de sizleri bekliyor.
+Akbank Mobil
+Kampanya Koşulları
+Müşterinin kampanyadan faydalanabilmesi için Akbank Mobil'de yer alan Kampanyalar menüsündeki "Enterprise'da Araç Kiralamaya %30 İndirim" seçeneğinden kod alınması gerekmektedir.
+Kampanya kapsamında Akbank Mobil’den kodu alan müşterilerimiz için %30 indirim hakkı bulunmaktadır.
+Kampanyamız kişi bazındadır.
+Bankamızın kampanyayı durdurma ve kampanya şartlarında değişiklik yapma hakkına sahip olduğunu hatırlatırız.
+Kampanya kodlarının yenilenme dönemi aylık olup, her ay bir kez kod ve indirim kullanımı kullanılabilecektir.
+İndirim kodları, Enterprise’ın diğer kampanya ve indirim kodları ile birleştirilemez.
+İndirim kodu parça parça kullanılamaz tek seferde kullanılabilir.
+İndirim kodları para ile satılamaz veya paraya çevrilemez.
+Akbank Mobil'den alınan kod sayısı banka tarafından belirlenen limite ulaştığında kampanya durdurulacaktır.
+Akbank T.A.Ş ve Enterprise her zaman, tek taraflı olarak kampanyayı sürekli veya geçici olarak durdurma, uzatma, kampanya koşullarında herhangi bir uyarı olmaksızın değişiklik yapma hakkını saklı tutar.
+Kampanyanın iptal edilmesi durumunda iptal tarihine kadar Akbank Mobil’den alınmış olan kodlar 31.12.2024 tarihine kadar geçerli olacaktır.
+Katılımcılar kampanyaya katılarak bu koşulları eksiksiz kabul etmiş sayılırlar.
+Kampanya sadece bireysel müşterilere özeldir.
 
 **_ PROJECT AKBANK EKITABI BİTİŞİ _**

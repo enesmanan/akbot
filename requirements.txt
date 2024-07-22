@@ -1,4 +1,4 @@
-pandasai==2.2.10
+pandasai==2.2.12
 pandas==1.5.3
 numpy==1.26.4
 seaborn==0.13.0
