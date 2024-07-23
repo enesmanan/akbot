@@ -75,3 +75,7 @@ streamlit run akbot_streamlit.py
 ```
 ---
 
+
+https://github.com/user-attachments/assets/f309b9db-99c0-49ad-9c1c-f63e4cda4329
+
+
