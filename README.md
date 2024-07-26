@@ -2,11 +2,18 @@
 
 This project was developed as the final project for the 7-week Bootcamp jointly organized by Akbank and Patika. 
 
+**Features:**
+- **RAG:** Provides answers to all your Akbank questions
+- **PandasAI:** Delivers the analysis you need from your spending history
+- **Machine Learning:** Predicts next month's prices by category
+- **Campaign Recommendations:** Combines GenAI and rule-based systems to suggest personalized campaigns
+
 ## Technologies Used
 
-- [LangChain](https://python.langchain.com/v0.2/docs/introduction/) - LangChain version: 0.2.5
-- [PandasAI](https://docs.pandas-ai.com/intro) - PandasAI version: 2.2.12
-- [Streamlit](https://streamlit.io/) - Streamlit version: 1.36.0
+- **Frontend:** HTML, CSS, JavaScript, Streamlit
+- **GenAI:** LangChain, OpenAI, PandasAI
+- **Machine Learning:** scikit-learn, XGboost
+- **Database:** SQLite, Chroma
 
 
 ## Architecture
